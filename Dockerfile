@@ -14,8 +14,8 @@ COPY src ./src
 # Create directories for runtime data
 RUN mkdir -p conversations auth_info
 
-# Create non-root user
-RUN useradd -m -u 1000 agente && chown -R agente:agente /app
+# Create non-root user (use 1001 to avoid conflicts with base image)
+RUN useradd -m -u 1001 agente && chown -R agente:agente /app
 USER agente
 
 # Start application

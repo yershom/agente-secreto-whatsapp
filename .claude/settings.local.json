@@ -9,7 +9,9 @@
       "Bash(git commit *)",
       "PowerShell(npm install *)",
       "PowerShell(Copy-Item *)",
-      "PowerShell(npm start *)"
+      "PowerShell(npm start *)",
+      "PowerShell(git remote *)",
+      "PowerShell(git *)"
     ]
   }
 }
