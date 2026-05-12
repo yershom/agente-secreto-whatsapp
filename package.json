@@ -1,0 +1,18 @@
+{
+  "name": "agente-wa",
+  "version": "1.0.0",
+  "description": "WhatsApp conversation logger using Baileys",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["whatsapp", "baileys", "logger"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
