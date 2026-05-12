@@ -41,9 +41,18 @@ conversations/
 npm run dev    # Auto-reload on file changes
 ```
 
+## Docker
+
+**Build and run with Docker Compose:**
+```bash
+docker-compose up --build
+```
+
+Automatically sets up the Node.js app + Caddy reverse proxy with HTTPS.
+
 ## Deployment
 
-See `CLAUDE.md` for deployment instructions to Ubuntu/Oracle Cloud.
+See `CLAUDE.md` for detailed deployment instructions to Ubuntu/Oracle Cloud with Docker.
 
 ## Note
 

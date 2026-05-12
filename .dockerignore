@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.env
+.env.local
+.DS_Store
+conversations
+auth_info
+caddy_data
+caddy_config
+*.md
+.claude
+.vscode
+.idea

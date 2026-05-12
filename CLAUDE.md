@@ -95,17 +95,71 @@ Each conversation folder contains:
 - **Message text**: Extracts from `conversation`, `extendedTextMessage`, or marks as `[Archivo adjunto]` if no text
 - **No framework overhead**: Pure Node.js with minimal dependencies keeps the app lightweight and fast
 
-## Deployment on Ubuntu/Oracle Cloud
+## Deployment on Ubuntu/Oracle Cloud with Docker
 
-Before deploying to `gedevops.site`:
-1. Clone repository, run `npm install`
-2. Create `.env` file from `.env.example`
-3. Run once locally or on server to generate QR and authenticate
-4. Set up process manager (PM2, systemd, or similar) to keep app running
-5. Ensure `conversations/` directory has write permissions
-6. Consider log rotation for large `chat.txt` files
+### Docker Setup
+
+**Build and run locally:**
+```bash
+docker-compose up --build
+```
+
+**Run in background:**
+```bash
+docker-compose up -d
+```
+
+**View logs:**
+```bash
+docker-compose logs -f agente-wa
+```
+
+### Deployment Steps
+
+1. **Clone and configure:**
+   ```bash
+   git clone [repo-url]
+   cd AgenteWA
+   cp .env.example .env
+   ```
+
+2. **Update Caddyfile** with your domain:
+   - Replace `gedevops.site` with actual domain
+   - Configure DNS provider if using DNS challenge for Let's Encrypt
+
+3. **Start services:**
+   ```bash
+   docker-compose up -d
+   ```
+
+4. **First authentication:**
+   - Logs display QR code on first run
+   - SSH to server: `docker-compose logs agente-wa`
+   - Scan QR with phone
+   - Credentials saved to `auth_info/` (persistent volume)
+
+5. **Verify:**
+   - Check `conversations/` folder for logged messages
+   - Access app via `https://gedevops.site` if configured
+
+### Production Considerations
+
+- **Volumes**: `conversations/` and `auth_info/` persist between restarts
+- **HTTPS**: Caddy auto-renews Let's Encrypt certificates
+- **Logs**: Docker logs retained; consider log rotation for large deployments
+- **Updates**: Pull changes, rebuild container: `docker-compose up --build -d`
+- **Backup**: Regular backups of `conversations/` folder recommended
+
+### Docker Files
+
+- `Dockerfile` — Builds Node.js app image with slim base
+- `docker-compose.yml` — Orchestrates app + Caddy reverse proxy
+- `Caddyfile` — Caddy configuration for HTTPS + reverse proxy
+- `.dockerignore` — Excludes non-essential files from build
 
 ## Related Resources
 
 - [Baileys GitHub](https://github.com/WhiskeySockets/Baileys) — WhatsApp Web API client
+- [Docker Compose](https://docs.docker.com/compose/) — Container orchestration
+- [Caddy](https://caddyserver.com/) — Reverse proxy with auto HTTPS
 - Oracle Cloud documentation for Ubuntu networking/storage
