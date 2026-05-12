@@ -1,4 +1,5 @@
 import { default as makeWASocket, useMultiFileAuthState } from '@whiskeysockets/baileys';
+import qrcode from 'qrcode-terminal';
 import { saveMessage, saveAttachment } from './storage.js';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -12,44 +13,59 @@ export async function startWhatsApp() {
 
   const sock = makeWASocket({
     auth: state,
-    printQRInTerminal: true
+    defaultQueryTimeoutMs: 60_000
   });
 
   sock.ev.on('connection.update', (update) => {
-    const { connection, lastDisconnect } = update;
+    const { connection, lastDisconnect, qr } = update;
+
+    if (qr) {
+      console.log('\n\n📱 📱 📱 ESCANEA ESTE CÓDIGO QR CON WHATSAPP 📱 📱 📱\n');
+      qrcode.generate(qr, { small: true });
+      console.log('\n');
+    }
+
     if (connection === 'close') {
-      const shouldReconnect = lastDisconnect?.error?.output?.statusCode !== 401;
-      console.log('Conexión cerrada. Reconectando...', shouldReconnect);
-      if (shouldReconnect) {
-        startWhatsApp();
+      const statusCode = lastDisconnect?.error?.output?.statusCode;
+      const shouldReconnect = statusCode !== 401;
+
+      if (statusCode === 401) {
+        console.log('❌ Sesión expirada. Por favor ejecuta nuevamente para generar un nuevo QR.');
+      } else {
+        console.log(`⚠️ Desconectado (código: ${statusCode}). Reconectando en 3s...`);
+        if (shouldReconnect) {
+          setTimeout(() => startWhatsApp(), 3000);
+        }
       }
     } else if (connection === 'open') {
-      console.log('✓ Conectado a WhatsApp');
+      console.log('\n✅ ✅ ✅ ¡CONECTADO A WHATSAPP! ✅ ✅ ✅\n');
+      console.log('Registrando conversaciones en: ./conversations/');
+    } else if (connection === 'connecting') {
+      console.log('⏳ Conectando...');
     }
   });
 
   sock.ev.on('creds.update', saveCreds);
 
   sock.ev.on('messages.upsert', async (m) => {
-    const msg = m.messages[0];
-    if (!msg.message) return;
+    try {
+      const msg = m.messages[0];
+      if (!msg.message) return;
 
-    const contact = msg.key.remoteJid.split('@')[0];
-    const sender = msg.key.fromMe ? 'Yo' : (msg.pushName || contact);
-    const text = msg.message.conversation || msg.message.extendedTextMessage?.text || '[Archivo adjunto]';
+      const contact = msg.key.remoteJid.split('@')[0];
+      const sender = msg.key.fromMe ? 'Yo' : (msg.pushName || contact);
+      const text = msg.message.conversation || msg.message.extendedTextMessage?.text || '[Archivo adjunto]';
 
-    saveMessage(contact, sender, text);
+      console.log(`📝 [${contact}] ${sender}: ${text.substring(0, 60)}`);
+      saveMessage(contact, sender, text);
 
-    // Procesar adjuntos si existen
-    if (msg.message.imageMessage || msg.message.videoMessage || msg.message.documentMessage) {
-      try {
+      if (msg.message.imageMessage || msg.message.videoMessage || msg.message.documentMessage) {
         const media = msg.message.imageMessage || msg.message.videoMessage || msg.message.documentMessage;
         const filename = media.filename || `${Date.now()}_${media.mimetype?.split('/')[1] || 'file'}`;
-        // La descarga de media requiere procesamiento adicional
-        console.log(`Adjunto detectado: ${filename} (procesamiento manual requerido)`);
-      } catch (e) {
-        console.error('Error procesando adjunto:', e);
+        console.log(`📎 Adjunto detectado en ${contact}: ${filename}`);
       }
+    } catch (e) {
+      console.error('Error procesando mensaje:', e.message);
     }
   });
 

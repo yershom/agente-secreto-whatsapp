@@ -95,6 +95,23 @@ Each conversation folder contains:
 - **Message text**: Extracts from `conversation`, `extendedTextMessage`, or marks as `[Archivo adjunto]` if no text
 - **No framework overhead**: Pure Node.js with minimal dependencies keeps the app lightweight and fast
 
+## Troubleshooting
+
+### Connection Issues (Error 405, Connection Failures)
+Baileys may reject connections from certain IPs/locations. This is common in development.
+
+**Solutions:**
+1. **Test on production server** (recommended) — Oracle Cloud IPs have better WhatsApp acceptance
+2. **Try from different network** — Home internet vs corporate/VPN may have different results
+3. **Wait and retry** — WhatsApp sometimes blocks IPs temporarily
+4. **Check auth_info folder** — If it exists, delete it to force a fresh QR:
+   ```bash
+   rm -rf auth_info/
+   npm start
+   ```
+
+The app will **reliably work** once authenticated, even if initial connection is difficult.
+
 ## Deployment on Ubuntu/Oracle Cloud with Docker
 
 ### Docker Setup
