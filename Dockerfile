@@ -11,8 +11,9 @@ RUN npm ci --only=production
 # Copy source code
 COPY src ./src
 
-# Create directories for runtime data
-RUN mkdir -p conversations auth_info
+# Create directories with correct permissions BEFORE changing user
+RUN mkdir -p conversations auth_info .wwebjs_cache && \
+    chmod 777 conversations auth_info .wwebjs_cache
 
 # Create non-root user (use 1001 to avoid conflicts with base image)
 RUN useradd -m -u 1001 agente && chown -R agente:agente /app
