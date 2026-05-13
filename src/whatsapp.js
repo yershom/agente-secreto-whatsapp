@@ -1,78 +1,66 @@
-import { default as makeWASocket, useMultiFileAuthState } from '@whiskeysockets/baileys';
+import { Client, LocalAuth } from 'wa-web.js';
 import qrcode from 'qrcode-terminal';
-import { saveMessage, saveAttachment } from './storage.js';
+import { saveMessage } from './storage.js';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// Fija versión estable de WhatsApp Web que funciona con Baileys
-const WA_VERSION = [2, 3000, 1019531309];
-
 export async function startWhatsApp() {
-  const { state, saveCreds } = await useMultiFileAuthState(
-    path.join(__dirname, '..', 'auth_info')
-  );
-
-  const sock = makeWASocket({
-    auth: state,
-    defaultQueryTimeoutMs: 60_000,
-    version: WA_VERSION,
-    browser: ['Ubuntu', 'Chrome', '22.04.4']
+  const client = new Client({
+    authStrategy: new LocalAuth({
+      dataPath: path.join(__dirname, '..', 'auth_info')
+    })
   });
 
-  sock.ev.on('connection.update', (update) => {
-    const { connection, lastDisconnect, qr } = update;
-
-    if (qr) {
-      console.log('\n\n📱 📱 📱 ESCANEA ESTE CÓDIGO QR CON WHATSAPP 📱 📱 📱\n');
-      qrcode.generate(qr, { small: true });
-      console.log('\n');
-    }
-
-    if (connection === 'close') {
-      const statusCode = lastDisconnect?.error?.output?.statusCode;
-      const shouldReconnect = statusCode !== 401;
-
-      if (statusCode === 401) {
-        console.log('❌ Sesión expirada. Por favor ejecuta nuevamente para generar un nuevo QR.');
-      } else {
-        console.log(`⚠️ Desconectado (código: ${statusCode}). Reconectando en 3s...`);
-        if (shouldReconnect) {
-          setTimeout(() => startWhatsApp(), 3000);
-        }
-      }
-    } else if (connection === 'open') {
-      console.log('\n✅ ✅ ✅ ¡CONECTADO A WHATSAPP! ✅ ✅ ✅\n');
-      console.log('Registrando conversaciones en: ./conversations/');
-    } else if (connection === 'connecting') {
-      console.log('⏳ Conectando...');
-    }
+  client.on('qr', (qr) => {
+    console.log('\n\n📱 📱 📱 ESCANEA ESTE CÓDIGO QR CON WHATSAPP 📱 📱 📱\n');
+    qrcode.generate(qr, { small: true });
+    console.log('\n');
   });
 
-  sock.ev.on('creds.update', saveCreds);
+  client.on('ready', () => {
+    console.log('\n✅ ✅ ✅ ¡CONECTADO A WHATSAPP! ✅ ✅ ✅\n');
+    console.log('Registrando conversaciones en: ./conversations/');
+  });
 
-  sock.ev.on('messages.upsert', async (m) => {
+  client.on('message', async (msg) => {
     try {
-      const msg = m.messages[0];
-      if (!msg.message) return;
+      const contact = await msg.getContact();
+      const sender = msg.from.includes('@g.us')
+        ? contact.name || msg.from.split('@')[0]
+        : msg.fromMe
+          ? 'Yo'
+          : contact.name || msg.from.split('@')[0];
 
-      const contact = msg.key.remoteJid.split('@')[0];
-      const sender = msg.key.fromMe ? 'Yo' : (msg.pushName || contact);
-      const text = msg.message.conversation || msg.message.extendedTextMessage?.text || '[Archivo adjunto]';
+      const text = msg.body || '[Archivo adjunto]';
 
-      console.log(`📝 [${contact}] ${sender}: ${text.substring(0, 60)}`);
-      saveMessage(contact, sender, text);
+      const chatId = msg.from.split('@')[0];
+      console.log(`📝 [${chatId}] ${sender}: ${text.substring(0, 60)}`);
+      saveMessage(chatId, sender, text);
 
-      if (msg.message.imageMessage || msg.message.videoMessage || msg.message.documentMessage) {
-        const media = msg.message.imageMessage || msg.message.videoMessage || msg.message.documentMessage;
-        const filename = media.filename || `${Date.now()}_${media.mimetype?.split('/')[1] || 'file'}`;
-        console.log(`📎 Adjunto detectado en ${contact}: ${filename}`);
+      // Media detection
+      if (msg.hasMedia) {
+        try {
+          const media = await msg.downloadMedia();
+          console.log(`📎 Adjunto detectado en ${chatId}: ${media.filename || media.mimetype}`);
+        } catch (e) {
+          console.log(`📎 Adjunto no descargable en ${chatId}`);
+        }
       }
     } catch (e) {
       console.error('Error procesando mensaje:', e.message);
     }
   });
 
-  return sock;
+  client.on('disconnected', (reason) => {
+    console.log(`❌ Desconectado: ${reason}`);
+  });
+
+  client.on('auth_failure', () => {
+    console.log('❌ Autenticación fallida. Elimina auth_info/ e intenta nuevamente.');
+  });
+
+  await client.initialize();
+  return client;
 }

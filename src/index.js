@@ -6,12 +6,12 @@ import { startWhatsApp } from './whatsapp.js';
 const PORT = process.env.PORT || 3000;
 
 async function main() {
-  console.log('🚀 Iniciando AgenteWA...');
+  console.log('🚀 Iniciando AgenteWA con wa-web.js...');
 
   initializeStorage();
   console.log('✓ Almacenamiento inicializado');
 
-  // Servidor HTTP simple para health checks y Caddy reverse proxy
+  // Servidor HTTP simple para health checks
   const server = http.createServer((req, res) => {
     if (req.url === '/health') {
       res.writeHead(200, { 'Content-Type': 'application/json' });
@@ -22,7 +22,7 @@ async function main() {
         app: 'AgenteWA',
         version: '1.0.0',
         status: 'running',
-        description: 'WhatsApp conversation logger'
+        description: 'WhatsApp conversation logger (wa-web.js)'
       }));
     }
   });
