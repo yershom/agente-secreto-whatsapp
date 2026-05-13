@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "wa-web.js": "^1.25.0",
+    "whatsapp-web.js": "^1.25.0",
     "dotenv": "^16.3.1",
     "qrcode-terminal": "^0.12.0"
   }

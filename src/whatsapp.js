@@ -1,4 +1,4 @@
-import { Client, LocalAuth } from 'wa-web.js';
+import { Client, LocalAuth } from 'whatsapp-web.js';
 import qrcode from 'qrcode-terminal';
 import { saveMessage } from './storage.js';
 import path from 'path';
