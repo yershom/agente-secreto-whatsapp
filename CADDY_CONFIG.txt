@@ -1,0 +1,92 @@
+================================================================================
+CONFIGURACIÓN PARA INTEGRAR AGENTEWHATSAPP EN TU CADDY EXISTENTE
+================================================================================
+
+Agrega esta sección a tu Caddyfile (/etc/caddy/Caddyfile):
+
+================================================================================
+# Agente WhatsApp (Node.js en Docker)
+gedevops.site/wa* {
+    reverse_proxy localhost:3000
+}
+================================================================================
+
+NOTA: Asegúrate de mantener tu configuración de seguridad actual:
+- headers (Strict-Transport-Security, X-Frame-Options, etc.)
+- fail2ban para bloquear bots
+- UFW firewall
+
+EJEMPLO COMPLETO (si quieres agregar las reglas de seguridad a /wa):
+
+gedevops.site {
+    # --- Excepción: Meta Webhook ---
+    @meta_webhook {
+        path /webhook
+    }
+
+    # --- Bloqueo básico de bots (excepto webhook) ---
+    @badbots {
+        not path /webhook
+        header User-Agent "*bot*"
+        header User-Agent "*crawler*"
+        header User-Agent "*spider*"
+        header User-Agent "*scan*"
+        header User-Agent "curl*"
+        header User-Agent "python*"
+        header User-Agent "wget*"
+    }
+    respond @badbots 403
+
+    # --- Reverse Proxy FastAPI ---
+    reverse_proxy localhost:8000
+
+    # --- Agente WhatsApp ---
+    handle /wa* {
+        reverse_proxy localhost:3000
+    }
+
+    # --- Seguridad ---
+    encode gzip zstd
+    header {
+        Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+        X-Frame-Options "DENY"
+        X-Content-Type-Options "nosniff"
+        Referrer-Policy "strict-origin-when-cross-origin"
+        Permissions-Policy "geolocation=(), microphone=(), camera=()"
+    }
+
+    log {
+        output file /var/log/caddy/gedevops.log
+        format json
+    }
+}
+
+================================================================================
+PASOS EN TU SERVIDOR:
+================================================================================
+
+1. Actualizar docker-compose.yml:
+   git pull origin main
+
+2. Detener containers si existen:
+   docker-compose down
+
+3. Iniciar agente-wa (solo Node.js):
+   docker-compose up -d
+
+4. Verificar que Node corre en puerto 3000:
+   docker logs agente-wa
+   curl localhost:3000
+
+5. Editar tu Caddyfile:
+   sudo nano /etc/caddy/Caddyfile
+   (agregar la sección de /wa*)
+
+6. Recargar Caddy:
+   sudo systemctl reload caddy
+
+7. Verificar logs:
+   docker logs -f agente-wa
+   sudo journalctl -u caddy -f
+
+================================================================================

@@ -114,16 +114,19 @@ The app will **reliably work** once authenticated, even if initial connection is
 
 ## Deployment on Ubuntu/Oracle Cloud with Docker
 
-### Docker Setup
+### Architecture
 
-**Build and run locally:**
-```bash
-docker-compose up --build
+AgenteWA runs as a **Node.js container on port 3000** and is proxied by your existing **Caddy reverse proxy** on the host. This maintains your server security configuration (fail2ban, UFW, headers, etc.).
+
+```
+Internet (HTTPS) → Caddy (host:80,443) → Docker (localhost:3000)
 ```
 
-**Run in background:**
+### Docker Setup
+
+**Build and run:**
 ```bash
-docker-compose up -d
+docker-compose up -d --build
 ```
 
 **View logs:**
@@ -131,47 +134,63 @@ docker-compose up -d
 docker-compose logs -f agente-wa
 ```
 
+**Stop:**
+```bash
+docker-compose down
+```
+
 ### Deployment Steps
 
 1. **Clone and configure:**
    ```bash
-   git clone [repo-url]
-   cd AgenteWA
+   git clone https://github.com/yershom/agente-secreto-whatsapp.git
+   cd agente-secreto-whatsapp
    cp .env.example .env
    ```
 
-2. **Update Caddyfile** with your domain:
-   - Replace `gedevops.site` with actual domain
-   - Configure DNS provider if using DNS challenge for Let's Encrypt
-
-3. **Start services:**
+2. **Start container:**
    ```bash
    docker-compose up -d
    ```
 
+3. **Configure Caddy** (on host, not in Docker):
+   - Edit your Caddyfile: `/etc/caddy/Caddyfile`
+   - Add this block to your `gedevops.site` section:
+     ```caddy
+     handle /wa* {
+         reverse_proxy localhost:3000
+     }
+     ```
+   - Reload Caddy: `sudo systemctl reload caddy`
+   - See `CADDY_CONFIG.txt` for complete example
+
 4. **First authentication:**
-   - Logs display QR code on first run
-   - SSH to server: `docker-compose logs agente-wa`
-   - Scan QR with phone
+   - Check logs: `docker logs agente-wa`
+   - Look for QR code in output
+   - Scan QR with phone to authenticate
    - Credentials saved to `auth_info/` (persistent volume)
 
 5. **Verify:**
-   - Check `conversations/` folder for logged messages
-   - Access app via `https://gedevops.site` if configured
+   - Health check: `curl https://gedevops.site/wa/health`
+   - Check logs: `docker logs -f agente-wa`
+   - Conversations saved in: `./conversations/`
 
 ### Production Considerations
 
-- **Volumes**: `conversations/` and `auth_info/` persist between restarts
-- **HTTPS**: Caddy auto-renews Let's Encrypt certificates
-- **Logs**: Docker logs retained; consider log rotation for large deployments
-- **Updates**: Pull changes, rebuild container: `docker-compose up --build -d`
-- **Backup**: Regular backups of `conversations/` folder recommended
+- **Security**: Node runs in unprivileged container (UID 1001), no direct port exposure
+- **Volumes**: `conversations/` and `auth_info/` persist between restarts (host filesystem)
+- **HTTPS**: Handled by your existing Caddy (auto-renewal, headers, etc.)
+- **Firewall**: UFW rules unchanged (only 22, 443 exposed)
+- **fail2ban**: Continues protecting with your existing rules
+- **Logs**: Available via `docker logs` and Caddy logs
+- **Updates**: `git pull` → `docker-compose up --build -d`
+- **Backup**: Regular backups of `./conversations/` folder recommended
 
-### Docker Files
+### Files
 
-- `Dockerfile` — Builds Node.js app image with slim base
-- `docker-compose.yml` — Orchestrates app + Caddy reverse proxy
-- `Caddyfile` — Caddy configuration for HTTPS + reverse proxy
+- `Dockerfile` — Builds Node.js app (no Caddy, no ports exposed)
+- `docker-compose.yml` — Node.js service only (port 3000 for Caddy proxy)
+- `CADDY_CONFIG.txt` — Example configuration to add to your Caddyfile
 - `.dockerignore` — Excludes non-essential files from build
 
 ## Related Resources
