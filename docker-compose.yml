@@ -15,8 +15,6 @@ services:
     environment:
       - NODE_ENV=production
       - PORT=3000
-    # Permisos para escribir en volúmenes
-    user: "1001:1001"
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
       interval: 30s
