@@ -6,6 +6,9 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
+// Fija versión estable de WhatsApp Web que funciona con Baileys
+const WA_VERSION = [2, 3000, 1019531309];
+
 export async function startWhatsApp() {
   const { state, saveCreds } = await useMultiFileAuthState(
     path.join(__dirname, '..', 'auth_info')
@@ -13,7 +16,9 @@ export async function startWhatsApp() {
 
   const sock = makeWASocket({
     auth: state,
-    defaultQueryTimeoutMs: 60_000
+    defaultQueryTimeoutMs: 60_000,
+    version: WA_VERSION,
+    browser: ['Ubuntu', 'Chrome', '22.04.4']
   });
 
   sock.ev.on('connection.update', (update) => {
