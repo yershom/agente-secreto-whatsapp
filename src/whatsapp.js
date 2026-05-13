@@ -28,15 +28,30 @@ export async function startWhatsApp() {
   client.on('message', async (msg) => {
     try {
       const contact = await msg.getContact();
-      const sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
+      const chat = await msg.getChat();
 
-      // Usar nombre del contacto para la carpeta, si no hay usar número
-      let folderName = contact.name || msg.from.split('@')[0];
+      // Detectar si es un grupo
+      const isGroup = chat.isGroup;
+      let folderName;
+      let sender;
+
+      if (isGroup) {
+        // En grupos: usar nombre del grupo
+        folderName = chat.name || msg.from.split('@')[0];
+        sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
+      } else {
+        // En chats 1a1: usar nombre del contacto
+        folderName = contact.name || msg.from.split('@')[0];
+        sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
+      }
+
+      // Limpiar nombre de carpeta
       folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 
       const text = msg.body || '[Archivo adjunto]';
+      const type = isGroup ? '👥' : '💬';
 
-      console.log(`📝 [${folderName}] ${sender}: ${text.substring(0, 60)}`);
+      console.log(`${type} 📝 [${folderName}] ${sender}: ${text.substring(0, 60)}`);
       saveMessage(folderName, sender, text);
 
       // Media detection
