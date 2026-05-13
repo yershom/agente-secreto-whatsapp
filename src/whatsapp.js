@@ -67,7 +67,13 @@ export async function startWhatsApp() {
     }),
     puppeteer: {
       headless: true,
-      args: ['--no-sandbox', '--disable-setuid-sandbox']
+      executablePath: '/usr/bin/chromium',  // Usar Chromium del sistema
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-dev-shm-usage',
+        '--disable-gpu'
+      ]
     },
     protocolTimeout: 180000  // 3 minutos para descargas lentas
   });
