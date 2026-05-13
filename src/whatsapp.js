@@ -15,7 +15,7 @@ export async function startWhatsApp() {
   });
 
   client.on('qr', (qr) => {
-    console.log('\n\n📱 📱 📱 ESCANEA ESTE CÓDIGO QR CON WHATSAPP 📱 📱 📱\n');
+    console.log('\n\n📱 📱 📱 ESCANEA ESTE CÓDIGO QR CON WHATSAPP COMO ADMINISTRADOR DEL BOT 📱 📱\n');
     qrcode.generate(qr, { small: true });
     console.log('\n');
   });
@@ -43,9 +43,15 @@ export async function startWhatsApp() {
       if (msg.hasMedia) {
         try {
           const media = await msg.downloadMedia();
-          console.log(`📎 Adjunto detectado en ${folderName}: ${media.filename || media.mimetype}`);
+          if (media) {
+            // Guardar archivo adjunto
+            const { saveAttachment } = await import('./storage.js');
+            const filename = media.filename || `${Date.now()}.${media.mimetype.split('/')[1]}`;
+            await saveAttachment(folderName, filename, Buffer.from(media.data, 'base64'));
+            console.log(`📎 Adjunto guardado en ${folderName}: ${filename}`);
+          }
         } catch (e) {
-          console.log(`📎 Adjunto no descargable en ${folderName}`);
+          console.log(`⚠️ No se pudo descargar adjunto en ${folderName}: ${e.message}`);
         }
       }
     } catch (e) {
@@ -54,13 +60,33 @@ export async function startWhatsApp() {
   });
 
   client.on('disconnected', (reason) => {
-    console.log(`❌ Desconectado: ${reason}`);
+    console.log(`\n❌ ❌ ❌ Desconectado: ${reason} ❌ ❌ ❌\n`);
+    console.log('Reconectando en 5 segundos...');
+    setTimeout(() => {
+      console.log('Reintentando conexión...');
+      client.initialize().catch(e => console.error('Error reconectando:', e.message));
+    }, 5000);
   });
 
-  client.on('auth_failure', () => {
-    console.log('❌ Autenticación fallida. Elimina auth_info/ e intenta nuevamente.');
+  client.on('auth_failure', (msg) => {
+    console.log(`\n❌ ❌ ❌ Autenticación fallida ❌ ❌ ❌`);
+    console.log(`Motivo: ${msg}`);
+    console.log('Por favor, elimina auth_info/ e intenta nuevamente:\n');
+    console.log('  rm -rf auth_info/ .wwebjs_cache/');
+    console.log('  npm start\n');
   });
 
-  await client.initialize();
+  client.on('change_state', (state) => {
+    console.log(`📡 Estado: ${state}`);
+  });
+
+  try {
+    await client.initialize();
+    console.log('✓ Cliente wa-web.js inicializado');
+  } catch (error) {
+    console.error('Error inicializando cliente:', error.message);
+    throw error;
+  }
+
   return client;
 }
