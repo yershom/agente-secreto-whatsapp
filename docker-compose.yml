@@ -6,9 +6,16 @@ services:
     ports:
       - "3000:3000"
     volumes:
+      # Bind mounts para almacenamiento persistente en el host
       - ./conversations:/app/conversations
       - ./auth_info:/app/auth_info
       - ./.env:/app/.env:ro
     environment:
       - NODE_ENV=production
       - PORT=3000
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

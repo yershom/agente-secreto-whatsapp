@@ -28,25 +28,24 @@ export async function startWhatsApp() {
   client.on('message', async (msg) => {
     try {
       const contact = await msg.getContact();
-      const sender = msg.from.includes('@g.us')
-        ? contact.name || msg.from.split('@')[0]
-        : msg.fromMe
-          ? 'Yo'
-          : contact.name || msg.from.split('@')[0];
+      const sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
+
+      // Usar nombre del contacto para la carpeta, si no hay usar número
+      let folderName = contact.name || msg.from.split('@')[0];
+      folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 
       const text = msg.body || '[Archivo adjunto]';
 
-      const chatId = msg.from.split('@')[0];
-      console.log(`📝 [${chatId}] ${sender}: ${text.substring(0, 60)}`);
-      saveMessage(chatId, sender, text);
+      console.log(`📝 [${folderName}] ${sender}: ${text.substring(0, 60)}`);
+      saveMessage(folderName, sender, text);
 
       // Media detection
       if (msg.hasMedia) {
         try {
           const media = await msg.downloadMedia();
-          console.log(`📎 Adjunto detectado en ${chatId}: ${media.filename || media.mimetype}`);
+          console.log(`📎 Adjunto detectado en ${folderName}: ${media.filename || media.mimetype}`);
         } catch (e) {
-          console.log(`📎 Adjunto no descargable en ${chatId}`);
+          console.log(`📎 Adjunto no descargable en ${folderName}`);
         }
       }
     } catch (e) {
