@@ -11,6 +11,7 @@ async function downloadHistoryOnce(client) {
   try {
     const chats = await client.getChats();
     console.log(`📊 Encontrados ${chats.length} chats. Descargando historial...`);
+    console.log('⏱️  Esto puede tomar unos minutos...\n');
 
     for (let i = 0; i < chats.length; i++) {
       const chat = chats[i];
@@ -26,11 +27,11 @@ async function downloadHistoryOnce(client) {
       folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 
       try {
-        // Obtener mensajes (WhatsApp Web limita a ~100 mensajes)
-        const messages = await chat.fetchMessages({ limit: 100 });
+        // Obtener últimos 50 mensajes (más rápido)
+        const messages = await chat.fetchMessages({ limit: 50 });
 
         if (messages.length > 0) {
-          console.log(`  📁 ${folderName}: ${messages.length} mensajes`);
+          console.log(`  [${i + 1}/${chats.length}] 📁 ${folderName}: ${messages.length} mensajes`);
 
           // Guardar en orden (más antiguos primero)
           for (const msg of messages.reverse()) {
@@ -40,33 +41,22 @@ async function downloadHistoryOnce(client) {
               const text = msg.body || '[Archivo adjunto]';
 
               saveMessage(folderName, sender, text);
-
-              // Descargar adjuntos si existen
-              if (msg.hasMedia) {
-                try {
-                  const media = await msg.downloadMedia();
-                  if (media) {
-                    const filename = media.filename || `${Date.now()}.${media.mimetype.split('/')[1]}`;
-                    const { saveAttachment } = await import('./storage.js');
-                    await saveAttachment(folderName, filename, Buffer.from(media.data, 'base64'));
-                  }
-                } catch (e) {
-                  // Ignorar errores de descarga de media en historial
-                }
-              }
+              // NO descargar adjuntos en historial (es lento)
             } catch (e) {
-              console.error(`    ❌ Error procesando mensaje en ${folderName}:`, e.message);
+              // Ignorar errores de mensajes individuales
             }
           }
         }
       } catch (e) {
-        console.error(`  ❌ Error en ${folderName}:`, e.message);
+        console.warn(`  ⚠️  ${folderName}: ${e.message}`);
+        // Continuar con siguiente chat
       }
     }
 
-    console.log('✓ Descarga de historial completada');
+    console.log('\n✓ Descarga de historial completada');
   } catch (error) {
-    console.error('❌ Error descargando historial:', error.message);
+    console.warn('⚠️  Aviso descargando historial:', error.message);
+    console.log('Continuando sin historial completo...\n');
   }
 }
 
@@ -74,7 +64,12 @@ export async function startWhatsApp() {
   const client = new Client({
     authStrategy: new LocalAuth({
       dataPath: path.join(__dirname, '..', 'auth_info')
-    })
+    }),
+    puppeteer: {
+      headless: true,
+      args: ['--no-sandbox', '--disable-setuid-sandbox']
+    },
+    protocolTimeout: 180000  // 3 minutos para descargas lentas
   });
 
   client.on('qr', (qr) => {
