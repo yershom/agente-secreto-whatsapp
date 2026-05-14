@@ -7,8 +7,14 @@ import fs from 'fs';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const HISTORY_FLAG = path.join(__dirname, '..', 'conversations', '.history_downloaded');
 
 async function downloadHistoryOnce(client) {
+  if (fs.existsSync(HISTORY_FLAG)) {
+    console.log('📋 Historial ya descargado anteriormente. Saltando...\n');
+    return;
+  }
+
   try {
     const chats = await client.getChats();
     console.log(`📊 Encontrados ${chats.length} chats. Descargando historial...`);
@@ -66,6 +72,7 @@ async function downloadHistoryOnce(client) {
       }
     }
 
+    fs.writeFileSync(HISTORY_FLAG, new Date().toISOString());
     console.log('\n✓ Descarga de historial completada');
   } catch (error) {
     console.warn('⚠️  Aviso descargando historial:', error.message);
