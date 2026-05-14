@@ -1,7 +1,20 @@
 import 'dotenv/config';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 import http from 'http';
 import { initializeStorage } from './storage.js';
 import { startWhatsApp } from './whatsapp.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const LOGS_DIR = path.join(__dirname, '..', 'logs');
+fs.mkdirSync(LOGS_DIR, { recursive: true });
+const logStream = fs.createWriteStream(path.join(LOGS_DIR, 'app.log'), { flags: 'a' });
+
+const _stdoutWrite = process.stdout.write.bind(process.stdout);
+const _stderrWrite = process.stderr.write.bind(process.stderr);
+process.stdout.write = (chunk, enc, cb) => { logStream.write(chunk); return _stdoutWrite(chunk, enc, cb); };
+process.stderr.write = (chunk, enc, cb) => { logStream.write(chunk); return _stderrWrite(chunk, enc, cb); };
 
 const PORT = process.env.PORT || 3000;
 

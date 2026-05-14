@@ -1,7 +1,7 @@
 import pkg from 'whatsapp-web.js';
 const { Client, LocalAuth } = pkg;
 import qrcode from 'qrcode-terminal';
-import { saveMessage } from './storage.js';
+import { saveMessage, saveAttachment } from './storage.js';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
@@ -19,17 +19,17 @@ async function downloadHistoryOnce(client) {
       let folderName;
 
       if (chat.isGroup) {
-        folderName = chat.name || chat.id.split('@')[0];
+        folderName = chat.name || chat.id._serialized.split('@')[0];
       } else {
         const contact = await chat.getContact();
-        folderName = contact.name || chat.id.split('@')[0];
+        folderName = contact.name || chat.id._serialized.split('@')[0];
       }
 
       folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 
       try {
         // Obtener últimos 50 mensajes (más rápido)
-        const messages = await chat.fetchMessages({ limit: 50 });
+        const messages = await chat.fetchMessages({ limit: 100 });
 
         if (messages.length > 0) {
           console.log(`  [${i + 1}/${chats.length}] 📁 ${folderName}: ${messages.length} mensajes`);
@@ -42,7 +42,19 @@ async function downloadHistoryOnce(client) {
               const text = msg.body || '[Archivo adjunto]';
 
               saveMessage(folderName, sender, text);
-              // NO descargar adjuntos en historial (es lento)
+
+              if (msg.hasMedia) {
+                try {
+                  const media = await msg.downloadMedia();
+                  if (media) {
+                    const ext = media.mimetype ? media.mimetype.split('/')[1] : 'bin';
+                    const filename = media.filename || `${msg.timestamp || Date.now()}.${ext}`;
+                    await saveAttachment(folderName, filename, Buffer.from(media.data, 'base64'));
+                  }
+                } catch (e) {
+                  // Ignorar errores de adjuntos individuales del historial
+                }
+              }
             } catch (e) {
               // Ignorar errores de mensajes individuales
             }
@@ -153,9 +165,8 @@ export async function startWhatsApp() {
         try {
           const media = await msg.downloadMedia();
           if (media) {
-            // Guardar archivo adjunto
-            const { saveAttachment } = await import('./storage.js');
-            const filename = media.filename || `${Date.now()}.${media.mimetype.split('/')[1]}`;
+            const ext = media.mimetype ? media.mimetype.split('/')[1] : 'bin';
+            const filename = media.filename || `${Date.now()}.${ext}`;
             await saveAttachment(folderName, filename, Buffer.from(media.data, 'base64'));
             console.log(`📎 Adjunto guardado en ${folderName}: ${filename}`);
           }
