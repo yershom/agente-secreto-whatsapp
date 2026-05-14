@@ -3,6 +3,7 @@ const { Client, LocalAuth } = pkg;
 import qrcode from 'qrcode-terminal';
 import { saveMessage } from './storage.js';
 import path from 'path';
+import fs from 'fs';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -60,10 +61,34 @@ async function downloadHistoryOnce(client) {
   }
 }
 
+function cleanChromiumLocks(dataPath) {
+  const lockFiles = ['SingletonLock', 'SingletonCookie', 'SingletonSocket'];
+  function deleteInDir(dir) {
+    if (!fs.existsSync(dir)) return;
+    for (const entry of fs.readdirSync(dir)) {
+      const fullPath = path.join(dir, entry);
+      if (lockFiles.includes(entry)) {
+        try {
+          fs.unlinkSync(fullPath);
+          console.log(`🧹 Lock eliminado: ${fullPath}`);
+        } catch (e) { /* ignorar si ya no existe */ }
+      } else {
+        try {
+          if (fs.statSync(fullPath).isDirectory()) deleteInDir(fullPath);
+        } catch (e) { /* ignorar errores de stat */ }
+      }
+    }
+  }
+  deleteInDir(dataPath);
+}
+
 export async function startWhatsApp() {
+  const authDataPath = path.join(__dirname, '..', 'auth_info');
+  cleanChromiumLocks(authDataPath);
+
   const client = new Client({
     authStrategy: new LocalAuth({
-      dataPath: path.join(__dirname, '..', 'auth_info')
+      dataPath: authDataPath
     }),
     puppeteer: {
       headless: true,
