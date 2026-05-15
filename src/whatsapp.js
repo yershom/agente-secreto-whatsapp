@@ -138,7 +138,7 @@ export async function startWhatsApp() {
     console.log('✓ Historial descargado. Ahora escuchando nuevos mensajes.\n');
   });
 
-  client.on('message', async (msg) => {
+  client.on('message_create', async (msg) => {
     try {
       const contact = await msg.getContact();
       const chat = await msg.getChat();
