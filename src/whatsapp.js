@@ -42,7 +42,7 @@ async function downloadHistoryOnce(client) {
       folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 
       try {
-        const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras']);
+        const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968']);
         const limit = FULL_HISTORY_CHATS.has(folderName) ? 99999 : 100;
         const messages = await chat.fetchMessages({ limit });
 
