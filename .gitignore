@@ -3,7 +3,8 @@ node_modules/
 .env.local
 .DS_Store
 *.log
-conversations/
+conversations/**/attachments/
+conversations/.history_downloaded
 auth_info/
 .vscode/
 .idea/
