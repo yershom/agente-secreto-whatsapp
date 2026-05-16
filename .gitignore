@@ -6,6 +6,7 @@ node_modules/
 conversations/**/attachments/
 conversations/.history_downloaded
 auth_info/
+.wwebjs_cache/
 .vscode/
 .idea/
 .claude/worktrees/
