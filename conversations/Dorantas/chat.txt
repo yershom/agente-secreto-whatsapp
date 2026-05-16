@@ -1,0 +1,147 @@
+[14/05/2026, 23:08:55] Dorantas: !help
+[14/05/2026, 23:10:01] Dorantas: !help
+[14/05/2026, 23:10:01] Dorantas: Hola admin 👋 Usa *!help* para ver los comandos disponibles.
+[14/05/2026, 23:10:01] Yo: Hola
+[14/05/2026, 23:10:01] Dorantas: ¡Hola! Bienvenido a Dorantas. ¿Cómo te llamas?
+[14/05/2026, 23:10:01] Yo: Hola
+[14/05/2026, 23:10:01] Yo: [Archivo adjunto]
+[14/05/2026, 23:10:01] Dorantas: Te estás comunicando fuera del horario de servicio, con gusto te atenderemos dentro de nuestro horario de atención.
+[14/05/2026, 23:10:01] Yo: [Archivo adjunto]
+[14/05/2026, 23:10:02] Yo: Hola
+[14/05/2026, 23:10:02] Yo: Hola
+[14/05/2026, 23:10:02] Yo: 146901554958590@lid
+[14/05/2026, 23:10:02] Dorantas: ¿Qué hamburguesa se te antoja hoy?
+[14/05/2026, 23:10:02] Dorantas: Gracias por escribirnos, nuestro horario de servicio es de 1pm a 10pm. Nos vemos en un rato
+[14/05/2026, 23:10:02] Yo: ¡Hola! 👋 
+Bienvenido a Dorantas 🌱🍽️
+
+Si buscas el verdadero sabor a hogar, llegaste al lugar indicado.
+¿Cuál es tu pedido? 
+En breve comenzaremos a prepararlo 🍲😋
+[14/05/2026, 23:10:02] Yo: [Archivo adjunto]
+[14/05/2026, 23:10:02] Yo: [Archivo adjunto]
+[14/05/2026, 23:11:26] Dorantas: *COMANDOS DORANTAS ADMIN*
+
+📋 *Consultar pedidos*
+!pedidos — muestra subcomandos disponibles
+!pedidos abiertos — en preparación (sin salida)
+!pedidos enviados — en camino (sin entrega)
+!pedidos hoy — registrados hoy
+!pedidos ultimo [n] — últimos N pedidos (máx 10)
+
+🚀 *Actualizar pedido* (usa el numpedido, ej: a3b7k2)
+!salida <id> — registra salida y notifica al cliente
+!entrega <id> — registra entrega y notifica al cliente
+!propina <id> <monto> — registra propina
+!set <id> <col A-N> <valor> — edita cualquier campo del sheet
+
+💬 *Conversaciones* (usa el numpedido)
+!pausar <id> — bot se detiene, atiende tú manualmente
+!reanudar <id> — bot retoma la atención
+!pausados — lista conversaciones pausadas
+
+ℹ️ !help — muestra este mensaje
+[14/05/2026, 23:11:53] Dorantas: No hay pedidos para el filtro "hoy".
+[14/05/2026, 23:12:10] Dorantas: No hay pedidos para el filtro "abiertos".
+[14/05/2026, 23:13:48] Dorantas: No hay pedidos para el filtro "abiertos".
+[14/05/2026, 23:13:48] Yo: !pedidos abiertos
+[14/05/2026, 23:13:48] Dorantas: No hay pedidos para el filtro "hoy".
+[14/05/2026, 23:13:48] Yo: !pedidos hoy
+[14/05/2026, 23:13:48] Dorantas: *COMANDOS DORANTAS ADMIN*
+
+📋 *Consultar pedidos*
+!pedidos — muestra subcomandos disponibles
+!pedidos abiertos — en preparación (sin salida)
+!pedidos enviados — en camino (sin entrega)
+!pedidos hoy — registrados hoy
+!pedidos ultimo [n] — últimos N pedidos (máx 10)
+
+🚀 *Actualizar pedido* (usa el numpedido, ej: a3b7k2)
+!salida <id> — registra salida y notifica al cliente
+!entrega <id> — registra entrega y notifica al cliente
+!propina <id> <monto> — registra propina
+!set <id> <col A-N> <valor> — edita cualquier campo del sheet
+
+💬 *Conversaciones* (usa el numpedido)
+!pausar <id> — bot se detiene, atiende tú manualmente
+!reanudar <id> — bot retoma la atención
+!pausados — lista conversaciones pausadas
+
+ℹ️ !help — muestra este mensaje
+[14/05/2026, 23:13:48] Yo: !help
+[14/05/2026, 23:13:48] Dorantas: !help
+[14/05/2026, 23:13:48] Dorantas: Hola admin 👋 Usa *!help* para ver los comandos disponibles.
+[14/05/2026, 23:13:48] Yo: Hola
+[14/05/2026, 23:13:48] Dorantas: ¡Hola! Bienvenido a Dorantas. ¿Cómo te llamas?
+[14/05/2026, 23:13:48] Yo: Hola
+[14/05/2026, 23:13:48] Yo: [Archivo adjunto]
+[14/05/2026, 23:13:48] Dorantas: Te estás comunicando fuera del horario de servicio, con gusto te atenderemos dentro de nuestro horario de atención.
+[14/05/2026, 23:13:48] Yo: [Archivo adjunto]
+[14/05/2026, 23:13:48] Yo: Hola
+[14/05/2026, 23:13:48] Yo: Hola
+[14/05/2026, 23:13:48] Yo: 146901554958590@lid
+[14/05/2026, 23:13:48] Dorantas: ¿Qué hamburguesa se te antoja hoy?
+[14/05/2026, 23:13:48] Dorantas: Gracias por escribirnos, nuestro horario de servicio es de 1pm a 10pm. Nos vemos en un rato
+[14/05/2026, 23:13:48] Yo: ¡Hola! 👋 
+Bienvenido a Dorantas 🌱🍽️
+
+Si buscas el verdadero sabor a hogar, llegaste al lugar indicado.
+¿Cuál es tu pedido? 
+En breve comenzaremos a prepararlo 🍲😋
+[14/05/2026, 23:13:48] Yo: [Archivo adjunto]
+[14/05/2026, 23:13:48] Yo: [Archivo adjunto]
+[14/05/2026, 23:13:48] Yo: [Archivo adjunto]
+[14/05/2026, 23:13:50] Dorantas: mandame la fot
+[14/05/2026, 23:13:50] Dorantas: Hi Preciosa
+[14/05/2026, 23:13:50] Yo: [Archivo adjunto]
+[15/05/2026, 22:46:15] Dorantas: No hay pedidos para el filtro "abiertos".
+[15/05/2026, 22:46:15] Yo: !pedidos abiertos
+[15/05/2026, 22:46:15] Dorantas: No hay pedidos para el filtro "hoy".
+[15/05/2026, 22:46:15] Yo: !pedidos hoy
+[15/05/2026, 22:46:15] Dorantas: *COMANDOS DORANTAS ADMIN*
+
+📋 *Consultar pedidos*
+!pedidos — muestra subcomandos disponibles
+!pedidos abiertos — en preparación (sin salida)
+!pedidos enviados — en camino (sin entrega)
+!pedidos hoy — registrados hoy
+!pedidos ultimo [n] — últimos N pedidos (máx 10)
+
+🚀 *Actualizar pedido* (usa el numpedido, ej: a3b7k2)
+!salida <id> — registra salida y notifica al cliente
+!entrega <id> — registra entrega y notifica al cliente
+!propina <id> <monto> — registra propina
+!set <id> <col A-N> <valor> — edita cualquier campo del sheet
+
+💬 *Conversaciones* (usa el numpedido)
+!pausar <id> — bot se detiene, atiende tú manualmente
+!reanudar <id> — bot retoma la atención
+!pausados — lista conversaciones pausadas
+
+ℹ️ !help — muestra este mensaje
+[15/05/2026, 22:46:15] Yo: !help
+[15/05/2026, 22:46:15] Dorantas: !help
+[15/05/2026, 22:46:15] Dorantas: Hola admin 👋 Usa *!help* para ver los comandos disponibles.
+[15/05/2026, 22:46:15] Yo: Hola
+[15/05/2026, 22:46:15] Dorantas: ¡Hola! Bienvenido a Dorantas. ¿Cómo te llamas?
+[15/05/2026, 22:46:15] Yo: Hola
+[15/05/2026, 22:46:15] Yo: [Archivo adjunto]
+[15/05/2026, 22:46:15] Dorantas: Te estás comunicando fuera del horario de servicio, con gusto te atenderemos dentro de nuestro horario de atención.
+[15/05/2026, 22:46:15] Yo: [Archivo adjunto]
+[15/05/2026, 22:46:15] Yo: Hola
+[15/05/2026, 22:46:15] Yo: Hola
+[15/05/2026, 22:46:15] Yo: 146901554958590@lid
+[15/05/2026, 22:46:15] Dorantas: ¿Qué hamburguesa se te antoja hoy?
+[15/05/2026, 22:46:15] Dorantas: Gracias por escribirnos, nuestro horario de servicio es de 1pm a 10pm. Nos vemos en un rato
+[15/05/2026, 22:46:15] Yo: ¡Hola! 👋 
+Bienvenido a Dorantas 🌱🍽️
+
+Si buscas el verdadero sabor a hogar, llegaste al lugar indicado.
+¿Cuál es tu pedido? 
+En breve comenzaremos a prepararlo 🍲😋
+[15/05/2026, 22:46:15] Yo: [Archivo adjunto]
+[15/05/2026, 22:46:15] Yo: [Archivo adjunto]
+[15/05/2026, 22:46:15] Yo: [Archivo adjunto]
+[15/05/2026, 22:46:15] Dorantas: mandame la fot
+[15/05/2026, 22:46:15] Dorantas: Hi Preciosa
+[15/05/2026, 22:46:15] Yo: [Archivo adjunto]

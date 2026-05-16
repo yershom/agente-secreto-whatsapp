@@ -1,0 +1,86 @@
+[14/05/2026, 23:26:56] Zarpas: Yastas gracias
+[14/05/2026, 23:26:56] Yo: El de diversiones chavitos tiene uno de toy story
+[14/05/2026, 23:26:56] Zarpas: [Archivo adjunto]
+[14/05/2026, 23:26:56] Yo: De que tamaño buscas?
+[14/05/2026, 23:26:56] Zarpas: Pero cuál recomiendas
+[14/05/2026, 23:26:56] Zarpas: Gracias
+[14/05/2026, 23:26:56] Yo: Te mando 4 opciones
+[14/05/2026, 23:26:56] Yo: BEGIN:VCARD
+VERSION:3.0
+N:Pochys;Payaso;;;
+FN:Payaso Pochys
+item1.TEL;waid=5217341004004:+52 734 100 4004
+item1.X-ABLabel:Celular
+X-WA-BIZ-DESCRIPTION:🌟show del payaso Pochys Además contamos con 👑 Pintacaritas 💥Renta de inflables 💦Cañón de espumaMás de 27 años de experiencia nos respaldan
+X-WA-BIZ-NAME:Payaso Pochys
+END:VCARD
+[14/05/2026, 23:26:56] Yo: BEGIN:VCARD
+VERSION:3.0
+N:Jump;Inflables;Happy;;
+FN:Inflables Happy Jump
+item1.TEL;waid=5217341405190:+52 734 140 5190
+item1.X-ABLabel:Celular
+item2.TEL;waid=5217778781200:+52 777 878 1200
+item2.X-ABLabel:Trabajo
+END:VCARD
+[14/05/2026, 23:26:56] Yo: BEGIN:VCARD
+VERSION:3.0
+N:Galeana;Inflables;;;
+FN:Inflables Galeana
+item1.TEL:+52 777 347 2662
+item1.X-ABLabel:Otro
+END:VCARD
+[14/05/2026, 23:26:56] Yo: BEGIN:VCARD
+VERSION:3.0
+N:Chavitos;Inflables;Diversiones;;
+FN:Inflables Diversiones Chavitos
+item1.TEL;waid=5217773878044:+52 777 387 8044
+item1.X-ABLabel:Celular
+item2.TEL:+52 734 131 9651
+item2.X-ABLabel:Celular
+END:VCARD
+[14/05/2026, 23:26:56] Yo: Hola, si, si tengo
+[14/05/2026, 23:26:56] Zarpas: [Archivo adjunto]
+[15/05/2026, 22:46:50] Zarpas: Yastas gracias
+[15/05/2026, 22:46:50] Yo: El de diversiones chavitos tiene uno de toy story
+[15/05/2026, 22:46:50] Zarpas: [Archivo adjunto]
+[15/05/2026, 22:46:50] Yo: De que tamaño buscas?
+[15/05/2026, 22:46:50] Zarpas: Pero cuál recomiendas
+[15/05/2026, 22:46:50] Zarpas: Gracias
+[15/05/2026, 22:46:50] Yo: Te mando 4 opciones
+[15/05/2026, 22:46:50] Yo: BEGIN:VCARD
+VERSION:3.0
+N:Pochys;Payaso;;;
+FN:Payaso Pochys
+item1.TEL;waid=5217341004004:+52 734 100 4004
+item1.X-ABLabel:Celular
+X-WA-BIZ-DESCRIPTION:🌟show del payaso Pochys Además contamos con 👑 Pintacaritas 💥Renta de inflables 💦Cañón de espumaMás de 27 años de experiencia nos respaldan
+X-WA-BIZ-NAME:Payaso Pochys
+END:VCARD
+[15/05/2026, 22:46:50] Yo: BEGIN:VCARD
+VERSION:3.0
+N:Jump;Inflables;Happy;;
+FN:Inflables Happy Jump
+item1.TEL;waid=5217341405190:+52 734 140 5190
+item1.X-ABLabel:Celular
+item2.TEL;waid=5217778781200:+52 777 878 1200
+item2.X-ABLabel:Trabajo
+END:VCARD
+[15/05/2026, 22:46:50] Yo: BEGIN:VCARD
+VERSION:3.0
+N:Galeana;Inflables;;;
+FN:Inflables Galeana
+item1.TEL:+52 777 347 2662
+item1.X-ABLabel:Otro
+END:VCARD
+[15/05/2026, 22:46:50] Yo: BEGIN:VCARD
+VERSION:3.0
+N:Chavitos;Inflables;Diversiones;;
+FN:Inflables Diversiones Chavitos
+item1.TEL;waid=5217773878044:+52 777 387 8044
+item1.X-ABLabel:Celular
+item2.TEL:+52 734 131 9651
+item2.X-ABLabel:Celular
+END:VCARD
+[15/05/2026, 22:46:50] Yo: Hola, si, si tengo
+[15/05/2026, 22:46:50] Zarpas: [Archivo adjunto]
