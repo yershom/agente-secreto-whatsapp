@@ -42,8 +42,9 @@ async function downloadHistoryOnce(client) {
       folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 
       try {
-        // Obtener últimos 50 mensajes (más rápido)
-        const messages = await chat.fetchMessages({ limit: 100 });
+        const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras']);
+        const limit = FULL_HISTORY_CHATS.has(folderName) ? 99999 : 100;
+        const messages = await chat.fetchMessages({ limit });
 
         if (messages.length > 0) {
           console.log(`  [${i + 1}/${chats.length}] 📁 ${folderName}: ${messages.length} mensajes`);
