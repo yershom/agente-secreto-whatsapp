@@ -44,3 +44,13 @@ Cuánto es el mínimo de pedido??
 [16/05/2026, 05:09:33] Yo: Hola buenas tardes, Mínimo son dos hamburguesas, y para pedido a panchimalco son 25$
 [16/05/2026, 05:09:33] 5217341500651: Buena tarde 
 [16/05/2026, 05:09:33] Yo: 252784712658954@lid
+[16/05/2026, 05:57:51] Yo: Si, un placer atenderle
+[16/05/2026, 05:57:51] 5217341500651: Gracias de momento solo preguntaba 
+[16/05/2026, 05:57:51] Yo: ¿Va a querer dos o más? Están muy bien servidas y es pan especial artesanal
+[16/05/2026, 05:57:51] Yo: Si gracias
+[16/05/2026, 05:57:51] 5217341500651: [Archivo adjunto]
+[16/05/2026, 05:57:51] 5217341500651: Excelente tarde
+[16/05/2026, 05:57:51] 5217341500651: Ok agradezco su atención
+[16/05/2026, 05:57:51] Yo: Hola buenas tardes, Mínimo son dos hamburguesas, y para pedido a panchimalco son 25$
+[16/05/2026, 05:57:51] 5217341500651: Buena tarde 
+[16/05/2026, 05:57:51] Yo: 252784712658954@lid

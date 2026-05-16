@@ -34,3 +34,12 @@
 [16/05/2026, 05:10:07] 160743462854811: Disculpa vas a venir por el pedido?
 [16/05/2026, 05:10:07] 160743462854811: Hola Nora soy sam
 [16/05/2026, 05:10:07] Yo: [Archivo adjunto]
+[16/05/2026, 05:58:14] Yo: 160743462854811@lid
+[16/05/2026, 05:58:14] Yo: Gracias 🫂
+[16/05/2026, 05:58:14] 160743462854811: Sip
+[16/05/2026, 05:58:14] Yo: Me esperas?
+[16/05/2026, 05:58:14] Yo: Llego en 20 min
+[16/05/2026, 05:58:14] Yo: Hola! Si, voy para alla
+[16/05/2026, 05:58:14] 160743462854811: Disculpa vas a venir por el pedido?
+[16/05/2026, 05:58:14] 160743462854811: Hola Nora soy sam
+[16/05/2026, 05:58:14] Yo: [Archivo adjunto]

@@ -10,3 +10,6 @@
 [16/05/2026, 05:10:08] Consultorio Gine María: Por el momento hay del 11 de marzo en adelante
 [16/05/2026, 05:10:08] Consultorio Gine María: Por el momento no, hasta que alguien me cancele
 [16/05/2026, 05:10:08] Yo: Buenas tardes, tendré una consulta con la doctora en estos días?
+[16/05/2026, 05:58:15] Consultorio Gine María: Por el momento hay del 11 de marzo en adelante
+[16/05/2026, 05:58:15] Consultorio Gine María: Por el momento no, hasta que alguien me cancele
+[16/05/2026, 05:58:15] Yo: Buenas tardes, tendré una consulta con la doctora en estos días?
