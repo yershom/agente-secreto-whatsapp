@@ -557,3 +557,69 @@ X-WA-BIZ-NAME:Farmacia Tlatenchi
 END:VCARD
 [16/05/2026, 19:09:47] 120363314305089352: Donde se ubica?
 [16/05/2026, 19:12:04] 120363314305089352: En el Balneario los Naranjos en Panchimalco
+[16/05/2026, 19:19:26] gas Lp el arenal tlatenchi: [Archivo adjunto]
+[16/05/2026, 19:22:31] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 19:47:18] 120363314305089352: Alguien tendrá el número de la señora que vende pozole en la cruz
+[16/05/2026, 19:57:20] gas Lp el arenal tlatenchi: BEGIN:VCARD
+VERSION:3.0
+N:Café;Cecilia diaz Camioneta Gris;Franja;;
+FN:Cecilia diaz Camioneta Gris Franja Café
+ORG:Cecilia diaz
+TITLE:
+item1.TEL;waid=5217341641118:+52 734 164 1118
+item1.X-ABLabel:Celular
+X-WA-BIZ-NAME:Cecilia diaz Camioneta Gris Franja Café
+END:VCARD
+[16/05/2026, 19:57:31] gas Lp el arenal tlatenchi: Ella vende pozole
+[16/05/2026, 20:17:39] 120363314305089352: Buenas tardes alguien tiene el número de la veterinaria de la Vicente por favor, me urge
+[16/05/2026, 20:18:51] 120363314305089352: 7341591595
+[16/05/2026, 20:54:00] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 20:54:13] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 20:54:25] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 20:54:25] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 20:54:25] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 20:54:26] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 20:54:26] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 20:54:26] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 20:54:26] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 20:57:27] America Panes Y Galletas: Tenemos a la venta ricas y deliciosas donas rellenas de 
+* Arroz con leche 
+* Crema pastelera 
+* Azúcar 
+$10 cada una 
+Entregas a domicilio
+[16/05/2026, 21:38:55] Mariscos Tlatenchi: ESTAMOS EN SERVICIO HOY HASTA LAS 6 PM ‼️ CONTAMOS CON SERVICIO A DOMICILIO ☺️
+[16/05/2026, 21:48:47] 120363314305089352: Quien compra celulares descompuesto por pantalla y pilas ?
+[16/05/2026, 21:54:34] 120363314305089352: buenas tardes 
+tengo ricos bolis gourmet 100 % artesanales a solo $15 pesos
+
+Oreo
+Pay de limón 
+Queso con zarzamora 
+Nutella
+Duvalin 
+Marias
+Danonino 
+Red velvet 
+Chocomenta 
+
+y prueba nuestra linea Drinkis (coctelería)
+Ron con pasas
+Piña colada
+Beso de Angel 
+
+para el dia lunes tendremos disponibles tmb estos sabores 
+Mazapán 
+Chescake de fresa
+Fresas con crema
+Mojito (linea Drinkis)
+Ice cereza 
+Ice Mora azul 
+Gansito 
+Chocorrol
+Pingüino 
+entrego en mi domicilio cerca de la cruz o en la cruz
+[16/05/2026, 21:58:38] 120363314305089352: [Archivo adjunto]
+[16/05/2026, 22:03:07] Cenaduría Jei ruiz: Buenas tardes algún taxi disponible a las 5?
+[16/05/2026, 22:16:58] 120363314305089352: Alguien k benda Gordas Hoy  y ak horas empiesan  
+a vender ???
