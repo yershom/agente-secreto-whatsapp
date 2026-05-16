@@ -14,6 +14,22 @@
 [14/05/2026, 23:44:46] Yo: Hola, buenas tardes
 [14/05/2026, 23:44:46] Javier: Hola buenas tardes Este ya estoy aquí en su casa
 [14/05/2026, 23:44:46] Javier: [Archivo adjunto]
+[14/05/2026, 23:44:46] Javier: Nsp
+[14/05/2026, 23:44:46] Yo: Si, una disculpa, me salieron mil cosas
+[14/05/2026, 23:44:46] Javier: Y nos ponemos de acuerdo
+[14/05/2026, 23:44:46] Javier: Me avisan
+[14/05/2026, 23:44:46] Yo: Me puede esperar a que me traigan la taza?
+[14/05/2026, 23:44:46] Javier: Ok
+[14/05/2026, 23:44:46] Yo: Aún no me entregan la nueva
+[14/05/2026, 23:44:46] Javier: Si nsp
+[14/05/2026, 23:44:46] Yo: Pero que cree? Fui a cambiar la taza
+[14/05/2026, 23:44:46] Yo: Tuve una salida urgente
+[14/05/2026, 23:44:46] Javier: Cómo gustes
+[14/05/2026, 23:44:46] Yo: Le marco o le escribo?
+[14/05/2026, 23:44:46] Javier: Hola
+[14/05/2026, 23:44:46] Yo: Hola, buenas tardes
+[14/05/2026, 23:44:46] Javier: Hola buenas tardes Este ya estoy aquí en su casa
+[14/05/2026, 23:44:46] Javier: [Archivo adjunto]
 [14/05/2026, 23:44:48] Yo: De acuerdo
 [14/05/2026, 23:44:48] Javier: Sale
 [14/05/2026, 23:44:48] Javier: Mañana sería yo creo que como a la 11 o 12
@@ -27,7 +43,28 @@
 [14/05/2026, 23:44:48] Javier: Yo creo que hago planes para él martes
 [14/05/2026, 23:44:48] Yo: Cuándo podría ir a instalarla?
 [14/05/2026, 23:44:48] Yo: Buenas tardes don Javier, ya tenemos la taza del baño
+[14/05/2026, 23:44:48] Yo: Si, aquí estoy
+[14/05/2026, 23:44:48] Javier: Buenos días Nora oye si vas a estar en tu casa voy para allá llego como 9:30
+[14/05/2026, 23:44:48] Javier: Ok ay paso
+[14/05/2026, 23:44:48] Yo: Si, aquí estare
+[14/05/2026, 23:44:48] Javier: Podría pasar el sábado estaras
+[14/05/2026, 23:44:48] Yo: Para preguntarle cuando vendría a terminar el tema de la bomba
+[14/05/2026, 23:44:48] Javier: Hola
+[14/05/2026, 23:44:48] Yo: Hola! Buena tardes
+[14/05/2026, 23:44:48] Yo: Hola! Nada más para corroborar que si va a poder llegar se acaba de romper el depósito de agua del inodoro  🚽 yo creo que por el agua hirviendo que tenía
+[14/05/2026, 23:44:48] Yo: De acuerdo
+[14/05/2026, 23:44:48] Javier: Sale
+[14/05/2026, 23:44:48] Javier: Mañana sería yo creo que como a la 11 o 12
+[14/05/2026, 23:44:48] Yo: Gracias
+[14/05/2026, 23:44:48] Yo: A ok, si
+[14/05/2026, 23:44:48] Javier: Si puedo mañana paso voy a ir con tu suegra y de ahí paso para allá
+[14/05/2026, 23:44:48] Yo: El martes en qué horario?
 [14/05/2026, 23:44:48] Javier: Ok
+[14/05/2026, 23:44:48] Yo: También sería el aire acondicionado
+[14/05/2026, 23:44:48] Javier: Solo sería la taza
+[14/05/2026, 23:44:48] Javier: Yo creo que hago planes para él martes
+[14/05/2026, 23:44:48] Yo: Cuándo podría ir a instalarla?
+[14/05/2026, 23:44:48] Yo: Buenas tardes don Javier, ya tenemos la taza del baño
 [14/05/2026, 23:44:48] Yo: Si, aquí estoy
 [14/05/2026, 23:44:48] Javier: Buenos días Nora oye si vas a estar en tu casa voy para allá llego como 9:30
 [14/05/2026, 23:44:48] Javier: Ok ay paso
@@ -60,19 +97,16 @@
 [15/05/2026, 22:47:28] Yo: A ok, si
 [15/05/2026, 22:47:28] Javier: Si puedo mañana paso voy a ir con tu suegra y de ahí paso para allá
 [15/05/2026, 22:47:28] Yo: El martes en qué horario?
-[15/05/2026, 22:47:28] Javier: Ok
 [15/05/2026, 22:47:28] Yo: También sería el aire acondicionado
 [15/05/2026, 22:47:28] Javier: Solo sería la taza
 [15/05/2026, 22:47:28] Javier: Yo creo que hago planes para él martes
 [15/05/2026, 22:47:28] Yo: Cuándo podría ir a instalarla?
 [15/05/2026, 22:47:28] Yo: Buenas tardes don Javier, ya tenemos la taza del baño
-[15/05/2026, 22:47:28] Javier: Ok
 [15/05/2026, 22:47:28] Yo: Si, aquí estoy
 [15/05/2026, 22:47:28] Javier: Buenos días Nora oye si vas a estar en tu casa voy para allá llego como 9:30
 [15/05/2026, 22:47:28] Javier: Ok ay paso
 [15/05/2026, 22:47:28] Yo: Si, aquí estare
 [15/05/2026, 22:47:28] Javier: Podría pasar el sábado estaras
 [15/05/2026, 22:47:28] Yo: Para preguntarle cuando vendría a terminar el tema de la bomba
-[15/05/2026, 22:47:28] Javier: Hola
 [15/05/2026, 22:47:28] Yo: Hola! Buena tardes
 [15/05/2026, 22:47:28] Yo: Hola! Nada más para corroborar que si va a poder llegar se acaba de romper el depósito de agua del inodoro  🚽 yo creo que por el agua hirviendo que tenía

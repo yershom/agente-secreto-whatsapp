@@ -8,3 +8,5 @@ conversations/.history_downloaded
 auth_info/
 .vscode/
 .idea/
+.claude/worktrees/
+log/

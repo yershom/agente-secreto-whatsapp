@@ -1,3 +1,11 @@
+Claro que si, empezamos a preparas tu pedido.
+Quiero hacerte un pedido a domicilio de favor:
+Serían 2 tortas de suadero con todo 
+2 tortas de milanesa con todo
+Claro que si, empezamos a preparas tu pedido.
+Quiero hacerte un pedido a domicilio de favor:
+Serían 2 tortas de suadero con todo 
+2 tortas de milanesa con todo
 [14/05/2026, 23:45:38] Taquería Tacontodo Tlatenchi: Permítame y le marco.
 [14/05/2026, 23:45:38] Taquería Tacontodo Tlatenchi: El repartido salió a la entrega de su pedido antes
 [14/05/2026, 23:45:38] Yo: Ok, te pago con $510, para que me des $300 de favor?
@@ -6,14 +14,23 @@
 [14/05/2026, 23:45:38] Taquería Tacontodo Tlatenchi: Claro, en un momento te enviamos el total
 [14/05/2026, 23:45:38] Yo: Gracias, cuánto sería? ☺️
 [14/05/2026, 23:45:38] Taquería Tacontodo Tlatenchi: Buenas noches Nora, un gusto leerte! 🫡
-Claro que si, empezamos a preparas tu pedido.
 [14/05/2026, 23:45:38] Yo: Casa blanca de dos pisos
 [14/05/2026, 23:45:38] Yo: Casi esquina con la costeña y abarrotes citlalli (que están en av. Chisco)
 [14/05/2026, 23:45:38] Yo: Crisantemos #3, col. Santa María
 [14/05/2026, 23:45:38] Yo: Hola, buenas noches. Soy Nora 😃
-Quiero hacerte un pedido a domicilio de favor:
-Serían 2 tortas de suadero con todo 
-2 tortas de milanesa con todo
+[14/05/2026, 23:45:38] Yo: 26199870955587@lid
+[14/05/2026, 23:45:38] Taquería Tacontodo Tlatenchi: Permítame y le marco.
+[14/05/2026, 23:45:38] Taquería Tacontodo Tlatenchi: El repartido salió a la entrega de su pedido antes
+[14/05/2026, 23:45:38] Yo: Ok, te pago con $510, para que me des $300 de favor?
+[14/05/2026, 23:45:38] Taquería Tacontodo Tlatenchi: Sería $210
+[14/05/2026, 23:45:38] Yo: Gracias
+[14/05/2026, 23:45:38] Taquería Tacontodo Tlatenchi: Claro, en un momento te enviamos el total
+[14/05/2026, 23:45:38] Yo: Gracias, cuánto sería? ☺️
+[14/05/2026, 23:45:38] Taquería Tacontodo Tlatenchi: Buenas noches Nora, un gusto leerte! 🫡
+[14/05/2026, 23:45:38] Yo: Casa blanca de dos pisos
+[14/05/2026, 23:45:38] Yo: Casi esquina con la costeña y abarrotes citlalli (que están en av. Chisco)
+[14/05/2026, 23:45:38] Yo: Crisantemos #3, col. Santa María
+[14/05/2026, 23:45:38] Yo: Hola, buenas noches. Soy Nora 😃
 [14/05/2026, 23:45:38] Yo: 26199870955587@lid
 [15/05/2026, 22:47:34] Taquería Tacontodo Tlatenchi: Permítame y le marco.
 [15/05/2026, 22:47:34] Taquería Tacontodo Tlatenchi: El repartido salió a la entrega de su pedido antes
@@ -23,12 +40,8 @@ Serían 2 tortas de suadero con todo
 [15/05/2026, 22:47:34] Taquería Tacontodo Tlatenchi: Claro, en un momento te enviamos el total
 [15/05/2026, 22:47:34] Yo: Gracias, cuánto sería? ☺️
 [15/05/2026, 22:47:34] Taquería Tacontodo Tlatenchi: Buenas noches Nora, un gusto leerte! 🫡
-Claro que si, empezamos a preparas tu pedido.
 [15/05/2026, 22:47:34] Yo: Casa blanca de dos pisos
 [15/05/2026, 22:47:34] Yo: Casi esquina con la costeña y abarrotes citlalli (que están en av. Chisco)
 [15/05/2026, 22:47:34] Yo: Crisantemos #3, col. Santa María
 [15/05/2026, 22:47:34] Yo: Hola, buenas noches. Soy Nora 😃
-Quiero hacerte un pedido a domicilio de favor:
-Serían 2 tortas de suadero con todo 
-2 tortas de milanesa con todo
 [15/05/2026, 22:47:34] Yo: 26199870955587@lid

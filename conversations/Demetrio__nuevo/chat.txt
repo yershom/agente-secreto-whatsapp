@@ -1,14 +1,15 @@
+VERSION:3.0
+N:;mayelicarrillo;;;
+FN:mayelicarrillo
+item1.TEL;waid=5217341550074:+52 734 155 0074
+item1.X-ABLabel:Celular
+END:VCARD
+VERSION:3.0
+N:;mayelicarrillo;;;
+FN:mayelicarrillo
+item1.TEL;waid=5217341550074:+52 734 155 0074
+item1.X-ABLabel:Celular
+END:VCARD
 [14/05/2026, 23:48:21] Yo: BEGIN:VCARD
-VERSION:3.0
-N:;mayelicarrillo;;;
-FN:mayelicarrillo
-item1.TEL;waid=5217341550074:+52 734 155 0074
-item1.X-ABLabel:Celular
-END:VCARD
+[14/05/2026, 23:48:21] Yo: BEGIN:VCARD
 [15/05/2026, 22:47:50] Yo: BEGIN:VCARD
-VERSION:3.0
-N:;mayelicarrillo;;;
-FN:mayelicarrillo
-item1.TEL;waid=5217341550074:+52 734 155 0074
-item1.X-ABLabel:Celular
-END:VCARD

@@ -1,7 +1,3 @@
-[14/05/2026, 23:45:29] Yo: Si, gracias
-[14/05/2026, 23:45:29] Asistente dr. Ortíz: Por favor
-[14/05/2026, 23:45:29] Asistente dr. Ortíz: Hola buen día, disculpe la molestia, me apoya reenviando la información al contacto que le acabo de enviar, para que puedan realizar su factura
-[14/05/2026, 23:45:29] Asistente dr. Ortíz: BEGIN:VCARD
 VERSION:3.0
 N:;;;;
 FN:Dr. Ortiz Amador Coloproctologia Y Cirugia General
@@ -10,27 +6,37 @@ X-WA-BIZ-NAME:Dr. Ortiz Amador Coloproctologia Y Cirugia General
 X-WA-BIZ-DESCRIPTION:Especialista en Colo Proctología , Cirugía General (Gastro intestinal ).
 TEL;type=CELL;type=VOICE;waid=5217771115469:+52 777 111 5469
 END:VCARD
-[14/05/2026, 23:45:29] Yo: Correo:
 gersom.miranda@gmail.com
+VERSION:3.0
+N:;;;;
+FN:Dr. Ortiz Amador Coloproctologia Y Cirugia General
+ORG:Dr. Ortiz Amador Coloproctologia Y Cirugia General;
+X-WA-BIZ-NAME:Dr. Ortiz Amador Coloproctologia Y Cirugia General
+X-WA-BIZ-DESCRIPTION:Especialista en Colo Proctología , Cirugía General (Gastro intestinal ).
+TEL;type=CELL;type=VOICE;waid=5217771115469:+52 777 111 5469
+END:VCARD
+gersom.miranda@gmail.com
+[14/05/2026, 23:45:29] Yo: Si, gracias
+[14/05/2026, 23:45:29] Asistente dr. Ortíz: Por favor
+[14/05/2026, 23:45:29] Asistente dr. Ortíz: Hola buen día, disculpe la molestia, me apoya reenviando la información al contacto que le acabo de enviar, para que puedan realizar su factura
+[14/05/2026, 23:45:29] Asistente dr. Ortíz: BEGIN:VCARD
+[14/05/2026, 23:45:29] Yo: Correo:
 [14/05/2026, 23:45:29] Yo: Facturar a régimen de asalariado
 [14/05/2026, 23:45:29] Yo: Constancia Situacion Fiscal GSML.pdf
 [14/05/2026, 23:45:29] Yo: [Archivo adjunto]
+[14/05/2026, 23:45:29] Yo: Si, gracias
+[14/05/2026, 23:45:29] Asistente dr. Ortíz: Por favor
+[14/05/2026, 23:45:29] Asistente dr. Ortíz: Hola buen día, disculpe la molestia, me apoya reenviando la información al contacto que le acabo de enviar, para que puedan realizar su factura
+[14/05/2026, 23:45:29] Asistente dr. Ortíz: BEGIN:VCARD
+[14/05/2026, 23:45:29] Yo: Correo:
+[14/05/2026, 23:45:29] Yo: Facturar a régimen de asalariado
+[14/05/2026, 23:45:29] Yo: Constancia Situacion Fiscal GSML.pdf
 [14/05/2026, 23:45:29] Yo: [Archivo adjunto]
 [15/05/2026, 22:47:31] Yo: Si, gracias
 [15/05/2026, 22:47:31] Asistente dr. Ortíz: Por favor
 [15/05/2026, 22:47:31] Asistente dr. Ortíz: Hola buen día, disculpe la molestia, me apoya reenviando la información al contacto que le acabo de enviar, para que puedan realizar su factura
 [15/05/2026, 22:47:31] Asistente dr. Ortíz: BEGIN:VCARD
-VERSION:3.0
-N:;;;;
-FN:Dr. Ortiz Amador Coloproctologia Y Cirugia General
-ORG:Dr. Ortiz Amador Coloproctologia Y Cirugia General;
-X-WA-BIZ-NAME:Dr. Ortiz Amador Coloproctologia Y Cirugia General
-X-WA-BIZ-DESCRIPTION:Especialista en Colo Proctología , Cirugía General (Gastro intestinal ).
-TEL;type=CELL;type=VOICE;waid=5217771115469:+52 777 111 5469
-END:VCARD
 [15/05/2026, 22:47:31] Yo: Correo:
-gersom.miranda@gmail.com
 [15/05/2026, 22:47:31] Yo: Facturar a régimen de asalariado
 [15/05/2026, 22:47:31] Yo: Constancia Situacion Fiscal GSML.pdf
-[15/05/2026, 22:47:31] Yo: [Archivo adjunto]
 [15/05/2026, 22:47:31] Yo: [Archivo adjunto]

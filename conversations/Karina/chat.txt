@@ -1,3 +1,13 @@
+VERSION:3.0
+N:;Alma Delia CPM;;;
+FN:Alma Delia CPM
+TEL;type=CELL;waid=5217341088915:+52 1 734 108 8915
+END:VCARD
+VERSION:3.0
+N:;Alma Delia CPM;;;
+FN:Alma Delia CPM
+TEL;type=CELL;waid=5217341088915:+52 1 734 108 8915
+END:VCARD
 [14/05/2026, 23:46:19] Yo: Si amiga 😀💕
 [14/05/2026, 23:46:19] Karina: Con cuidado
 [14/05/2026, 23:46:19] Karina: Hola, sí me mandas mensaje 😊
@@ -15,11 +25,25 @@
 [14/05/2026, 23:46:19] Yo: Diganle que son amigos de Gersom Miranda
 [14/05/2026, 23:46:19] Yo: Hola amiga, este el teléfono de la señora de la caja popular que podría apoyarles
 [14/05/2026, 23:46:19] Yo: BEGIN:VCARD
-VERSION:3.0
-N:;Alma Delia CPM;;;
-FN:Alma Delia CPM
-TEL;type=CELL;waid=5217341088915:+52 1 734 108 8915
-END:VCARD
+[14/05/2026, 23:46:19] Yo: Si amiga, te aviso en un ratito
+[14/05/2026, 23:46:19] Yo: [Archivo adjunto]
+[14/05/2026, 23:46:19] Yo: Si amiga 😀💕
+[14/05/2026, 23:46:19] Karina: Con cuidado
+[14/05/2026, 23:46:19] Karina: Hola, sí me mandas mensaje 😊
+[14/05/2026, 23:46:19] Yo: Regresando te aviso
+[14/05/2026, 23:46:19] Yo: Hola amiga, salimos 😅🥹
+[14/05/2026, 23:46:19] Karina: Estaba disponibles?
+[14/05/2026, 23:46:19] Karina: Apenas viendo tu mensaje
+[14/05/2026, 23:46:19] Karina: Hola
+[14/05/2026, 23:46:19] Yo: Estás ocupada? Aquí ando con Leah
+[14/05/2026, 23:46:19] Yo: Está estable por lo pronto amiga
+[14/05/2026, 23:46:19] Karina: Cómo está tu hermana?
+[14/05/2026, 23:46:19] Karina: Se lo envío a mi mamá para que se comunique
+[14/05/2026, 23:46:19] Karina: Hola, muchas gracias!
+[14/05/2026, 23:46:19] Yo: Perdón que ayer ya no pude escribirte o marcarte, llegó mi hermana a verme anoche
+[14/05/2026, 23:46:19] Yo: Diganle que son amigos de Gersom Miranda
+[14/05/2026, 23:46:19] Yo: Hola amiga, este el teléfono de la señora de la caja popular que podría apoyarles
+[14/05/2026, 23:46:19] Yo: BEGIN:VCARD
 [14/05/2026, 23:46:19] Yo: Si amiga, te aviso en un ratito
 [14/05/2026, 23:46:19] Yo: [Archivo adjunto]
 [14/05/2026, 23:46:20] Karina: Sí tú me avisas y ya hacemos la videollamada para que se saluden 😊
@@ -28,11 +52,23 @@ END:VCARD
 [14/05/2026, 23:46:20] Yo: Si, si, yo te apoyo
 [14/05/2026, 23:46:20] Karina: Pero ahora tú cuéntame también
 [14/05/2026, 23:46:20] Karina: [Archivo adjunto]
+[14/05/2026, 23:46:20] Karina: Sí tú me avisas y ya hacemos la videollamada para que se saluden 😊
+[14/05/2026, 23:46:20] Karina: Gracias 🫶
+[14/05/2026, 23:46:20] Yo: Necesito a Leah jeje ahorita no está, hoy en la noche yo creo amiga
+[14/05/2026, 23:46:20] Yo: Si, si, yo te apoyo
+[14/05/2026, 23:46:20] Karina: Pero ahora tú cuéntame también
+[14/05/2026, 23:46:20] Karina: [Archivo adjunto]
+[14/05/2026, 23:46:21] Karina: [Archivo adjunto]
 [14/05/2026, 23:46:21] Karina: [Archivo adjunto]
 [14/05/2026, 23:46:22] Yo: A ok, le pido los teléfonos a Gersom y te los paso amiga
 [14/05/2026, 23:46:22] Yo: Hay si amiga! Claro que si a la videollamada
 [14/05/2026, 23:46:22] Karina: [Archivo adjunto]
+[14/05/2026, 23:46:22] Yo: A ok, le pido los teléfonos a Gersom y te los paso amiga
+[14/05/2026, 23:46:22] Yo: Hay si amiga! Claro que si a la videollamada
+[14/05/2026, 23:46:22] Karina: [Archivo adjunto]
 [14/05/2026, 23:46:24] Karina: [Archivo adjunto]
+[14/05/2026, 23:46:24] Karina: [Archivo adjunto]
+[14/05/2026, 23:46:25] Karina: [Archivo adjunto]
 [14/05/2026, 23:46:25] Karina: [Archivo adjunto]
 [14/05/2026, 23:46:26] Yo: Me da tantisisisimo gusto lo de tu abuelita amiga
 [14/05/2026, 23:46:26] Karina: Y me dijo que las quería saludar. Ahorita que te estaba escribiendo de repente se volvió a acordar de ti como si supiera que te estaba escribiendo
@@ -42,6 +78,17 @@ END:VCARD
 [14/05/2026, 23:46:26] Karina: Ya he podido hasta platicar con ella aunque sea un poco. Tiene momentos de más lucidez
 [14/05/2026, 23:46:26] Karina: Gracias a Dios todo ha estado mejor. Mi abuelita ha estado mejor después de que pensamos que ya no se podía hacer nada por ella. Apenas fue al Doctor y le dijeron a mi mamá que hasta sus riñones mejoraron, que no hay explicación para esa mejoría.
 [14/05/2026, 23:46:26] Karina: [Archivo adjunto]
+[14/05/2026, 23:46:26] Yo: Me da tantisisisimo gusto lo de tu abuelita amiga
+[14/05/2026, 23:46:26] Karina: Y me dijo que las quería saludar. Ahorita que te estaba escribiendo de repente se volvió a acordar de ti como si supiera que te estaba escribiendo
+[14/05/2026, 23:46:26] Yo: Que tierno tu niño
+[14/05/2026, 23:46:26] Yo: Lloraré 🥹🥹🥹
+[14/05/2026, 23:46:26] Karina: Te escribía para saber cómo estás y también porque hace tres días Osvan se acordó de Leah y de ti
+[14/05/2026, 23:46:26] Karina: Ya he podido hasta platicar con ella aunque sea un poco. Tiene momentos de más lucidez
+[14/05/2026, 23:46:26] Karina: Gracias a Dios todo ha estado mejor. Mi abuelita ha estado mejor después de que pensamos que ya no se podía hacer nada por ella. Apenas fue al Doctor y le dijeron a mi mamá que hasta sus riñones mejoraron, que no hay explicación para esa mejoría.
+[14/05/2026, 23:46:26] Karina: [Archivo adjunto]
+[14/05/2026, 23:46:27] Yo: Más o menos, pero cuéntame tú, cómo ha estado? Me urge más saber de ti y tu familia
+[14/05/2026, 23:46:27] Yo: Hola amiga
+[14/05/2026, 23:46:27] Karina: Hola Eli, cómo han estado?
 [14/05/2026, 23:46:27] Yo: Más o menos, pero cuéntame tú, cómo ha estado? Me urge más saber de ti y tu familia
 [14/05/2026, 23:46:27] Yo: Hola amiga
 [14/05/2026, 23:46:27] Karina: Hola Eli, cómo han estado?
@@ -62,11 +109,6 @@ END:VCARD
 [15/05/2026, 22:47:36] Yo: Diganle que son amigos de Gersom Miranda
 [15/05/2026, 22:47:36] Yo: Hola amiga, este el teléfono de la señora de la caja popular que podría apoyarles
 [15/05/2026, 22:47:36] Yo: BEGIN:VCARD
-VERSION:3.0
-N:;Alma Delia CPM;;;
-FN:Alma Delia CPM
-TEL;type=CELL;waid=5217341088915:+52 1 734 108 8915
-END:VCARD
 [15/05/2026, 22:47:36] Yo: Si amiga, te aviso en un ratito
 [15/05/2026, 22:47:36] Yo: [Archivo adjunto]
 [15/05/2026, 22:47:36] Karina: Sí tú me avisas y ya hacemos la videollamada para que se saluden 😊
@@ -75,12 +117,8 @@ END:VCARD
 [15/05/2026, 22:47:36] Yo: Si, si, yo te apoyo
 [15/05/2026, 22:47:36] Karina: Pero ahora tú cuéntame también
 [15/05/2026, 22:47:36] Karina: [Archivo adjunto]
-[15/05/2026, 22:47:36] Karina: [Archivo adjunto]
 [15/05/2026, 22:47:36] Yo: A ok, le pido los teléfonos a Gersom y te los paso amiga
 [15/05/2026, 22:47:36] Yo: Hay si amiga! Claro que si a la videollamada
-[15/05/2026, 22:47:36] Karina: [Archivo adjunto]
-[15/05/2026, 22:47:36] Karina: [Archivo adjunto]
-[15/05/2026, 22:47:36] Karina: [Archivo adjunto]
 [15/05/2026, 22:47:36] Yo: Me da tantisisisimo gusto lo de tu abuelita amiga
 [15/05/2026, 22:47:36] Karina: Y me dijo que las quería saludar. Ahorita que te estaba escribiendo de repente se volvió a acordar de ti como si supiera que te estaba escribiendo
 [15/05/2026, 22:47:36] Yo: Que tierno tu niño
@@ -88,7 +126,6 @@ END:VCARD
 [15/05/2026, 22:47:36] Karina: Te escribía para saber cómo estás y también porque hace tres días Osvan se acordó de Leah y de ti
 [15/05/2026, 22:47:36] Karina: Ya he podido hasta platicar con ella aunque sea un poco. Tiene momentos de más lucidez
 [15/05/2026, 22:47:36] Karina: Gracias a Dios todo ha estado mejor. Mi abuelita ha estado mejor después de que pensamos que ya no se podía hacer nada por ella. Apenas fue al Doctor y le dijeron a mi mamá que hasta sus riñones mejoraron, que no hay explicación para esa mejoría.
-[15/05/2026, 22:47:36] Karina: [Archivo adjunto]
 [15/05/2026, 22:47:36] Yo: Más o menos, pero cuéntame tú, cómo ha estado? Me urge más saber de ti y tu familia
 [15/05/2026, 22:47:36] Yo: Hola amiga
 [15/05/2026, 22:47:36] Karina: Hola Eli, cómo han estado?

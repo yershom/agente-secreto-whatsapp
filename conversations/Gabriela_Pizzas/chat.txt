@@ -2,14 +2,12 @@
 [14/05/2026, 23:27:21] Yo: Si, se me olvidó, y ya había transferido
 [14/05/2026, 23:27:21] Gabriela Pizzas: Ensu anterior pedido igual le cobramos $280
 [14/05/2026, 23:27:21] Gabriela Pizzas: [Archivo adjunto]
-[14/05/2026, 23:27:21] Gabriela Pizzas: Ok
 [14/05/2026, 23:27:21] Yo: Cuando recojan
 [14/05/2026, 23:27:21] Yo: Te debo $20 entonces, ahorita les digo que te los den
 [14/05/2026, 23:27:21] Yo: Perdón, sabía que eran $260
 [14/05/2026, 23:27:21] Yo: Aaa eran $280?
 [14/05/2026, 23:27:21] Yo: [Archivo adjunto]
 [14/05/2026, 23:27:21] Gabriela Pizzas: $280
-[14/05/2026, 23:27:21] Gabriela Pizzas: [Archivo adjunto]
 [14/05/2026, 23:27:21] Gabriela Pizzas: Ya va salir su pedido para allá
 [14/05/2026, 23:27:21] Gabriela Pizzas: Me puedes mandar captura de su transferencia por favor
 [14/05/2026, 23:27:21] Yo: Calle azucenas #71
@@ -19,24 +17,52 @@
 [14/05/2026, 23:27:21] Gabriela Pizzas: Si
 [14/05/2026, 23:27:21] Yo: Ojalá traiga cambio
 [14/05/2026, 23:27:21] Yo: Se me olvidó decirle que pagaría con $500
-[14/05/2026, 23:27:21] Gabriela Pizzas: $280
 [14/05/2026, 23:27:21] Yo: Cuánto será?
 [14/05/2026, 23:27:21] Yo: Gracias
 [14/05/2026, 23:27:21] Gabriela Pizzas: Ya se fue para allá su pedido gracias
 [14/05/2026, 23:27:21] Yo: Grandes por cierto jajaja
 [14/05/2026, 23:27:21] Yo: Gracias 😊
-[14/05/2026, 23:27:21] Gabriela Pizzas: Ok
 [14/05/2026, 23:27:21] Yo: Una de salchicha con jamón y otra tipo pastor de jamón
 [14/05/2026, 23:27:21] Gabriela Pizzas: Y sabor
 [14/05/2026, 23:27:21] Gabriela Pizzas: Q tamaño
 [14/05/2026, 23:27:21] Gabriela Pizzas: Buenas tardes
 [14/05/2026, 23:27:21] Gabriela Pizzas: Si claro
 [14/05/2026, 23:27:21] Yo: Hola, buenas tardes, te puedo encargar 2 pizzas de favor?
-[14/05/2026, 23:27:21] Gabriela Pizzas: Si claro
 [14/05/2026, 23:27:21] Gabriela Pizzas: Hola buenas tardes
 [14/05/2026, 23:27:21] Yo: Hola! Hoy estás vendiendo pizzas?
 [14/05/2026, 23:27:21] Yo: 23347475800197@lid
-[14/05/2026, 23:27:21] Yo: 23347475800197@lid
+[14/05/2026, 23:27:21] Gabriela Pizzas: Ok
+[14/05/2026, 23:27:21] Yo: Si, se me olvidó, y ya había transferido
+[14/05/2026, 23:27:21] Gabriela Pizzas: Ensu anterior pedido igual le cobramos $280
+[14/05/2026, 23:27:21] Gabriela Pizzas: [Archivo adjunto]
+[14/05/2026, 23:27:21] Yo: Cuando recojan
+[14/05/2026, 23:27:21] Yo: Te debo $20 entonces, ahorita les digo que te los den
+[14/05/2026, 23:27:21] Yo: Perdón, sabía que eran $260
+[14/05/2026, 23:27:21] Yo: Aaa eran $280?
+[14/05/2026, 23:27:21] Yo: [Archivo adjunto]
+[14/05/2026, 23:27:21] Gabriela Pizzas: $280
+[14/05/2026, 23:27:21] Gabriela Pizzas: Ya va salir su pedido para allá
+[14/05/2026, 23:27:21] Gabriela Pizzas: Me puedes mandar captura de su transferencia por favor
+[14/05/2026, 23:27:21] Yo: Calle azucenas #71
+[14/05/2026, 23:27:21] Yo: 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
+[14/05/2026, 23:27:21] Gabriela Pizzas: 7341399794
+[14/05/2026, 23:27:21] Yo: Hola, buenas tardes, están vendiendo?
+[14/05/2026, 23:27:21] Gabriela Pizzas: Si
+[14/05/2026, 23:27:21] Yo: Ojalá traiga cambio
+[14/05/2026, 23:27:21] Yo: Se me olvidó decirle que pagaría con $500
+[14/05/2026, 23:27:21] Yo: Cuánto será?
+[14/05/2026, 23:27:21] Yo: Gracias
+[14/05/2026, 23:27:21] Gabriela Pizzas: Ya se fue para allá su pedido gracias
+[14/05/2026, 23:27:21] Yo: Grandes por cierto jajaja
+[14/05/2026, 23:27:21] Yo: Gracias 😊
+[14/05/2026, 23:27:21] Yo: Una de salchicha con jamón y otra tipo pastor de jamón
+[14/05/2026, 23:27:21] Gabriela Pizzas: Y sabor
+[14/05/2026, 23:27:21] Gabriela Pizzas: Q tamaño
+[14/05/2026, 23:27:21] Gabriela Pizzas: Buenas tardes
+[14/05/2026, 23:27:21] Gabriela Pizzas: Si claro
+[14/05/2026, 23:27:21] Yo: Hola, buenas tardes, te puedo encargar 2 pizzas de favor?
+[14/05/2026, 23:27:21] Gabriela Pizzas: Hola buenas tardes
+[14/05/2026, 23:27:21] Yo: Hola! Hoy estás vendiendo pizzas?
 [14/05/2026, 23:27:21] Yo: 23347475800197@lid
 [15/05/2026, 22:46:51] Gabriela Pizzas: Ok
 [15/05/2026, 22:46:51] Yo: Si, se me olvidó, y ya había transferido
@@ -59,22 +85,17 @@
 [15/05/2026, 22:46:52] Gabriela Pizzas: Si
 [15/05/2026, 22:46:52] Yo: Ojalá traiga cambio
 [15/05/2026, 22:46:52] Yo: Se me olvidó decirle que pagaría con $500
-[15/05/2026, 22:46:52] Gabriela Pizzas: $280
 [15/05/2026, 22:46:52] Yo: Cuánto será?
 [15/05/2026, 22:46:52] Yo: Gracias
 [15/05/2026, 22:46:52] Gabriela Pizzas: Ya se fue para allá su pedido gracias
 [15/05/2026, 22:46:52] Yo: Grandes por cierto jajaja
 [15/05/2026, 22:46:52] Yo: Gracias 😊
-[15/05/2026, 22:46:52] Gabriela Pizzas: Ok
 [15/05/2026, 22:46:52] Yo: Una de salchicha con jamón y otra tipo pastor de jamón
 [15/05/2026, 22:46:52] Gabriela Pizzas: Y sabor
 [15/05/2026, 22:46:52] Gabriela Pizzas: Q tamaño
 [15/05/2026, 22:46:52] Gabriela Pizzas: Buenas tardes
 [15/05/2026, 22:46:52] Gabriela Pizzas: Si claro
 [15/05/2026, 22:46:52] Yo: Hola, buenas tardes, te puedo encargar 2 pizzas de favor?
-[15/05/2026, 22:46:52] Gabriela Pizzas: Si claro
 [15/05/2026, 22:46:52] Gabriela Pizzas: Hola buenas tardes
 [15/05/2026, 22:46:52] Yo: Hola! Hoy estás vendiendo pizzas?
-[15/05/2026, 22:46:52] Yo: 23347475800197@lid
-[15/05/2026, 22:46:52] Yo: 23347475800197@lid
 [15/05/2026, 22:46:52] Yo: 23347475800197@lid

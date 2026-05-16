@@ -6,6 +6,14 @@ item1.X-ABLabel:Casa
 X-WA-BIZ-DESCRIPTION:Renta d mesa, sillas, manteleria, sombrillas; servicio de fletes y mudanzas solo áreas cercanas a Jojutla
 X-WA-BIZ-NAME:Sillas Don Simon
 END:VCARD
+VERSION:3.0
+N:Simon;Sillas;Don;;
+FN:Sillas Don Simon
+item1.TEL;waid=5217345241996:+52 734 524 1996
+item1.X-ABLabel:Casa
+X-WA-BIZ-DESCRIPTION:Renta d mesa, sillas, manteleria, sombrillas; servicio de fletes y mudanzas solo áreas cercanas a Jojutla
+X-WA-BIZ-NAME:Sillas Don Simon
+END:VCARD
 [14/05/2026, 13:07:23] MARIA LAPOR María LaPor: https://www.facebook.com/share/v/16vyjU9jaR/
 [14/05/2026, 13:10:34] MARIA LAPOR María LaPor: https://www.facebook.com/share/v/16vyjU9jaR/
 [14/05/2026, 13:10:34] MARIA LAPOR María LaPor: pa que salgas
@@ -122,6 +130,184 @@ END:VCARD
 [14/05/2026, 23:12:48] MARIA LAPOR María LaPor: ala hora que que quieran
 [14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si, pueden venir princesa
 [14/05/2026, 23:12:48] Yo: [Archivo adjunto]
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: https://www.facebook.com/share/v/16vyjU9jaR/
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: pa que salgas
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: voy a pasar. dejar a los niños
+[14/05/2026, 23:12:48] Yo: Gracias
+[14/05/2026, 23:12:48] Yo: Shalom
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: se te presta
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si vas a vender refresco tengo mi hielera y la del templo aquí en la casa por si las equieres
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: nora
+[14/05/2026, 23:12:48] Yo: Si, mañana primero Dios
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: ah
+[14/05/2026, 23:12:48] Yo: Shalom, hoy no, se inicia mañana
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: Gersom no me di e bien o ceme olvida
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: Nora ,vas a vender hoy o mañana ?
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: shalom como estan todos
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: ah ,,si
+[14/05/2026, 23:12:48] Yo: Si voy 😀
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: está bien que ?
+[14/05/2026, 23:12:48] Yo: Si, está bien
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: piensalo y me dices como no es tu música. a lo mejor no gusta
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: nora ,ando mitoteando a Gersom que me lleve a ver al gpo de los Acosta , le dije que te invitará pa ver si quieres ir ,pa ir viendo lo de los boletos , va i r mare y sarpas tambien
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: Nora que haces
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: Nora hace  mucha calor ahí ,vénganse ala sala aqui
+[14/05/2026, 23:12:48] Yo: Allá llegamos
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: por fis
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: una coca grande de 3 litrod
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: de coca sin azúcar, porque ay uno de naranja aquí
+[14/05/2026, 23:12:48] Yo: De qué sabor el refresco?
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: nomás pasa por tortillas  y un refresco
+[14/05/2026, 23:12:48] Yo: Que a las 2?
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si,
+[14/05/2026, 23:12:48] Yo: Me dijo que a la hora de la comida lleguemos
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: no me salen la llamada
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: se va hacer pez pa los niños,,y pa los adultos ay consomé de ayer , por si. te quieres venir con los niños
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: oye ,le dije a Gersom algo pero no me entendió
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: dónde andan
+[14/05/2026, 23:12:48] Yo: Apenas inicie ayer, pero creo que si, gracias por preguntar
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: y ya estás mejor ?
+[14/05/2026, 23:12:48] Yo: Shalom, ando con una infección vías urinarias
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: que te paso
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: shalom Nora como estas , me dijo leita que estas enferma
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si
+[14/05/2026, 23:12:48] Yo: Averiguo
+[14/05/2026, 23:12:48] Yo: Deje ver si aún hace
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: pa este sábado
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: 4 bolsas para la iglesia y 3 yo
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: quería ver si nosandas hacer tostadas. con tu amiga
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: shalom Nora como estas
+[14/05/2026, 23:12:48] Yo: Con gusto
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: gracias
+[14/05/2026, 23:12:48] Yo: Si, claro, es ese
+[14/05/2026, 23:12:48] Yo: BEGIN:VCARD
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: asme un favor ,si me pasas el teléfono del que renta mesas
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: shalom nora
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si, Nora gracias
+[14/05/2026, 23:12:48] Yo: Shalom. Le confirmo que ya quedó agendado el asunto de las sillas.
+[14/05/2026, 23:12:48] Yo: Ok si
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si me haces favor
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: mejor alas 11 Nora
+[14/05/2026, 23:12:48] Yo: Si, está bien, gracias
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si gustas
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: y te vienes el sábado aquí ,
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: para las 12 del día de favor
+[14/05/2026, 23:12:48] Yo: Pars que hora las pido?.
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: tu que sabes con quien
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: pa este sabado
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: solo 10 sillas negras
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si me consigues en renta 10 sillas negras. de las que se doblan
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: asme 1 favor
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: Nora shalom como estas
+[14/05/2026, 23:12:48] Yo: Le podría dar el saco a Gersom para que lo traiga de favor y lo cheque con Aharón?
+[14/05/2026, 23:12:48] Yo: Si, ando mal, me salieron unas hemorroides
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: para la fiesta de keyra
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: es azul marino
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si gustas verlo
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: otra cosa , aquí un saco de EMI que podría servir para aharon , por si no tiene aharon
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: me dicen que andas enferma ,
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: cómo estas
+[14/05/2026, 23:12:48] Yo: Le digo
+[14/05/2026, 23:12:48] Yo: Ya casi se va a jugar fútbol
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: le iba a decir en persona pero no lo ví cuando se fue
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: por dile a Gersom que vea los mensajes
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: shalom Nora, cómo amanecieron
+[14/05/2026, 23:12:48] Yo: Si pues, está caro. Mejor no, gracias
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: 1400 pesos
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: de lo que te dije de la peinadora ,solo que si cobran caro
+[14/05/2026, 23:12:48] Yo: 😁gracias mamá Mary 🙌🏼💐💞
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: ala hora que que quieran
+[14/05/2026, 23:12:48] MARIA LAPOR María LaPor: si, pueden venir princesa
+[14/05/2026, 23:12:48] Yo: [Archivo adjunto]
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: https://www.facebook.com/share/v/16vyjU9jaR/
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: pa que salgas
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: voy a pasar. dejar a los niños
+[14/05/2026, 23:20:17] Yo: Gracias
+[14/05/2026, 23:20:17] Yo: Shalom
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: se te presta
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: si vas a vender refresco tengo mi hielera y la del templo aquí en la casa por si las equieres
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: nora
+[14/05/2026, 23:20:17] Yo: Si, mañana primero Dios
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: ah
+[14/05/2026, 23:20:17] Yo: Shalom, hoy no, se inicia mañana
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: Gersom no me di e bien o ceme olvida
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: Nora ,vas a vender hoy o mañana ?
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: shalom como estan todos
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: ah ,,si
+[14/05/2026, 23:20:17] Yo: Si voy 😀
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: está bien que ?
+[14/05/2026, 23:20:17] Yo: Si, está bien
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: piensalo y me dices como no es tu música. a lo mejor no gusta
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: nora ,ando mitoteando a Gersom que me lleve a ver al gpo de los Acosta , le dije que te invitará pa ver si quieres ir ,pa ir viendo lo de los boletos , va i r mare y sarpas tambien
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: Nora que haces
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: Nora hace  mucha calor ahí ,vénganse ala sala aqui
+[14/05/2026, 23:20:17] Yo: Allá llegamos
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: por fis
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: una coca grande de 3 litrod
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: de coca sin azúcar, porque ay uno de naranja aquí
+[14/05/2026, 23:20:17] Yo: De qué sabor el refresco?
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: nomás pasa por tortillas  y un refresco
+[14/05/2026, 23:20:17] Yo: Que a las 2?
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: si,
+[14/05/2026, 23:20:17] Yo: Me dijo que a la hora de la comida lleguemos
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: no me salen la llamada
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: se va hacer pez pa los niños,,y pa los adultos ay consomé de ayer , por si. te quieres venir con los niños
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: oye ,le dije a Gersom algo pero no me entendió
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: dónde andan
+[14/05/2026, 23:20:17] Yo: Apenas inicie ayer, pero creo que si, gracias por preguntar
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: y ya estás mejor ?
+[14/05/2026, 23:20:17] Yo: Shalom, ando con una infección vías urinarias
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: que te paso
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: shalom Nora como estas , me dijo leita que estas enferma
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: si
+[14/05/2026, 23:20:17] Yo: Averiguo
+[14/05/2026, 23:20:17] Yo: Deje ver si aún hace
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: pa este sábado
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: 4 bolsas para la iglesia y 3 yo
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: quería ver si nosandas hacer tostadas. con tu amiga
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: shalom Nora como estas
+[14/05/2026, 23:20:17] Yo: Con gusto
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: gracias
+[14/05/2026, 23:20:17] Yo: Si, claro, es ese
+[14/05/2026, 23:20:17] Yo: BEGIN:VCARD
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: asme un favor ,si me pasas el teléfono del que renta mesas
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: shalom nora
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: si, Nora gracias
+[14/05/2026, 23:20:17] Yo: Shalom. Le confirmo que ya quedó agendado el asunto de las sillas.
+[14/05/2026, 23:20:17] Yo: Ok si
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: si me haces favor
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: mejor alas 11 Nora
+[14/05/2026, 23:20:17] Yo: Si, está bien, gracias
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: si gustas
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: y te vienes el sábado aquí ,
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: para las 12 del día de favor
+[14/05/2026, 23:20:17] Yo: Pars que hora las pido?.
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: tu que sabes con quien
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: pa este sabado
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: solo 10 sillas negras
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: si me consigues en renta 10 sillas negras. de las que se doblan
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: asme 1 favor
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: Nora shalom como estas
+[14/05/2026, 23:20:17] Yo: Le podría dar el saco a Gersom para que lo traiga de favor y lo cheque con Aharón?
+[14/05/2026, 23:20:17] Yo: Si, ando mal, me salieron unas hemorroides
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: para la fiesta de keyra
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: es azul marino
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: si gustas verlo
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: otra cosa , aquí un saco de EMI que podría servir para aharon , por si no tiene aharon
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: me dicen que andas enferma ,
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: cómo estas
+[14/05/2026, 23:20:17] Yo: Le digo
+[14/05/2026, 23:20:17] Yo: Ya casi se va a jugar fútbol
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: le iba a decir en persona pero no lo ví cuando se fue
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: por dile a Gersom que vea los mensajes
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: shalom Nora, cómo amanecieron
+[14/05/2026, 23:20:17] Yo: Si pues, está caro. Mejor no, gracias
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: 1400 pesos
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: de lo que te dije de la peinadora ,solo que si cobran caro
+[14/05/2026, 23:20:17] Yo: 😁gracias mamá Mary 🙌🏼💐💞
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: ala hora que que quieran
+[14/05/2026, 23:20:17] MARIA LAPOR María LaPor: si, pueden venir princesa
+[14/05/2026, 23:20:17] Yo: [Archivo adjunto]
 [14/05/2026, 23:20:17] MARIA LAPOR María LaPor: https://www.facebook.com/share/v/16vyjU9jaR/
 [14/05/2026, 23:20:17] MARIA LAPOR María LaPor: pa que salgas
 [14/05/2026, 23:20:17] MARIA LAPOR María LaPor: voy a pasar. dejar a los niños

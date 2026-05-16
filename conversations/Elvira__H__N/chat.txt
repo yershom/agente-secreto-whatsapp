@@ -1,3 +1,63 @@
+VERSION:3.0
+N:Refrigerador;Poli;;;
+FN:Poli Refrigerador
+TEL;type=Mobile;waid=5217773329301:+52 777 332 9301
+END:VCARD
+N:María;Consultorio;Gine;;
+FN:Consultorio Gine María
+item1.TEL;waid=5217341215432:+52 734 121 5432
+item1.X-ABLabel:Trabajo
+X-WA-BIZ-NAME:Consultorio Gine María
+N:;Pollería Lore;;;
+FN:Pollería Lore
+item1.TEL;waid=5217341595220:+52 734 159 5220
+item1.X-ABLabel:Celular
+Esté número es de mi vecina ella vende tortillas de mano y  también 
+Para picaditas y 
+Quesadillas por si gusta las llevan a domicilio
+N:;Doña Camí;;;
+FN:Doña Camí
+TEL;type=Celular;waid=5217341431612:+52 734 143 1612
+Por qué el sábado tampoco podré ir
+Hoy no fui yo 
+Fueron mís hijas 
+Cómo no puedo ir ando en mis días y tengo cólicos 
+Le pido una disculpa
+Espero que se encuentre bien 
+ Y le agradezco mucho por su condolencias gracias
+Va a ir mi hermana más tarde, una disculpa de verdad, créame que yo quería estar allí con ustedes, están en mis oraciones 🙏🏼
+Le escribo porque me enteré de lo sucedido y realmente lo lamento muchísimo 😭😭
+Espero no ser impertinente, le quería preguntar si ya están velando, para poder acompañar un rato
+VERSION:3.0
+N:Refrigerador;Poli;;;
+FN:Poli Refrigerador
+TEL;type=Mobile;waid=5217773329301:+52 777 332 9301
+END:VCARD
+N:María;Consultorio;Gine;;
+FN:Consultorio Gine María
+item1.TEL;waid=5217341215432:+52 734 121 5432
+item1.X-ABLabel:Trabajo
+X-WA-BIZ-NAME:Consultorio Gine María
+N:;Pollería Lore;;;
+FN:Pollería Lore
+item1.TEL;waid=5217341595220:+52 734 159 5220
+item1.X-ABLabel:Celular
+Esté número es de mi vecina ella vende tortillas de mano y  también 
+Para picaditas y 
+Quesadillas por si gusta las llevan a domicilio
+N:;Doña Camí;;;
+FN:Doña Camí
+TEL;type=Celular;waid=5217341431612:+52 734 143 1612
+Por qué el sábado tampoco podré ir
+Hoy no fui yo 
+Fueron mís hijas 
+Cómo no puedo ir ando en mis días y tengo cólicos 
+Le pido una disculpa
+Espero que se encuentre bien 
+ Y le agradezco mucho por su condolencias gracias
+Va a ir mi hermana más tarde, una disculpa de verdad, créame que yo quería estar allí con ustedes, están en mis oraciones 🙏🏼
+Le escribo porque me enteré de lo sucedido y realmente lo lamento muchísimo 😭😭
+Espero no ser impertinente, le quería preguntar si ya están velando, para poder acompañar un rato
 [14/05/2026, 23:20:25] Yo: Gracias 🫂
 [14/05/2026, 23:20:25] Elvira .H .N: Si ya le dije
 [14/05/2026, 23:20:25] Yo: Regar y barrer
@@ -13,11 +73,6 @@
 [14/05/2026, 23:20:25] Elvira .H .N: [Archivo adjunto]
 [14/05/2026, 23:20:25] Elvira .H .N: De verdad le agradezco mucho
 [14/05/2026, 23:20:25] Yo: BEGIN:VCARD
-VERSION:3.0
-N:Refrigerador;Poli;;;
-FN:Poli Refrigerador
-TEL;type=Mobile;waid=5217773329301:+52 777 332 9301
-END:VCARD
 [14/05/2026, 23:20:25] Elvira .H .N: Hay muchas gracias
 [14/05/2026, 23:20:25] Yo: Deje se lo pido
 [14/05/2026, 23:20:25] Yo: Lo tiene Gersom
@@ -27,29 +82,42 @@ END:VCARD
 [14/05/2026, 23:20:25] Yo: Cómo anda de tiempo hoy? Tengo que entregar un pedido de hamburguesas para el templo y quería que me apoyara de ser posible
 [14/05/2026, 23:20:25] Yo: Buenos días doña Elvira
 [14/05/2026, 23:20:25] Elvira .H .N: Gracias 🫂
-[14/05/2026, 23:20:25] Yo: BEGIN:VCARD
-VERSION:3.0
-N:María;Consultorio;Gine;;
-FN:Consultorio Gine María
-item1.TEL;waid=5217341215432:+52 734 121 5432
-item1.X-ABLabel:Trabajo
-X-WA-BIZ-NAME:Consultorio Gine María
-END:VCARD
 [14/05/2026, 23:20:25] Yo: Si, le paso el número, hay citas para dentro de 1 mes pero si hay cancelación, le llegan a marcar antes, tiene bien saturado
 [14/05/2026, 23:20:25] Yo: Buenos días
+[14/05/2026, 23:20:25] Yo: Gracias 🫂
+[14/05/2026, 23:20:25] Elvira .H .N: Si ya le dije
+[14/05/2026, 23:20:25] Yo: Regar y barrer
+[14/05/2026, 23:20:25] Yo: El jueves
+[14/05/2026, 23:20:25] Elvira .H .N: Ahora cuando sería
+[14/05/2026, 23:20:25] Elvira .H .N: Ijoles disculpe
+[14/05/2026, 23:20:25] Yo: Ya barrí 😅 ahora después
+[14/05/2026, 23:20:25] Elvira .H .N: Buenos días se me olvidó pero ahorita le digo
+[14/05/2026, 23:20:25] Yo: De casualidad le dio mi recado a Yose de que viniera a barrer?
+[14/05/2026, 23:20:25] Yo: Hola, buenos días doña Elvira
+[14/05/2026, 23:20:25] Elvira .H .N: Para ir por el pedido
+[14/05/2026, 23:20:25] Elvira .H .N: Usted me avisa cuando ya estén
 [14/05/2026, 23:20:25] Elvira .H .N: [Archivo adjunto]
+[14/05/2026, 23:20:25] Elvira .H .N: De verdad le agradezco mucho
+[14/05/2026, 23:20:25] Yo: BEGIN:VCARD
+[14/05/2026, 23:20:25] Elvira .H .N: Hay muchas gracias
+[14/05/2026, 23:20:25] Yo: Deje se lo pido
+[14/05/2026, 23:20:25] Yo: Lo tiene Gersom
+[14/05/2026, 23:20:25] Elvira .H .N: Si de casualidad conoce me podría mandar el número
+[14/05/2026, 23:20:25] Elvira .H .N: Usted tendrá un número de alguien que arregle lavadoras o refrigerador
+[14/05/2026, 23:20:25] Elvira .H .N: Hola buenos días
+[14/05/2026, 23:20:25] Yo: Cómo anda de tiempo hoy? Tengo que entregar un pedido de hamburguesas para el templo y quería que me apoyara de ser posible
+[14/05/2026, 23:20:25] Yo: Buenos días doña Elvira
+[14/05/2026, 23:20:25] Elvira .H .N: Gracias 🫂
+[14/05/2026, 23:20:25] Yo: Si, le paso el número, hay citas para dentro de 1 mes pero si hay cancelación, le llegan a marcar antes, tiene bien saturado
+[14/05/2026, 23:20:25] Yo: Buenos días
 [14/05/2026, 23:20:26] Elvira .H .N: [Archivo adjunto]
+[14/05/2026, 23:20:26] Elvira .H .N: [Archivo adjunto]
+[14/05/2026, 23:20:50] Elvira .H .N: [Archivo adjunto]
 [14/05/2026, 23:20:50] Elvira .H .N: [Archivo adjunto]
 [14/05/2026, 23:20:51] Elvira .H .N: Mire me mandaron a mi esté mensaje
 [14/05/2026, 23:20:51] Elvira .H .N: Con todo
 [14/05/2026, 23:20:51] Elvira .H .N: Hola buenas tardes quiero una de res por fis
 [14/05/2026, 23:20:51] Elvira .H .N: BEGIN:VCARD
-VERSION:3.0
-N:;Pollería Lore;;;
-FN:Pollería Lore
-item1.TEL;waid=5217341595220:+52 734 159 5220
-item1.X-ABLabel:Celular
-END:VCARD
 [14/05/2026, 23:20:51] Elvira .H .N: Si
 [14/05/2026, 23:20:51] Yo: Venderemos a partir de la 1 pm
 [14/05/2026, 23:20:51] Yo: [Archivo adjunto]
@@ -58,24 +126,31 @@ END:VCARD
 [14/05/2026, 23:20:51] Yo: Gracias 😊
 [14/05/2026, 23:20:51] Elvira .H .N: Sólo le habla temprano para que le aparte
 [14/05/2026, 23:20:51] Elvira .H .N: Buenos días doña Nora 
-Esté número es de mi vecina ella vende tortillas de mano y  también 
-Para picaditas y 
-Quesadillas por si gusta las llevan a domicilio
-[14/05/2026, 23:20:51] Elvira .H .N: BEGIN:VCARD
-VERSION:3.0
-N:;Doña Camí;;;
-FN:Doña Camí
-TEL;type=Celular;waid=5217341431612:+52 734 143 1612
-END:VCARD
 [14/05/2026, 23:20:51] Elvira .H .N: ‎Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/IXaNXxE3WAY8TwfWytvA2q?mode=gi_t
 [14/05/2026, 23:20:51] Elvira .H .N: Ya voy para allá
+[14/05/2026, 23:20:51] Elvira .H .N: Mire me mandaron a mi esté mensaje
+[14/05/2026, 23:20:51] Elvira .H .N: Con todo
+[14/05/2026, 23:20:51] Elvira .H .N: Hola buenas tardes quiero una de res por fis
+[14/05/2026, 23:20:51] Elvira .H .N: BEGIN:VCARD
+[14/05/2026, 23:20:51] Elvira .H .N: Si
+[14/05/2026, 23:20:51] Yo: Venderemos a partir de la 1 pm
 [14/05/2026, 23:20:51] Yo: [Archivo adjunto]
+[14/05/2026, 23:20:51] Yo: Por si me puede ayudar a publicar
+[14/05/2026, 23:20:51] Yo: Buenos días doña Elvira
+[14/05/2026, 23:20:51] Yo: Gracias 😊
+[14/05/2026, 23:20:51] Elvira .H .N: Sólo le habla temprano para que le aparte
+[14/05/2026, 23:20:51] Elvira .H .N: Buenos días doña Nora 
+[14/05/2026, 23:20:51] Elvira .H .N: ‎Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/IXaNXxE3WAY8TwfWytvA2q?mode=gi_t
+[14/05/2026, 23:20:51] Elvira .H .N: Ya voy para allá
 [14/05/2026, 23:20:52] Elvira .H .N: Gracias
 [14/05/2026, 23:20:52] Yo: Si, está bien, nos vemos mañana
 [14/05/2026, 23:20:52] Elvira .H .N: Creé que mañana pueda ir para hacerle el aseo 
-Por qué el sábado tampoco podré ir
 [14/05/2026, 23:20:52] Elvira .H .N: Buenos días
+[14/05/2026, 23:20:52] Elvira .H .N: [Archivo adjunto]
 [14/05/2026, 23:20:52] Elvira .H .N: Gracias
+[14/05/2026, 23:20:52] Yo: Si, está bien, nos vemos mañana
+[14/05/2026, 23:20:52] Elvira .H .N: Creé que mañana pueda ir para hacerle el aseo 
+[14/05/2026, 23:20:52] Elvira .H .N: Buenos días
 [14/05/2026, 23:20:52] Elvira .H .N: [Archivo adjunto]
 [14/05/2026, 23:20:54] Yo: Si, está bien, el jueves
 [14/05/2026, 23:20:54] Elvira .H .N: O también puedo ir el lunes pero como usted me diga
@@ -85,10 +160,17 @@ Por qué el sábado tampoco podré ir
 [14/05/2026, 23:20:54] Elvira .H .N: Gracias
 [14/05/2026, 23:20:54] Yo: No sé preocupe, que se mejore 🙏🏼🙏🏼🙏🏼
 [14/05/2026, 23:20:54] Elvira .H .N: Hola buenos días 
-Hoy no fui yo 
-Fueron mís hijas 
-Cómo no puedo ir ando en mis días y tengo cólicos 
-Le pido una disculpa
+[14/05/2026, 23:20:54] Yo: [Archivo adjunto]
+[14/05/2026, 23:20:54] Elvira .H .N: Hola en un ratito voy solo pasé  almorzar
+[14/05/2026, 23:20:54] Elvira .H .N: [Archivo adjunto]
+[14/05/2026, 23:20:54] Yo: Si, está bien, el jueves
+[14/05/2026, 23:20:54] Elvira .H .N: O también puedo ir el lunes pero como usted me diga
+[14/05/2026, 23:20:54] Elvira .H .N: Si es que está de acuerdo que vaya el jueves me avisa para organizarme
+[14/05/2026, 23:20:54] Elvira .H .N: Quería comentarle que si el jueves puedo ir a hacer el aseo ya que el sábado no puedo ir
+[14/05/2026, 23:20:54] Elvira .H .N: Hola buenos días
+[14/05/2026, 23:20:54] Elvira .H .N: Gracias
+[14/05/2026, 23:20:54] Yo: No sé preocupe, que se mejore 🙏🏼🙏🏼🙏🏼
+[14/05/2026, 23:20:54] Elvira .H .N: Hola buenos días 
 [14/05/2026, 23:20:54] Yo: [Archivo adjunto]
 [14/05/2026, 23:20:54] Elvira .H .N: Hola en un ratito voy solo pasé  almorzar
 [14/05/2026, 23:20:54] Elvira .H .N: [Archivo adjunto]
@@ -97,17 +179,36 @@ Le pido una disculpa
 [14/05/2026, 23:20:55] Elvira .H .N: Hoy iré con usted
 [14/05/2026, 23:20:55] Elvira .H .N: Buenos días
 [14/05/2026, 23:20:55] Elvira .H .N: Si no se preocupe yo sé que usted de corazón le gustaría estar aquí 
-Espero que se encuentre bien 
- Y le agradezco mucho por su condolencias gracias
 [14/05/2026, 23:20:55] Yo: Me da mucha pena pero no podré ir 😭😭  me acaba de reventar una hemorroide y estoy con hemorragia...
-Va a ir mi hermana más tarde, una disculpa de verdad, créame que yo quería estar allí con ustedes, están en mis oraciones 🙏🏼
 [14/05/2026, 23:20:55] Elvira .H .N: Si gracias
 [14/05/2026, 23:20:55] Yo: La veo en un rato entonces, un abrazo amiga
 [14/05/2026, 23:20:55] Elvira .H .N: Buenos días gracias
 [14/05/2026, 23:20:55] Elvira .H .N: Si ya desde anoche
 [14/05/2026, 23:20:55] Yo: Buenos días.
-Le escribo porque me enteré de lo sucedido y realmente lo lamento muchísimo 😭😭
-Espero no ser impertinente, le quería preguntar si ya están velando, para poder acompañar un rato
+[14/05/2026, 23:20:55] Yo: Gracias
+[14/05/2026, 23:20:55] Yo: Aquí ando todavía
+[14/05/2026, 23:20:55] Elvira .H .N: Si hay algún pendiente me avisa
+[14/05/2026, 23:20:55] Elvira .H .N: Llegó en un rato
+[14/05/2026, 23:20:55] Yo: Hasta mañana! Linda noche
+[14/05/2026, 23:20:55] Yo: De acuerdo
+[14/05/2026, 23:20:55] Elvira .H .N: Sí gracias pero vamos mañana
+[14/05/2026, 23:20:55] Yo: Si se siente bien, puede venir mañana, si no, de verdad descanse. Se lo dejo a su criterio
+[14/05/2026, 23:20:55] Yo: Que bueno que ya está mejor, gracias a Dios
+[14/05/2026, 23:20:55] Elvira .H .N: Muchas gracias 🫂
+[14/05/2026, 23:20:55] Elvira .H .N: Gracias a Dios ya estoy bien
+[14/05/2026, 23:20:55] Elvira .H .N: Si ya mejor ayer ya fui a trabajar con don Saúl le fui a planchar
+[14/05/2026, 23:20:55] Yo: Cómo sigue? Espero que se sienta mejor 🙏🏼
+[14/05/2026, 23:20:55] Yo: Si, gracias. le mando un abrazo
+[14/05/2026, 23:20:55] Elvira .H .N: Pero será después de mi reunión del templo
+[14/05/2026, 23:20:55] Elvira .H .N: Hoy iré con usted
+[14/05/2026, 23:20:55] Elvira .H .N: Buenos días
+[14/05/2026, 23:20:55] Elvira .H .N: Si no se preocupe yo sé que usted de corazón le gustaría estar aquí 
+[14/05/2026, 23:20:55] Yo: Me da mucha pena pero no podré ir 😭😭  me acaba de reventar una hemorroide y estoy con hemorragia...
+[14/05/2026, 23:20:55] Elvira .H .N: Si gracias
+[14/05/2026, 23:20:55] Yo: La veo en un rato entonces, un abrazo amiga
+[14/05/2026, 23:20:55] Elvira .H .N: Buenos días gracias
+[14/05/2026, 23:20:55] Elvira .H .N: Si ya desde anoche
+[14/05/2026, 23:20:55] Yo: Buenos días.
 [14/05/2026, 23:20:55] Yo: Gracias
 [14/05/2026, 23:20:55] Yo: Aquí ando todavía
 [14/05/2026, 23:20:55] Elvira .H .N: Si hay algún pendiente me avisa
@@ -136,11 +237,6 @@ Espero no ser impertinente, le quería preguntar si ya están velando, para pode
 [15/05/2026, 22:46:30] Elvira .H .N: [Archivo adjunto]
 [15/05/2026, 22:46:30] Elvira .H .N: De verdad le agradezco mucho
 [15/05/2026, 22:46:30] Yo: BEGIN:VCARD
-VERSION:3.0
-N:Refrigerador;Poli;;;
-FN:Poli Refrigerador
-TEL;type=Mobile;waid=5217773329301:+52 777 332 9301
-END:VCARD
 [15/05/2026, 22:46:30] Elvira .H .N: Hay muchas gracias
 [15/05/2026, 22:46:30] Yo: Deje se lo pido
 [15/05/2026, 22:46:30] Yo: Lo tiene Gersom
@@ -150,29 +246,12 @@ END:VCARD
 [15/05/2026, 22:46:30] Yo: Cómo anda de tiempo hoy? Tengo que entregar un pedido de hamburguesas para el templo y quería que me apoyara de ser posible
 [15/05/2026, 22:46:30] Yo: Buenos días doña Elvira
 [15/05/2026, 22:46:30] Elvira .H .N: Gracias 🫂
-[15/05/2026, 22:46:30] Yo: BEGIN:VCARD
-VERSION:3.0
-N:María;Consultorio;Gine;;
-FN:Consultorio Gine María
-item1.TEL;waid=5217341215432:+52 734 121 5432
-item1.X-ABLabel:Trabajo
-X-WA-BIZ-NAME:Consultorio Gine María
-END:VCARD
 [15/05/2026, 22:46:30] Yo: Si, le paso el número, hay citas para dentro de 1 mes pero si hay cancelación, le llegan a marcar antes, tiene bien saturado
 [15/05/2026, 22:46:30] Yo: Buenos días
-[15/05/2026, 22:46:30] Elvira .H .N: [Archivo adjunto]
-[15/05/2026, 22:46:30] Elvira .H .N: [Archivo adjunto]
-[15/05/2026, 22:46:30] Elvira .H .N: [Archivo adjunto]
 [15/05/2026, 22:46:30] Elvira .H .N: Mire me mandaron a mi esté mensaje
 [15/05/2026, 22:46:30] Elvira .H .N: Con todo
 [15/05/2026, 22:46:30] Elvira .H .N: Hola buenas tardes quiero una de res por fis
 [15/05/2026, 22:46:30] Elvira .H .N: BEGIN:VCARD
-VERSION:3.0
-N:;Pollería Lore;;;
-FN:Pollería Lore
-item1.TEL;waid=5217341595220:+52 734 159 5220
-item1.X-ABLabel:Celular
-END:VCARD
 [15/05/2026, 22:46:30] Elvira .H .N: Si
 [15/05/2026, 22:46:30] Yo: Venderemos a partir de la 1 pm
 [15/05/2026, 22:46:30] Yo: [Archivo adjunto]
@@ -181,56 +260,33 @@ END:VCARD
 [15/05/2026, 22:46:31] Yo: Gracias 😊
 [15/05/2026, 22:46:31] Elvira .H .N: Sólo le habla temprano para que le aparte
 [15/05/2026, 22:46:31] Elvira .H .N: Buenos días doña Nora 
-Esté número es de mi vecina ella vende tortillas de mano y  también 
-Para picaditas y 
-Quesadillas por si gusta las llevan a domicilio
 [15/05/2026, 22:46:31] Elvira .H .N: BEGIN:VCARD
-VERSION:3.0
-N:;Doña Camí;;;
-FN:Doña Camí
-TEL;type=Celular;waid=5217341431612:+52 734 143 1612
-END:VCARD
 [15/05/2026, 22:46:31] Elvira .H .N: ‎Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/IXaNXxE3WAY8TwfWytvA2q?mode=gi_t
 [15/05/2026, 22:46:31] Elvira .H .N: Ya voy para allá
 [15/05/2026, 22:46:31] Yo: [Archivo adjunto]
 [15/05/2026, 22:46:31] Elvira .H .N: Gracias
 [15/05/2026, 22:46:31] Yo: Si, está bien, nos vemos mañana
 [15/05/2026, 22:46:31] Elvira .H .N: Creé que mañana pueda ir para hacerle el aseo 
-Por qué el sábado tampoco podré ir
 [15/05/2026, 22:46:31] Elvira .H .N: Buenos días
-[15/05/2026, 22:46:31] Elvira .H .N: Gracias
 [15/05/2026, 22:46:31] Elvira .H .N: [Archivo adjunto]
 [15/05/2026, 22:46:31] Yo: Si, está bien, el jueves
 [15/05/2026, 22:46:31] Elvira .H .N: O también puedo ir el lunes pero como usted me diga
 [15/05/2026, 22:46:31] Elvira .H .N: Si es que está de acuerdo que vaya el jueves me avisa para organizarme
 [15/05/2026, 22:46:31] Elvira .H .N: Quería comentarle que si el jueves puedo ir a hacer el aseo ya que el sábado no puedo ir
 [15/05/2026, 22:46:31] Elvira .H .N: Hola buenos días
-[15/05/2026, 22:46:31] Elvira .H .N: Gracias
 [15/05/2026, 22:46:31] Yo: No sé preocupe, que se mejore 🙏🏼🙏🏼🙏🏼
 [15/05/2026, 22:46:31] Elvira .H .N: Hola buenos días 
-Hoy no fui yo 
-Fueron mís hijas 
-Cómo no puedo ir ando en mis días y tengo cólicos 
-Le pido una disculpa
-[15/05/2026, 22:46:31] Yo: [Archivo adjunto]
 [15/05/2026, 22:46:31] Elvira .H .N: Hola en un ratito voy solo pasé  almorzar
-[15/05/2026, 22:46:31] Elvira .H .N: [Archivo adjunto]
 [15/05/2026, 22:46:31] Yo: Si, gracias. le mando un abrazo
 [15/05/2026, 22:46:31] Elvira .H .N: Pero será después de mi reunión del templo
 [15/05/2026, 22:46:31] Elvira .H .N: Hoy iré con usted
-[15/05/2026, 22:46:31] Elvira .H .N: Buenos días
 [15/05/2026, 22:46:31] Elvira .H .N: Si no se preocupe yo sé que usted de corazón le gustaría estar aquí 
-Espero que se encuentre bien 
- Y le agradezco mucho por su condolencias gracias
 [15/05/2026, 22:46:31] Yo: Me da mucha pena pero no podré ir 😭😭  me acaba de reventar una hemorroide y estoy con hemorragia...
-Va a ir mi hermana más tarde, una disculpa de verdad, créame que yo quería estar allí con ustedes, están en mis oraciones 🙏🏼
 [15/05/2026, 22:46:31] Elvira .H .N: Si gracias
 [15/05/2026, 22:46:31] Yo: La veo en un rato entonces, un abrazo amiga
 [15/05/2026, 22:46:31] Elvira .H .N: Buenos días gracias
 [15/05/2026, 22:46:31] Elvira .H .N: Si ya desde anoche
 [15/05/2026, 22:46:31] Yo: Buenos días.
-Le escribo porque me enteré de lo sucedido y realmente lo lamento muchísimo 😭😭
-Espero no ser impertinente, le quería preguntar si ya están velando, para poder acompañar un rato
 [15/05/2026, 22:46:31] Yo: Gracias
 [15/05/2026, 22:46:31] Yo: Aquí ando todavía
 [15/05/2026, 22:46:31] Elvira .H .N: Si hay algún pendiente me avisa

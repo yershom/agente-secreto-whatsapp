@@ -1,3 +1,5 @@
+Hoy estaremos vendiendo hamburguesas, gustas que te aparte?
+Hoy estaremos vendiendo hamburguesas, gustas que te aparte?
 [14/05/2026, 23:27:30] Yo: [Archivo adjunto]
 [14/05/2026, 23:27:30] Gina: Ok
 [14/05/2026, 23:27:30] Yo: Son $300 de hamburguesas + $60 de papas = $360
@@ -6,15 +8,41 @@
 [14/05/2026, 23:27:30] Yo: De acuerdo
 [14/05/2026, 23:27:30] Gina: Es la opción 2 pero la salsa BBQ me la pones aparte de favor
 [14/05/2026, 23:27:30] Gina: 4
-[14/05/2026, 23:27:30] Yo: [Archivo adjunto]
 [14/05/2026, 23:27:30] Yo: Cuántas serían? Te envió menú
 [14/05/2026, 23:27:30] Yo: Si claro
 [14/05/2026, 23:27:30] Gina: Crees que las pueda recoger entre 3:30 o 4 de la tarde...???
 [14/05/2026, 23:27:30] Gina: Hola!!!  Buen día, si claro
 [14/05/2026, 23:27:30] Yo: Hola, buenos días 😊
-Hoy estaremos vendiendo hamburguesas, gustas que te aparte?
+[14/05/2026, 23:27:30] Gina: [Archivo adjunto]
+[14/05/2026, 23:27:30] Yo: [Archivo adjunto]
+[14/05/2026, 23:27:30] Gina: Ok
+[14/05/2026, 23:27:30] Yo: Son $300 de hamburguesas + $60 de papas = $360
+[14/05/2026, 23:27:30] Yo: Hola, ya está tu pedido
+[14/05/2026, 23:27:30] Yo: A nombre de quién quedaría el pedido?
+[14/05/2026, 23:27:30] Yo: De acuerdo
+[14/05/2026, 23:27:30] Gina: Es la opción 2 pero la salsa BBQ me la pones aparte de favor
+[14/05/2026, 23:27:30] Gina: 4
+[14/05/2026, 23:27:30] Yo: Cuántas serían? Te envió menú
+[14/05/2026, 23:27:30] Yo: Si claro
+[14/05/2026, 23:27:30] Gina: Crees que las pueda recoger entre 3:30 o 4 de la tarde...???
+[14/05/2026, 23:27:30] Gina: Hola!!!  Buen día, si claro
+[14/05/2026, 23:27:30] Yo: Hola, buenos días 😊
 [14/05/2026, 23:27:30] Gina: [Archivo adjunto]
 [14/05/2026, 23:27:31] Gina: [Archivo adjunto]
+[14/05/2026, 23:27:31] Gina: [Archivo adjunto]
+[14/05/2026, 23:27:32] Gina: Ok, perfecto
+[14/05/2026, 23:27:32] Yo: Te mandaré mensajito por si gustas hacer pedido, hoy se agotaron desde las 5 pm 😉
+[14/05/2026, 23:27:32] Gina: Ups ok, esperó no se me olvide
+[14/05/2026, 23:27:32] Yo: Si, los viernes, únicamente 😊
+[14/05/2026, 23:27:32] Gina: ❓❓❓
+[14/05/2026, 23:27:32] Gina: Entonces es sólo los Viernes
+[14/05/2026, 23:27:32] Gina: Ok
+[14/05/2026, 23:27:32] Yo: El próximo viernes nuevamente habrá servicio
+[14/05/2026, 23:27:32] Yo: Ya se agotaron, una disculpa
+[14/05/2026, 23:27:32] Yo: Hola, buenas noches
+[14/05/2026, 23:27:32] Gina: Disculpa dónde es el lugar??
+[14/05/2026, 23:27:32] Gina: A partir de la 1 pm ✨
+[14/05/2026, 23:27:32] Gina: Aún???
 [14/05/2026, 23:27:32] Gina: Ok, perfecto
 [14/05/2026, 23:27:32] Yo: Te mandaré mensajito por si gustas hacer pedido, hoy se agotaron desde las 5 pm 😉
 [14/05/2026, 23:27:32] Gina: Ups ok, esperó no se me olvide
@@ -36,13 +64,11 @@ Hoy estaremos vendiendo hamburguesas, gustas que te aparte?
 [15/05/2026, 22:46:52] Yo: De acuerdo
 [15/05/2026, 22:46:52] Gina: Es la opción 2 pero la salsa BBQ me la pones aparte de favor
 [15/05/2026, 22:46:52] Gina: 4
-[15/05/2026, 22:46:52] Yo: [Archivo adjunto]
 [15/05/2026, 22:46:52] Yo: Cuántas serían? Te envió menú
 [15/05/2026, 22:46:52] Yo: Si claro
 [15/05/2026, 22:46:52] Gina: Crees que las pueda recoger entre 3:30 o 4 de la tarde...???
 [15/05/2026, 22:46:52] Gina: Hola!!!  Buen día, si claro
 [15/05/2026, 22:46:52] Yo: Hola, buenos días 😊
-Hoy estaremos vendiendo hamburguesas, gustas que te aparte?
 [15/05/2026, 22:46:52] Gina: [Archivo adjunto]
 [15/05/2026, 22:46:53] Gina: [Archivo adjunto]
 [15/05/2026, 22:46:53] Gina: Ok, perfecto

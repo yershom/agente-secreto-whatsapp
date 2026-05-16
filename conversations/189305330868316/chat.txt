@@ -1,10 +1,7 @@
+Queremos atenderte de la manera más conveniente para ti, nos gustaría programar una cita para la visita de nuestro técnico. 
+¿Te gustaría agendar ahora mismo?
+Queremos atenderte de la manera más conveniente para ti, nos gustaría programar una cita para la visita de nuestro técnico. 
+¿Te gustaría agendar ahora mismo?
 [14/05/2026, 23:48:25] 5215523002323: Estimado cliente, no pudimos contactarte para la instalación de tu servicio TELMEX con folio *040635251*. 
-
-Queremos atenderte de la manera más conveniente para ti, nos gustaría programar una cita para la visita de nuestro técnico. 
-
-¿Te gustaría agendar ahora mismo?
+[14/05/2026, 23:48:25] 5215523002323: Estimado cliente, no pudimos contactarte para la instalación de tu servicio TELMEX con folio *040635251*. 
 [15/05/2026, 22:47:50] 5215523002323: Estimado cliente, no pudimos contactarte para la instalación de tu servicio TELMEX con folio *040635251*. 
-
-Queremos atenderte de la manera más conveniente para ti, nos gustaría programar una cita para la visita de nuestro técnico. 
-
-¿Te gustaría agendar ahora mismo?
