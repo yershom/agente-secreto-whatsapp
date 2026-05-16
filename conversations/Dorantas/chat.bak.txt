@@ -107,3 +107,21 @@ En breve comenzaremos a prepararlo 🍲😋
 [16/05/2026, 05:09:06] Yo: ¡Hola! 👋 
 [16/05/2026, 05:09:06] Dorantas: mandame la fot
 [16/05/2026, 05:09:06] Dorantas: Hi Preciosa
+[16/05/2026, 05:57:06] Dorantas: No hay pedidos para el filtro "abiertos".
+[16/05/2026, 05:57:06] Yo: !pedidos abiertos
+[16/05/2026, 05:57:06] Dorantas: No hay pedidos para el filtro "hoy".
+[16/05/2026, 05:57:06] Yo: !pedidos hoy
+[16/05/2026, 05:57:06] Dorantas: *COMANDOS DORANTAS ADMIN*
+[16/05/2026, 05:57:06] Yo: !help
+[16/05/2026, 05:57:06] Dorantas: !help
+[16/05/2026, 05:57:06] Dorantas: Hola admin 👋 Usa *!help* para ver los comandos disponibles.
+[16/05/2026, 05:57:06] Yo: Hola
+[16/05/2026, 05:57:06] Dorantas: ¡Hola! Bienvenido a Dorantas. ¿Cómo te llamas?
+[16/05/2026, 05:57:06] Yo: [Archivo adjunto]
+[16/05/2026, 05:57:06] Dorantas: Te estás comunicando fuera del horario de servicio, con gusto te atenderemos dentro de nuestro horario de atención.
+[16/05/2026, 05:57:06] Yo: 146901554958590@lid
+[16/05/2026, 05:57:06] Dorantas: ¿Qué hamburguesa se te antoja hoy?
+[16/05/2026, 05:57:06] Dorantas: Gracias por escribirnos, nuestro horario de servicio es de 1pm a 10pm. Nos vemos en un rato
+[16/05/2026, 05:57:06] Yo: ¡Hola! 👋 
+[16/05/2026, 05:57:06] Dorantas: mandame la fot
+[16/05/2026, 05:57:06] Dorantas: Hi Preciosa

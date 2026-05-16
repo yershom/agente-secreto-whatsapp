@@ -24,3 +24,7 @@ Seguro les va a encantar nuestro nuevo hogar.
 [16/05/2026, 05:09:50] Yo: 51423677001875@lid
 [16/05/2026, 05:09:50] Chiquident Contacto: En caso de requerir cita esta semana la dra Silvanna la podria ver en la sucursal Cincinnati el jueves 9 de abril
 [16/05/2026, 05:09:50] Chiquident Contacto: Estimados pacientes: Queremos informarles que seguimos en proceso de mudanza y nuestro nuevo consultorio aún no se encuentra listo para brindarle la atención con la calidad que ustedes se merecen. 
+[16/05/2026, 05:58:08] Yo: [Archivo adjunto]
+[16/05/2026, 05:58:08] Yo: 51423677001875@lid
+[16/05/2026, 05:58:08] Chiquident Contacto: En caso de requerir cita esta semana la dra Silvanna la podria ver en la sucursal Cincinnati el jueves 9 de abril
+[16/05/2026, 05:58:08] Chiquident Contacto: Estimados pacientes: Queremos informarles que seguimos en proceso de mudanza y nuestro nuevo consultorio aún no se encuentra listo para brindarle la atención con la calidad que ustedes se merecen. 
