@@ -1,28 +1,26 @@
+Pagas con cambio
+Solo que solo tengo pollo
+2 órdenes de quesadillas doradas:
+1 puro  pollo y otra de pollo con rajas, porfavor
+120 
+Paga con cambio
+2 órdenes de enchiladas con todo
+[14/05/2026, 15:03:44] Tamales Nejo: [Archivo adjunto]
+[14/05/2026, 15:03:45] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:11:30] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:11:31] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:11:31] Yo: Si, exacto
 [14/05/2026, 23:11:31] Tamales Nejo: Serán $110 
-Pagas con cambio
 [14/05/2026, 23:11:31] Tamales Nejo: Ok
 [14/05/2026, 23:11:31] Yo: Te encargo de favor 1 taco de milanesa y 2 de huevo duro, y 1 de huevo en guajillo
-[14/05/2026, 23:11:31] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:31] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:31] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:31] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:31] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:31] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:11:31] Tamales Nejo: 135
 [14/05/2026, 23:11:31] Yo: Cuánto sería?
-[14/05/2026, 23:11:31] Tamales Nejo: Ok
 [14/05/2026, 23:11:31] Yo: Para niños, sin chile
 [14/05/2026, 23:11:31] Yo: Serían 3 de pollo con rajas y 2 de pollo únicamente porfavor
 [14/05/2026, 23:11:31] Tamales Nejo: Ahorita te las hago 
-Solo que solo tengo pollo
 [14/05/2026, 23:11:31] Tamales Nejo: Hola sii
 [14/05/2026, 23:11:31] Yo: Te encargaría 5 órdenes de favor
 [14/05/2026, 23:11:31] Yo: Hola! Todavía tienes quesadillas doradas?
-[14/05/2026, 23:11:31] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:32] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:11:32] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:11:36] Yo: Pago con $100
 [14/05/2026, 23:11:36] Tamales Nejo: Serian 90
@@ -32,17 +30,12 @@ Solo que solo tengo pollo
 [14/05/2026, 23:11:37] Tamales Nejo: Ok
 [14/05/2026, 23:11:37] Yo: Le encargo de favor 2 órdenes de tacos de birria?
 [14/05/2026, 23:11:37] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:37] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:37] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:11:41] Yo: Gracias
 [14/05/2026, 23:11:41] Tamales Nejo: Ya ban
 [14/05/2026, 23:11:41] Yo: Te pago exacto
 [14/05/2026, 23:11:41] Tamales Nejo: 60
 [14/05/2026, 23:11:41] Tamales Nejo: Ok
 [14/05/2026, 23:11:41] Yo: Buenos días, te quiero hacer pedido de favor 
-2 órdenes de quesadillas doradas:
-  
-1 puro  pollo y otra de pollo con rajas, porfavor
 [14/05/2026, 23:11:41] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:11:42] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:11:45] Tamales Nejo: [Archivo adjunto]
@@ -51,81 +44,42 @@ Solo que solo tengo pollo
 [14/05/2026, 23:11:45] Tamales Nejo: Ok
 [14/05/2026, 23:11:45] Yo: Me vende de favor 1 gorda de pollo y 1 quesadilla porfavor de pollo
 [14/05/2026, 23:11:46] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:46] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:11:46] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:26] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:27] Yo: Si, exacto
 [14/05/2026, 23:19:27] Tamales Nejo: Serán $110 
-Pagas con cambio
 [14/05/2026, 23:19:27] Tamales Nejo: Ok
 [14/05/2026, 23:19:27] Yo: Te encargo de favor 1 taco de milanesa y 2 de huevo duro, y 1 de huevo en guajillo
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:27] Tamales Nejo: 135
 [14/05/2026, 23:19:27] Yo: Cuánto sería?
-[14/05/2026, 23:19:27] Tamales Nejo: Ok
 [14/05/2026, 23:19:27] Yo: Para niños, sin chile
 [14/05/2026, 23:19:27] Yo: Serían 3 de pollo con rajas y 2 de pollo únicamente porfavor
 [14/05/2026, 23:19:27] Tamales Nejo: Ahorita te las hago 
-Solo que solo tengo pollo
 [14/05/2026, 23:19:27] Tamales Nejo: Hola sii
 [14/05/2026, 23:19:27] Yo: Te encargaría 5 órdenes de favor
 [14/05/2026, 23:19:27] Yo: Hola! Todavía tienes quesadillas doradas?
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:27] Yo: Pago con $100
 [14/05/2026, 23:19:27] Tamales Nejo: Serian 90
-[14/05/2026, 23:19:27] Tamales Nejo: Ok
 [14/05/2026, 23:19:27] Yo: Que sean 8 tacos en total porfavor
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: Ok
 [14/05/2026, 23:19:27] Yo: Le encargo de favor 2 órdenes de tacos de birria?
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:27] Yo: Gracias
 [14/05/2026, 23:19:27] Tamales Nejo: Ya ban
 [14/05/2026, 23:19:27] Yo: Te pago exacto
 [14/05/2026, 23:19:27] Tamales Nejo: 60
-[14/05/2026, 23:19:27] Tamales Nejo: Ok
 [14/05/2026, 23:19:27] Yo: Buenos días, te quiero hacer pedido de favor 
-2 órdenes de quesadillas doradas:
-  
-1 puro  pollo y otra de pollo con rajas, porfavor
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:27] Tamales Nejo: Ya va
 [14/05/2026, 23:19:27] Tamales Nejo: Serian $75 paga con cambio
-[14/05/2026, 23:19:27] Tamales Nejo: Ok
 [14/05/2026, 23:19:27] Yo: Me vende de favor 1 gorda de pollo y 1 quesadilla porfavor de pollo
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:27] Yo: Pago así, exacto
 [14/05/2026, 23:19:27] Tamales Nejo: Serian 100 serrados
-[14/05/2026, 23:19:27] Yo: Cuánto sería?
-[14/05/2026, 23:19:27] Tamales Nejo: Ok
 [14/05/2026, 23:19:27] Yo: Si, poco, gracias
 [14/05/2026, 23:19:27] Tamales Nejo: Aceite si
-[14/05/2026, 23:19:27] Tamales Nejo: Ok
 [14/05/2026, 23:19:27] Yo: Hola, te encargo 3 quesadillas de pollo por favor, sin crema ni queso, solo pollo
-[14/05/2026, 23:19:27] Tamales Nejo: [Archivo adjunto]
-[14/05/2026, 23:19:29] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:29] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:31] Tamales Nejo: Ok
 [14/05/2026, 23:19:31] Yo: Si, le daré cambio
 [14/05/2026, 23:19:31] Yo: Si, creo que si, permítame
 [14/05/2026, 23:19:31] Tamales Nejo: $110  y 10 pendientes 
-120 
-Paga con cambio
-[14/05/2026, 23:19:31] Tamales Nejo: Ok
 [14/05/2026, 23:19:31] Yo: Hola! Me puedes traer de favor 4 tacos de milanesa, pero podría ser lo más rápido posible de favor 😅🥹🫣 ya nos tenemos que ir y estoy corriendo
 [14/05/2026, 23:19:31] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:34] Tamales Nejo: [Archivo adjunto]
@@ -138,12 +92,8 @@ Paga con cambio
 [14/05/2026, 23:19:34] Tamales Nejo: Ya ba serian 110
 [14/05/2026, 23:19:34] Tamales Nejo: Ok
 [14/05/2026, 23:19:34] Yo: Te encargo 7 tacos de birria y 1 quesadilla de pollo porfavor
-[14/05/2026, 23:19:34] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:34] Tamales Nejo: Ya Ban  130
-[14/05/2026, 23:19:34] Tamales Nejo: Ok
 [14/05/2026, 23:19:34] Yo: 2 quesadillas de pollo sin queso ni crema 
-2 órdenes de enchiladas con todo
-[14/05/2026, 23:19:34] Tamales Nejo: [Archivo adjunto]
 [14/05/2026, 23:19:35] Yo: Hola! Buenos días! Hoy va a vender? Tengo que salir y si tiene algo para que me venda de una vez, le agradecería mucho
 [14/05/2026, 23:19:35] Yo: Gracias
 [14/05/2026, 23:19:35] Tamales Nejo: Ya va para allá lupita
@@ -162,81 +112,39 @@ Paga con cambio
 [14/05/2026, 23:19:37] Tamales Nejo: Claro
 [14/05/2026, 23:19:37] Yo: Con crema y queso todo
 [15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
 [15/05/2026, 22:46:20] Yo: Si, exacto
 [15/05/2026, 22:46:20] Tamales Nejo: Serán $110 
-Pagas con cambio
 [15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Te encargo de favor 1 taco de milanesa y 2 de huevo duro, y 1 de huevo en guajillo
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
 [15/05/2026, 22:46:20] Tamales Nejo: 135
 [15/05/2026, 22:46:20] Yo: Cuánto sería?
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Para niños, sin chile
 [15/05/2026, 22:46:20] Yo: Serían 3 de pollo con rajas y 2 de pollo únicamente porfavor
 [15/05/2026, 22:46:20] Tamales Nejo: Ahorita te las hago 
-Solo que solo tengo pollo
 [15/05/2026, 22:46:20] Tamales Nejo: Hola sii
 [15/05/2026, 22:46:20] Yo: Te encargaría 5 órdenes de favor
 [15/05/2026, 22:46:20] Yo: Hola! Todavía tienes quesadillas doradas?
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
 [15/05/2026, 22:46:20] Yo: Pago con $100
 [15/05/2026, 22:46:20] Tamales Nejo: Serian 90
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Que sean 8 tacos en total porfavor
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Le encargo de favor 2 órdenes de tacos de birria?
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
 [15/05/2026, 22:46:20] Yo: Gracias
 [15/05/2026, 22:46:20] Tamales Nejo: Ya ban
 [15/05/2026, 22:46:20] Yo: Te pago exacto
 [15/05/2026, 22:46:20] Tamales Nejo: 60
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Buenos días, te quiero hacer pedido de favor 
-2 órdenes de quesadillas doradas:
-  
-1 puro  pollo y otra de pollo con rajas, porfavor
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
 [15/05/2026, 22:46:20] Tamales Nejo: Ya va
 [15/05/2026, 22:46:20] Tamales Nejo: Serian $75 paga con cambio
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Me vende de favor 1 gorda de pollo y 1 quesadilla porfavor de pollo
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
 [15/05/2026, 22:46:20] Yo: Pago así, exacto
 [15/05/2026, 22:46:20] Tamales Nejo: Serian 100 serrados
-[15/05/2026, 22:46:20] Yo: Cuánto sería?
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Si, poco, gracias
 [15/05/2026, 22:46:20] Tamales Nejo: Aceite si
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Hola, te encargo 3 quesadillas de pollo por favor, sin crema ni queso, solo pollo
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Si, le daré cambio
 [15/05/2026, 22:46:20] Yo: Si, creo que si, permítame
 [15/05/2026, 22:46:20] Tamales Nejo: $110  y 10 pendientes 
-120 
-Paga con cambio
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Hola! Me puedes traer de favor 4 tacos de milanesa, pero podría ser lo más rápido posible de favor 😅🥹🫣 ya nos tenemos que ir y estoy corriendo
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
 [15/05/2026, 22:46:20] Tamales Nejo: Luego meda lis 10
 [15/05/2026, 22:46:20] Tamales Nejo: Esta vien
 [15/05/2026, 22:46:20] Tamales Nejo: Si
@@ -244,26 +152,16 @@ Paga con cambio
 [15/05/2026, 22:46:20] Yo: No tengo cambio
 [15/05/2026, 22:46:20] Yo: Ok
 [15/05/2026, 22:46:20] Tamales Nejo: Ya ba serian 110
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Te encargo 7 tacos de birria y 1 quesadilla de pollo porfavor
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
 [15/05/2026, 22:46:20] Tamales Nejo: Ya Ban  130
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: 2 quesadillas de pollo sin queso ni crema 
-2 órdenes de enchiladas con todo
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
 [15/05/2026, 22:46:20] Yo: Hola! Buenos días! Hoy va a vender? Tengo que salir y si tiene algo para que me venda de una vez, le agradecería mucho
-[15/05/2026, 22:46:20] Yo: Gracias
 [15/05/2026, 22:46:20] Tamales Nejo: Ya va para allá lupita
 [15/05/2026, 22:46:20] Tamales Nejo: Te boy yevar cambio
 [15/05/2026, 22:46:20] Yo: Ok, deja te busco cambio
 [15/05/2026, 22:46:20] Tamales Nejo: 50
 [15/05/2026, 22:46:20] Yo: Te encargo dos picadas verdes con pollo de favor?
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: Si
 [15/05/2026, 22:46:20] Yo: Hola, buenos días, hoy vendieron?
-[15/05/2026, 22:46:20] Tamales Nejo: [Archivo adjunto]
-[15/05/2026, 22:46:20] Tamales Nejo: Ok
 [15/05/2026, 22:46:20] Yo: Pago con $200
 [15/05/2026, 22:46:20] Tamales Nejo: 165
 [15/05/2026, 22:46:20] Tamales Nejo: Orita selo mando

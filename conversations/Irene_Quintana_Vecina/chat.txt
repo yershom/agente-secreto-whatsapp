@@ -1,3 +1,65 @@
+VERSION:3.0
+N:(Pikin);Panadero;Pedro;;
+FN:Panadero Pedro (Pikin)
+item1.TEL;waid=5217341431412:+52 734 143 1412
+item1.X-ABLabel:Celular
+END:VCARD
+[14/05/2026, 13:07:18] Yo: Buenas noches Irene, tendrás que me devuelvas ya mi garrafón de agua? Ya no tengo
+[14/05/2026, 13:07:18] Irene Quintana Vecina: Ok gracias
+[14/05/2026, 13:07:18] Yo: Ven en 10 min
+[14/05/2026, 13:07:18] Irene Quintana Vecina: Licensiada buenos días cuando puedas pasar a poner mi mangera me avisa porfabor gracias
+[14/05/2026, 13:07:18] Irene Quintana Vecina: Yesque no tengo internet para enviarle mensaje no me agarra nada la señal mi ija tenía que Aser su tarea de la escuela y no la a podido Aser porfis me avisa
+[14/05/2026, 13:07:18] Irene Quintana Vecina: Usted. Me avisa si me podrá regalar agua porfabor
+[14/05/2026, 13:07:18] Irene Quintana Vecina: Licenciada buenas días
+[14/05/2026, 13:07:18] Irene Quintana Vecina: En cuanto la desocupe me avisa porfabor
+[14/05/2026, 13:07:18] Yo: Okis
+[14/05/2026, 13:07:18] Irene Quintana Vecina: Ya boy licenciada
+[14/05/2026, 13:10:30] Yo: Buenas noches Irene, tendrás que me devuelvas ya mi garrafón de agua? Ya no tengo
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Ok gracias
+[14/05/2026, 13:10:30] Yo: Ven en 10 min
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Licensiada buenos días cuando puedas pasar a poner mi mangera me avisa porfabor gracias
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Yesque no tengo internet para enviarle mensaje no me agarra nada la señal mi ija tenía que Aser su tarea de la escuela y no la a podido Aser porfis me avisa
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Usted. Me avisa si me podrá regalar agua porfabor
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Licenciada buenas días
+[14/05/2026, 13:10:30] Irene Quintana Vecina: En cuanto la desocupe me avisa porfabor
+[14/05/2026, 13:10:30] Yo: Okis
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Ya boy licenciada
+[14/05/2026, 13:10:30] Yo: Ya casi voy a salir
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Ok ahorita boy le toco grasias
+[14/05/2026, 13:10:30] Yo: Si, pasa
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Licenciada buenos días me podrá regalar un poco de agua con  su bomba porfabor
+[14/05/2026, 13:10:30] Yo: No, hasta mañana, ya apagué todo 😅
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Licenciada buenas noches ahun tiene papas
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Ok disculpe y gracias 🥹
+[14/05/2026, 13:10:30] Yo: No sé preocupe, no tengo pedido
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Discúlpeme licenciada vengo yegando con mija de Jojutla
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Ok boy
+[14/05/2026, 13:10:30] Yo: Ya, de una vez
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Licenciada me avisa aqueoras puedo yr a poner mi mangera y a barrer le
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Boy porfabor gracias
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Si podra
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Ay mil disculpas
+[14/05/2026, 13:10:30] Yo: Ya estaba acostada
+[14/05/2026, 13:10:30] Yo: Hola, si, pasa
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Digo pues si puede
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Licenciada quería ver si me podrá regalar un bote de agua porfa or no tengo para bañar porfa or
+[14/05/2026, 13:10:30] Irene Quintana Vecina: 🙄
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Ahí está licenciada
+[14/05/2026, 13:10:30] Yo: Jajaja
+[14/05/2026, 13:10:30] Yo: Mejor tu dime
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Oo juliansito como usted mire mejor gracias
+[14/05/2026, 13:10:30] Yo: Ok si
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Licenciada dise que si le pongan Julián
+[14/05/2026, 13:10:30] Irene Quintana Vecina: En un ratito boy
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Ok ahorita le ayudo
+[14/05/2026, 13:10:30] Yo: Y porfavor ayudame  a barrer la hoja, es mucha hoja
+[14/05/2026, 13:10:30] Yo: Ya puedes poner la manguera
+[14/05/2026, 13:10:30] Yo: Hola Irene, buenos días
+[14/05/2026, 13:10:30] Irene Quintana Vecina: Licenciada buenos días me avisa cuando ya pueda poner mi mangera porfavor gracias
+[14/05/2026, 13:10:30] Irene Quintana Vecina: [Archivo adjunto]
+[14/05/2026, 13:10:30] Yo: Ya vinieron a ayudarme porque no llegabas
+[14/05/2026, 13:10:30] Yo: Para partir la telera
+[14/05/2026, 13:10:30] Yo: Necesito mi cuchillo
 [14/05/2026, 23:10:40] Irene Quintana Vecina: [Archivo adjunto]
 [14/05/2026, 23:10:40] Yo: Buenas noches Irene, tendrás que me devuelvas ya mi garrafón de agua? Ya no tengo
 [14/05/2026, 23:10:40] Irene Quintana Vecina: Ok gracias
@@ -41,7 +103,6 @@
 [14/05/2026, 23:10:40] Yo: Ya puedes poner la manguera
 [14/05/2026, 23:10:40] Yo: Hola Irene, buenos días
 [14/05/2026, 23:10:40] Irene Quintana Vecina: Licenciada buenos días me avisa cuando ya pueda poner mi mangera porfavor gracias
-[14/05/2026, 23:10:40] Irene Quintana Vecina: [Archivo adjunto]
 [14/05/2026, 23:17:54] Irene Quintana Vecina: [Archivo adjunto]
 [14/05/2026, 23:17:54] Yo: Buenas noches Irene, tendrás que me devuelvas ya mi garrafón de agua? Ya no tengo
 [14/05/2026, 23:17:54] Irene Quintana Vecina: Ok gracias
@@ -85,7 +146,6 @@
 [14/05/2026, 23:17:54] Yo: Ya puedes poner la manguera
 [14/05/2026, 23:17:54] Yo: Hola Irene, buenos días
 [14/05/2026, 23:17:54] Irene Quintana Vecina: Licenciada buenos días me avisa cuando ya pueda poner mi mangera porfavor gracias
-[14/05/2026, 23:17:54] Irene Quintana Vecina: [Archivo adjunto]
 [14/05/2026, 23:17:54] Yo: Ya vinieron a ayudarme porque no llegabas
 [14/05/2026, 23:17:54] Yo: Para partir la telera
 [14/05/2026, 23:17:54] Yo: Necesito mi cuchillo
@@ -106,11 +166,8 @@
 [14/05/2026, 23:17:54] Yo: Ok
 [14/05/2026, 23:17:54] Irene Quintana Vecina: Gracias
 [14/05/2026, 23:17:54] Irene Quintana Vecina: Ahorita boy le toco
-[14/05/2026, 23:17:54] Yo: Si, pasa
 [14/05/2026, 23:17:54] Irene Quintana Vecina: Licenciada buenos días ya podré ir a poner mi mangera porfa
-[14/05/2026, 23:17:54] Irene Quintana Vecina: Ok
 [14/05/2026, 23:17:54] Yo: Anota si tienes pedido
-[14/05/2026, 23:17:54] Yo: Okis
 [14/05/2026, 23:17:54] Irene Quintana Vecina: No no tengo en la oficina de mi ijo descansan mañana trabajan asta el lunes
 [14/05/2026, 23:17:54] Yo: Para no hacer nada del patio, solo comida
 [14/05/2026, 23:17:54] Yo: Le estoy pidiendo a una niña que venga a barrer
@@ -137,12 +194,6 @@
 [14/05/2026, 23:17:54] Irene Quintana Vecina: Gracias boy a tratar de localizarlo grasias
 [14/05/2026, 23:17:54] Yo: Creo que es este
 [14/05/2026, 23:17:54] Yo: BEGIN:VCARD
-VERSION:3.0
-N:(Pikin);Panadero;Pedro;;
-FN:Panadero Pedro (Pikin)
-item1.TEL;waid=5217341431412:+52 734 143 1412
-item1.X-ABLabel:Celular
-END:VCARD
 [14/05/2026, 23:17:54] Irene Quintana Vecina: Si no lo pido ahorita ya no me lo aran
 [14/05/2026, 23:17:54] Irene Quintana Vecina: Ok se lo agradezco yesque quiero pedir pan para Bender al rato porfis
 [14/05/2026, 23:17:54] Yo: Le estoy pidiendo el teléfono a mi esposo, porque yo no lo tengo, ellos son amigos
@@ -213,7 +264,6 @@ END:VCARD
 [15/05/2026, 22:43:02] Yo: Ya puedes poner la manguera
 [15/05/2026, 22:43:02] Yo: Hola Irene, buenos días
 [15/05/2026, 22:43:02] Irene Quintana Vecina: Licenciada buenos días me avisa cuando ya pueda poner mi mangera porfavor gracias
-[15/05/2026, 22:43:02] Irene Quintana Vecina: [Archivo adjunto]
 [15/05/2026, 22:43:02] Yo: Ya vinieron a ayudarme porque no llegabas
 [15/05/2026, 22:43:02] Yo: Para partir la telera
 [15/05/2026, 22:43:02] Yo: Necesito mi cuchillo
@@ -232,13 +282,9 @@ END:VCARD
 [15/05/2026, 22:43:02] Yo: Hola, buenos días
 [15/05/2026, 22:43:02] Irene Quintana Vecina: Licenciada un poco la calle abersi puede barrerle yo decía pues yo cuando barro ahí le barro un poco
 [15/05/2026, 22:43:02] Yo: Ok
-[15/05/2026, 22:43:02] Irene Quintana Vecina: Gracias
 [15/05/2026, 22:43:02] Irene Quintana Vecina: Ahorita boy le toco
-[15/05/2026, 22:43:02] Yo: Si, pasa
 [15/05/2026, 22:43:02] Irene Quintana Vecina: Licenciada buenos días ya podré ir a poner mi mangera porfa
-[15/05/2026, 22:43:02] Irene Quintana Vecina: Ok
 [15/05/2026, 22:43:02] Yo: Anota si tienes pedido
-[15/05/2026, 22:43:02] Yo: Okis
 [15/05/2026, 22:43:02] Irene Quintana Vecina: No no tengo en la oficina de mi ijo descansan mañana trabajan asta el lunes
 [15/05/2026, 22:43:02] Yo: Para no hacer nada del patio, solo comida
 [15/05/2026, 22:43:02] Yo: Le estoy pidiendo a una niña que venga a barrer
