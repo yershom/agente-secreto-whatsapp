@@ -9,6 +9,17 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const HISTORY_FLAG = path.join(__dirname, '..', 'conversations', '.history_downloaded');
 
+async function loadAllMessages(chat) {
+  let hasMore = true;
+  let iterations = 0;
+  const MAX_ITERATIONS = 200;
+  while (hasMore && iterations < MAX_ITERATIONS) {
+    hasMore = await chat.loadEarlierMessages();
+    if (hasMore) await new Promise(r => setTimeout(r, 300));
+    iterations++;
+  }
+}
+
 async function downloadHistoryOnce(client) {
   if (fs.existsSync(HISTORY_FLAG)) {
     console.log('📋 Historial ya descargado anteriormente. Saltando...\n');
@@ -24,6 +35,7 @@ async function downloadHistoryOnce(client) {
     }
     console.log('💾 Backup de conversaciones existentes completado.');
 
+    const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968']);
     const chats = await client.getChats();
     console.log(`📊 Encontrados ${chats.length} chats. Descargando historial...`);
     console.log('⏱️  Esto puede tomar unos minutos...\n');
@@ -42,7 +54,10 @@ async function downloadHistoryOnce(client) {
       folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 
       try {
-        const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968']);
+        if (FULL_HISTORY_CHATS.has(folderName)) {
+          console.log(`  ⏳ Cargando historial completo de ${folderName}...`);
+          await loadAllMessages(chat);
+        }
         const limit = FULL_HISTORY_CHATS.has(folderName) ? 99999 : 100;
         const messages = await chat.fetchMessages({ limit });
 
