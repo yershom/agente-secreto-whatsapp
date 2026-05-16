@@ -6,7 +6,10 @@
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "node --watch src/index.js"
+    "dev": "node --watch src/index.js",
+    "monitor": "node src/monitor-telegram.js",
+    "monitor:test": "node src/monitor-telegram.js --test",
+    "telegram:chat-id": "node scripts/telegram-get-chat-id.js"
   },
   "keywords": ["whatsapp", "wa-web.js", "logger"],
   "author": "",
