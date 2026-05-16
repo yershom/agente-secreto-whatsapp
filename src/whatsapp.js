@@ -1,7 +1,7 @@
 import pkg from 'whatsapp-web.js';
 const { Client, LocalAuth } = pkg;
 import qrcode from 'qrcode-terminal';
-import { saveMessage, saveAttachment } from './storage.js';
+import { saveMessage, saveAttachment, backupChat, deduplicateChat } from './storage.js';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
@@ -16,6 +16,14 @@ async function downloadHistoryOnce(client) {
   }
 
   try {
+    const convDir = path.join(__dirname, '..', 'conversations');
+    if (fs.existsSync(convDir)) {
+      for (const dir of fs.readdirSync(convDir)) {
+        backupChat(dir);
+      }
+    }
+    console.log('💾 Backup de conversaciones existentes completado.');
+
     const chats = await client.getChats();
     console.log(`📊 Encontrados ${chats.length} chats. Descargando historial...`);
     console.log('⏱️  Esto puede tomar unos minutos...\n');
@@ -65,6 +73,7 @@ async function downloadHistoryOnce(client) {
               // Ignorar errores de mensajes individuales
             }
           }
+          deduplicateChat(folderName);
         }
       } catch (e) {
         console.warn(`  ⚠️  ${folderName}: ${e.message}`);
