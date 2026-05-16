@@ -9,12 +9,21 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const HISTORY_FLAG = path.join(__dirname, '..', 'conversations', '.history_downloaded');
 
-async function loadAllMessages(chat) {
+async function loadAllMessages(client, chat) {
   let hasMore = true;
   let iterations = 0;
   const MAX_ITERATIONS = 200;
   while (hasMore && iterations < MAX_ITERATIONS) {
-    hasMore = await chat.loadEarlierMessages();
+    hasMore = await client.pupPage.evaluate(async (chatId) => {
+      try {
+        const c = window.Store.Chat.get(chatId);
+        if (!c) return false;
+        const result = await c.loadEarlierMsgs();
+        return !!result;
+      } catch (e) {
+        return false;
+      }
+    }, chat.id._serialized);
     if (hasMore) await new Promise(r => setTimeout(r, 300));
     iterations++;
   }
@@ -56,7 +65,7 @@ async function downloadHistoryOnce(client) {
       try {
         if (FULL_HISTORY_CHATS.has(folderName)) {
           console.log(`  ⏳ Cargando historial completo de ${folderName}...`);
-          await loadAllMessages(chat);
+          await loadAllMessages(client, chat);
         }
         const limit = FULL_HISTORY_CHATS.has(folderName) ? 99999 : 100;
         const messages = await chat.fetchMessages({ limit });
