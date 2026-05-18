@@ -10,6 +10,23 @@ O puede marcar directamente con mis asistentes
 7773123830 &  7773113825
 O comunicarse con mis asistentes de lunes a viernes de 9:00 am a 20:00 y sábados de 9:00 a
 13:30 los números de consultorio 7773123830  & 7773113825
+[03/04/2026, 17:42:42] Yo: [Archivo adjunto]
+[03/04/2026, 17:42:56] Yo: Hola, le envío los datos para realizar mi factura porfavor
+[03/04/2026, 17:43:00] 67396761055481: Gracias por comunicarte con Dr. Ortiz Amador Coloproctologia , por el momento me encuentro en consulta o procedimiento 
+[03/04/2026, 17:43:00] 67396761055481: Gracias por comunicarte con Dr. Ortiz Amador Coloproctologia y cirugía general , cuento con consultorio en cuernavaca y cuautla. Por favor, haznos saber cómo podemos ayudarte.
+[03/04/2026, 17:43:11] Yo: Correo:
+[03/04/2026, 17:43:11] Yo: Facturar a régimen de asalariado
+[03/04/2026, 17:43:11] Yo: Constancia Situacion Fiscal GSML.pdf
+[03/04/2026, 17:43:11] Yo: [Archivo adjunto]
+[03/04/2026, 18:07:48] 67396761055481: Nombre del paciente ?
+[03/04/2026, 18:13:07] Yo: Nora Elizabeth Herrera Olivas
+[26/04/2026, 20:53:50] 67396761055481: Buenas día, soy el doctor Miguel Ortíz , le escribo para confirmar su cita mañana en cuernavaca
+[26/04/2026, 20:54:01] 67396761055481: Mañana 11:30 gracias
+[27/04/2026, 15:28:28] Yo: Hola, buenos días
+[27/04/2026, 15:28:42] Yo: No voy a poder asistir a mi consulta, estoy súper enferma de la garganta
+[27/04/2026, 15:29:04] Yo: Ayer tenía hasta fiebre,  disculpe, ya no le respondí
+[27/04/2026, 15:30:44] 67396761055481: No se preocupe
+[27/04/2026, 15:30:46] 67396761055481: Gracia s
 [14/05/2026, 23:28:32] 67396761055481: Gracia s
 [14/05/2026, 23:28:32] 67396761055481: No se preocupe
 [14/05/2026, 23:28:32] Yo: Ayer tenía hasta fiebre,  disculpe, ya no le respondí

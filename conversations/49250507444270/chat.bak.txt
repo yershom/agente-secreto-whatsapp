@@ -29,6 +29,97 @@ Soy de la generación 15-2 de Psicología Organizacional
 Soy David Montefort Flores y estoy aquí para ayudarte 
 Que tengas un excelente día/tarde/noche.
 Soy Fanny Vazquez Ojeda y estoy aquí para ayudarte 
+[14/04/2026, 21:32:24] Yo: [Archivo adjunto]
+[14/04/2026, 21:32:29] Yo: Folio de conversación: 95287276. Hola, estoy en la página de internet y quiero más información
+[14/04/2026, 21:32:37] 49250507444270: Hola!, elige una de estas opciones y serás atendido por un  asesor:
+[14/04/2026, 21:33:52] Yo: 3
+[14/04/2026, 21:33:59] 49250507444270: Selecciona una de estas opciones:
+[14/04/2026, 21:34:09] Yo: 4
+[14/04/2026, 21:34:19] 49250507444270: En un momento te transfiero con un asesor
+[14/04/2026, 21:35:08] Yo: Gracias
+[14/04/2026, 21:38:45] 49250507444270: ¡Hola! 
+[14/04/2026, 21:43:47] 49250507444270: No logramos tener tu respuesta, no te preocupes en cuanto estés disponible puedes escribirnos nuevamente; gracias por ponerte en contacto al Centro de Contacto y Servicios UNITEC, te atendió  Fanny Vazquez Ojeda. 
+[14/04/2026, 21:55:08] Yo: Hola!
+[14/04/2026, 21:55:20] 49250507444270: Hola!, elige una de estas opciones y serás atendido por un  asesor:
+[14/04/2026, 21:55:47] Yo: 3
+[14/04/2026, 21:55:50] 49250507444270: Selecciona una de estas opciones:
+[14/04/2026, 21:55:55] Yo: 4
+[14/04/2026, 21:56:00] 49250507444270: En un momento te transfiero con un asesor
+[14/04/2026, 21:56:17] 49250507444270: ¡Hola! 
+[14/04/2026, 21:56:26] Yo: Hola!
+[14/04/2026, 21:57:14] 49250507444270: Cuéntame, ¿en qué te puedo apoyar hoy?
+[14/04/2026, 21:57:15] Yo: Egresé en 2015. recogí mi certificado pero tuve que mudarme de Estado y ya nunca realicé el trámite de cédula y título. Quería pedir información al respecto.
+[14/04/2026, 21:57:31] Yo: Todavía puedo tramitarlo? Y si es posible, cuáles son los pasos a seguir?
+[14/04/2026, 22:00:31] 49250507444270: ¿Será de a licenciatura o maestría?
+[14/04/2026, 22:01:04] Yo: Maestría en Psicología
+[14/04/2026, 22:04:44] 49250507444270: Hola Nora, gracias por comunicarte al Centro de Atención Estudiantil UNITEC Campus online, te atiende Karen, veo que tienes duda sobre el proceso de titulación
+[14/04/2026, 22:05:14] Yo: Hola, así es 😊
+[14/04/2026, 22:07:18] Yo: Podrías ayudarme? el último semestre lo cursé en línea, supongo que por ello mi maestría ha quedado registrada de esta manera
+[14/04/2026, 22:08:30] 49250507444270: comprendo, veo que iniciaste en campus Sur
+[14/04/2026, 22:08:48] 49250507444270: ¿tus documentos los entregaste en campus Sur?
+[14/04/2026, 22:08:49] Yo: Si, inicie en campus sur, luego Marina y por último en línea
+[14/04/2026, 22:10:09] Yo: Los documentos para el trámite  del certificado los entregué en campus Marina. No inicié los trámites del título y cedula, tuve que irme del Estado
+[14/04/2026, 22:10:39] Yo: Tampoco recogí mi diploma
+[14/04/2026, 22:11:19] 49250507444270: regularmente el campus que entrega certificado es el campus que gestiona tu titulo
+[14/04/2026, 22:11:29] Yo: Ok, sería el campus Marina
+[14/04/2026, 22:11:51] 49250507444270: es correcto, si gustas, te puedo compartir los datos de contacto
+[14/04/2026, 22:12:06] 49250507444270: MARINA SERVICIOS ESCOLARES  
+[14/04/2026, 22:12:26] 49250507444270: Nora, aprovecho para consultar contigo si has realizado cambios en tu número telefónico o correo personal
+[14/04/2026, 22:12:47] Yo: El correo es el mismo. pero el teléfono es diferente.
+[14/04/2026, 22:12:55] Yo: Es el 7341411968
+[14/04/2026, 22:13:25] 49250507444270: ¿me podrías compartir tu nuevo número? por favor
+[14/04/2026, 22:13:34] Yo: Es el 7341411968
+[14/04/2026, 22:14:06] Yo: La vez anterior llame a campus Marina y me dijeron que mi maestría había quedado como si la hubiese hecho en línea y era otro trámite diferente
+[14/04/2026, 22:17:18] 49250507444270: las indicaciones de servicios escolares, son que el campus que gestiona certificado se encarga de realizar todos los trámites de documentación
+[14/04/2026, 22:18:47] Yo: Ok, me voy a comunicar nuevamente, muchas gracias s
+[14/04/2026, 22:19:22] 49250507444270: Es un placer ayudarte, te reitero, mi nombre es Karen del Centro de Atención Estudiantil UNITEC Campus online. ¡Hasta pronto!
+[21/04/2026, 18:00:41] Yo: Hola, buenas tardes
+[21/04/2026, 18:00:53] 49250507444270: Hola!, elige una de estas opciones y serás atendido por un  asesor:
+[21/04/2026, 18:01:28] Yo: 3
+[21/04/2026, 18:01:33] 49250507444270: Selecciona una de estas opciones:
+[21/04/2026, 18:01:46] Yo: 4
+[21/04/2026, 18:01:54] 49250507444270: En un momento te transfiero con un asesor
+[21/04/2026, 18:02:05] 49250507444270: ¡Hola! 
+[21/04/2026, 18:02:34] Yo: Hola!
+[21/04/2026, 18:03:47] Yo: Me he estado comunicando para tramitar mi título, pero me traen en vueltas porque hice 3 semestres presenciales y 1 en línea. Entonces, me comunico a campus Marina y me dicen que ellos no me pueden apoyar, que es en línea, y los de en línea, me dicen que es en campus Marina ...
+[21/04/2026, 18:04:16] Yo: Tu me puedes apoyar con los requisitos para tramitar mi título? Y generar una cita?
+[21/04/2026, 18:07:43] 49250507444270: Entiendo el titulo es de maestría?
+[21/04/2026, 18:07:54] Yo: Así es, de maestría
+[21/04/2026, 18:08:32] 49250507444270: Le comparto los requisitos
+[21/04/2026, 18:08:44] 49250507444270: MAESTRÍA.pdf
+[21/04/2026, 18:10:01] Yo: De acuerdo, y estos documentos, los llevaría a campus Marina ?
+[21/04/2026, 18:10:52] 49250507444270: Te voy a enlazar con campus enlinea mencionales que soo quieres saber a donde entregar la documentacion de titulo
+[21/04/2026, 18:11:01] Yo: Si, gracias
+[21/04/2026, 18:11:28] 49250507444270: Con base a lo que solicitas, En un momento te voy a transferir al área de campus en linea, quienes podrán ayudarte con tu duda o brindarte la información que necesitas, que tengas buena tarde, te atendió Ameyalli Juarez.
+[21/04/2026, 18:11:37] Yo: Graxias
+[21/04/2026, 18:20:21] 49250507444270: ¡Bienvenido, Mi nombre es Hilda Jardon, Asistente UNITEC. Es un placer saludarte. ¿Con quién tengo el gusto?
+[21/04/2026, 18:20:34] Yo: Hola Hilda, soy Nora
+[21/04/2026, 18:20:50] Yo: Soy Nora Elizabeth Herrera Olivas 
+[21/04/2026, 18:21:13] 49250507444270: Mucho gusto Nora, ¿Cómo te apoyo?
+[21/04/2026, 18:22:05] Yo: Por favor, apóyame en decirme dónde entregar mis documentos para titularme, como hice 1 semestre en línea, me dicen que debo concluir mi trámite allí
+[21/04/2026, 18:22:50] Yo: Acabo de marcar al campus Marina y me dicen que concluya el trámite con ustedes, que me agenden una cita
+[21/04/2026, 18:23:01] Yo: Solo quiero saber dónde entregar mis papeles
+[21/04/2026, 18:24:16] 49250507444270: Subes tus documentos en conecta.unitec.mx
+[21/04/2026, 18:24:43] 49250507444270: Ingresas usando tu correo institucional:nora.herrerao@my.unitec.edu.mx
+[21/04/2026, 18:24:55] 49250507444270: En el menú principal elige: CAE-CASA, después NUEVA SOLICITUD y busca la incidencia que dice: Titulación programa online
+[21/04/2026, 18:26:07] 49250507444270: ¿Te surge alguna duda?
+[21/04/2026, 18:26:33] Yo: El trámite lo hago todo en línea?
+[21/04/2026, 18:26:39] Yo: No tengo que llevar las fotos?
+[21/04/2026, 18:27:02] 49250507444270: Las fotos son el último paso y esas puedes entregarlas en campus Marina
+[21/04/2026, 18:27:20] Yo: Entiendo. Y necesito una cita para esto?
+[21/04/2026, 18:27:58] Yo: Tambien es necesario lo de no adeudo de la biblioteca, verdad? Creo que tendría que ir al campus por esto también
+[21/04/2026, 18:29:06] 49250507444270: No es necesario generar cita para entregar fotografías.
+[21/04/2026, 18:29:26] Yo: Cursé 3 semestres presenciales
+[21/04/2026, 18:29:40] Yo: Por eso no sé si debo o no llevarlo
+[21/04/2026, 18:30:15] 49250507444270: En el ticket de conecta unitec te podrían indicar
+[21/04/2026, 18:30:50] Yo: Ok, voy a revisar, gracias.
+[21/04/2026, 18:34:40] 49250507444270: Aproximadamente 9 meses
+[21/04/2026, 18:35:21] Yo: 😅ok, si es un buen tiempo 
+[21/04/2026, 18:36:39] 49250507444270: Si claro, $ 15,980
+[21/04/2026, 18:37:10] Yo: De acuerdo. Muchas gracias
+[21/04/2026, 18:37:30] 49250507444270: Nora , si en estos momentos ya no tienes dudas y estás de acuerdo, doy por concluida mi atención.  Te atendió Hilda Jardon, Asistente UNITEC.
+[21/04/2026, 18:37:56] Yo: Si, muchas gracias. Bien día
+[21/04/2026, 18:38:05] 49250507444270: Hola!, elige una de estas opciones y serás atendido por un  asesor:
 [14/05/2026, 23:42:13] 49250507444270: Hola!, elige una de estas opciones y serás atendido por un  asesor:
 [14/05/2026, 23:42:13] Yo: Si, muchas gracias. Bien día
 [14/05/2026, 23:42:13] 49250507444270: Nora , si en estos momentos ya no tienes dudas y estás de acuerdo, doy por concluida mi atención.  Te atendió Hilda Jardon, Asistente UNITEC.
