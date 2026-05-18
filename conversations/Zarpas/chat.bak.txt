@@ -65,3 +65,12 @@ item2.X-ABLabel:Celular
 [16/05/2026, 05:57:53] Yo: Te mando 4 opciones
 [16/05/2026, 05:57:53] Yo: BEGIN:VCARD
 [16/05/2026, 05:57:53] Yo: Hola, si, si tengo
+[16/05/2026, 22:40:19] Zarpas: Yastas gracias
+[16/05/2026, 22:40:19] Yo: El de diversiones chavitos tiene uno de toy story
+[16/05/2026, 22:40:19] Zarpas: [Archivo adjunto]
+[16/05/2026, 22:40:19] Yo: De que tamaño buscas?
+[16/05/2026, 22:40:19] Zarpas: Pero cuál recomiendas
+[16/05/2026, 22:40:19] Zarpas: Gracias
+[16/05/2026, 22:40:19] Yo: Te mando 4 opciones
+[16/05/2026, 22:40:19] Yo: BEGIN:VCARD
+[16/05/2026, 22:40:19] Yo: Hola, si, si tengo

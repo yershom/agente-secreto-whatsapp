@@ -107,3 +107,19 @@ O comunicarse con mis asistentes de lunes a viernes de 9:00 am a 20:00 y sábado
 [16/05/2026, 22:40:25] 67396761055481: Gracias por comunicarte con Dr. Ortiz Amador Coloproctologia , por el momento me encuentro en consulta o procedimiento 
 [16/05/2026, 22:40:25] 67396761055481: Gracias por comunicarte con Dr. Ortiz Amador Coloproctologia y cirugía general , cuento con consultorio en cuernavaca y cuautla. Por favor, haznos saber cómo podemos ayudarte.
 [16/05/2026, 22:40:25] Yo: Hola, le envío los datos para realizar mi factura porfavor
+[17/05/2026, 18:28:49] 67396761055481: Gracia s
+[17/05/2026, 18:28:49] 67396761055481: No se preocupe
+[17/05/2026, 18:28:49] Yo: Ayer tenía hasta fiebre,  disculpe, ya no le respondí
+[17/05/2026, 18:28:49] Yo: No voy a poder asistir a mi consulta, estoy súper enferma de la garganta
+[17/05/2026, 18:28:49] Yo: Hola, buenos días
+[17/05/2026, 18:28:49] 67396761055481: Mañana 11:30 gracias
+[17/05/2026, 18:28:49] 67396761055481: Buenas día, soy el doctor Miguel Ortíz , le escribo para confirmar su cita mañana en cuernavaca
+[17/05/2026, 18:28:49] Yo: Nora Elizabeth Herrera Olivas
+[17/05/2026, 18:28:49] 67396761055481: Nombre del paciente ?
+[17/05/2026, 18:28:49] Yo: Correo:
+[17/05/2026, 18:28:49] Yo: Facturar a régimen de asalariado
+[17/05/2026, 18:28:49] Yo: Constancia Situacion Fiscal GSML.pdf
+[17/05/2026, 18:28:49] Yo: [Archivo adjunto]
+[17/05/2026, 18:28:49] 67396761055481: Gracias por comunicarte con Dr. Ortiz Amador Coloproctologia , por el momento me encuentro en consulta o procedimiento 
+[17/05/2026, 18:28:49] 67396761055481: Gracias por comunicarte con Dr. Ortiz Amador Coloproctologia y cirugía general , cuento con consultorio en cuernavaca y cuautla. Por favor, haznos saber cómo podemos ayudarte.
+[17/05/2026, 18:28:49] Yo: Hola, le envío los datos para realizar mi factura porfavor

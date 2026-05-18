@@ -148,6 +148,26 @@ BDAY;value=date:1996-01-21
 PHOTO;BASE64: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
 X-WA-BIZ-NAME:Psicólogo Aras
 END:VCARD
+Agradezco tus disculpas sin embargo no es la primera vez que haces esto, creo que deberías ser un poco mas sensato y arreglar sus problemas maritales entre ustedes.  
+En la mañana mi prioridad fue hablar con ella por eso no te respondí y dejando las cosas claras, quien es mi amiga es ella, hay que tener límites así como yo los tengo hacia ti, ahorita tienen esta situación por primera vez pero es como si desde hace 4 años que conozco a Nora  yo te hubiera estado escribiendo para decirte que la manera que la hacías sentir tu o tu familia la estaban destruyendo. 
+Cuando Nora estuvo en el hospital y te pedí que me avisaras como iba  no lo hiciste pero si me escribes para esto, buscando que? 
+Reclamarme algo que no hice? 
+Entonces porfa que sea la última vez.
+No puedo imaginar todo lo que estas sintiendo es una situación complicada con varias relaciones afectadas pero mi consejo es que lo arregles por prioridades.
+Aharon 
+Gersom
+Aras
+Pasa este momento de dolor y piensa de que manera arreglar todo con el. Si puedo ayudarte con algo aquí estoy okey. 
+Después con Gersom porque finalmente  es el padre de tus hijos y lo que necesitas es un buen acuerdo con el. 
+Aras, se ha de haber asustado y a ver yo creo cualquier persona lo estaría en esa situación,  porque nadie empieza buscando amor esperando encontrar problemas, si lo que llegaron a sentir es real se va a arreglar todo y si no pues por algo pasan las cosas no mereces a un hombre a
+Que sale corriendo. 
+Pero sabes finalmente Aras es la representación  de que el amor siempre te vuelve a encontrar, solo tu sabes en el hoyo  que estabas y como el tener de nuevo esos sentimientos te ayudo a salir 
+Era lo correcto? No 
+Sin embargo si creo que por algo pasan las cosas y estoy segura que de no haber sido así, esa Nora que brillo estos 5 meses jamás hubieras salido. 
+No te aferres a Aras pero si aferrate a la Nora que se recupero, que brillo, que se dio valor, que creía en ella misma, que se veía generando, creciendo. 
+ESO es lo que vale la pena de la situación  que tienes
+No porque no quiera estar para ti.
+Gersom me está haciendo mil promesas de cambiar, creo que esta situación de Aras lo ha movido  demasiado, hasta pensaría que lo hizo reaccionar, pero no lo sé... El tiempo lo dirá...
 [14/05/2026, 23:10:07] Candy: Nooo puede ser y como estan ahorita?
 [14/05/2026, 23:10:07] Yo: Mero el día 10 se me enfermó Leah del estómago y Aharón de tos, los llevamos al IMSS porque el domingo no hay pediatra, y el IMSS es tan tardado!
 [14/05/2026, 23:10:07] Yo: Cómo estás?
@@ -1177,41 +1197,386 @@ END:VCARD
 [16/05/2026, 23:37:36] Candy: Pues no
 [16/05/2026, 23:37:49] Candy: Por cierto le respondí a Gersom porque me mando otro mensaje
 [16/05/2026, 23:38:00] Candy: Hola Gersom 
-
-Agradezco tus disculpas sin embargo no es la primera vez que haces esto, creo que deberías ser un poco mas sensato y arreglar sus problemas maritales entre ustedes.  
-
-En la mañana mi prioridad fue hablar con ella por eso no te respondí y dejando las cosas claras, quien es mi amiga es ella, hay que tener límites así como yo los tengo hacia ti, ahorita tienen esta situación por primera vez pero es como si desde hace 4 años que conozco a Nora  yo te hubiera estado escribiendo para decirte que la manera que la hacías sentir tu o tu familia la estaban destruyendo. 
-
-Cuando Nora estuvo en el hospital y te pedí que me avisaras como iba  no lo hiciste pero si me escribes para esto, buscando que? 
-Reclamarme algo que no hice? 
-
-Entonces porfa que sea la última vez.
 [16/05/2026, 23:39:34] Candy: Ahora lo importante. 
-
-No puedo imaginar todo lo que estas sintiendo es una situación complicada con varias relaciones afectadas pero mi consejo es que lo arregles por prioridades.
-
-Aharon 
-Gersom
-Aras
 [16/05/2026, 23:45:16] Candy: Aharon es tu bebé y de los 3 hombres que te escribí el es el que vale la pena tu energía. 
-
-Pasa este momento de dolor y piensa de que manera arreglar todo con el. Si puedo ayudarte con algo aquí estoy okey. 
-
-Después con Gersom porque finalmente  es el padre de tus hijos y lo que necesitas es un buen acuerdo con el. 
-
-Aras, se ha de haber asustado y a ver yo creo cualquier persona lo estaría en esa situación,  porque nadie empieza buscando amor esperando encontrar problemas, si lo que llegaron a sentir es real se va a arreglar todo y si no pues por algo pasan las cosas no mereces a un hombre a
-Que sale corriendo. 
-
-
-Pero sabes finalmente Aras es la representación  de que el amor siempre te vuelve a encontrar, solo tu sabes en el hoyo  que estabas y como el tener de nuevo esos sentimientos te ayudo a salir 
-
-Era lo correcto? No 
-
-Sin embargo si creo que por algo pasan las cosas y estoy segura que de no haber sido así, esa Nora que brillo estos 5 meses jamás hubieras salido. 
-
-
-No te aferres a Aras pero si aferrate a la Nora que se recupero, que brillo, que se dio valor, que creía en ella misma, que se veía generando, creciendo. 
-ESO es lo que vale la pena de la situación  que tienes
 [17/05/2026, 02:10:08] Candy: Yo tambien te quiero mucho y a ver no te sientas mal por inmiscuirme en tus problemas, porque no es asi. Yo estoy para ayudarte y acompañarte  obvio lo que paso con Gersom no me encanta pero es mas porque siento que eso haría el problema mas grande. 
-No porque no quiera estar para ti.
 [17/05/2026, 02:10:30] Candy: Espero que logres descansar hoy y que mañana puedan hablar con mas claridad todo
+[17/05/2026, 17:20:13] Candy: Amiga
+[17/05/2026, 17:20:20] Candy: Cómo estas?
+[17/05/2026, 17:23:45] Candy: Y que vas a hacer? 🙁
+[17/05/2026, 18:26:22] Yo: Con Aharón todo está bien, amiga
+[17/05/2026, 18:26:22] Yo: Seguiré aquí en la casa llorando un buen rato, sanar me llevará un tiempo ... 
+[17/05/2026, 18:26:22] Yo: Y Gersom me está ayudando, de verdad lo está haciendo... Estoy asombrada por la forma en que está reaccionando... O sea, sabe que me enamoré de alguien más y me abraza y me dice que estaré bien, que él me va a ayudar
+[17/05/2026, 18:26:22] Candy: Y que vas a hacer? 🙁
+[17/05/2026, 18:26:22] Yo: Aras realmente me ha afectado demasiado, más de lo que pensé que lo haría
+[17/05/2026, 18:26:22] Yo: Tuve muchas pesadillas
+[17/05/2026, 18:26:22] Yo: Me siento como mierda
+[17/05/2026, 18:26:22] Candy: Cómo estas?
+[17/05/2026, 18:26:22] Candy: Amiga
+[17/05/2026, 18:26:22] Candy: Espero que logres descansar hoy y que mañana puedan hablar con mas claridad todo
+[17/05/2026, 18:26:22] Candy: Yo tambien te quiero mucho y a ver no te sientas mal por inmiscuirme en tus problemas, porque no es asi. Yo estoy para ayudarte y acompañarte  obvio lo que paso con Gersom no me encanta pero es mas porque siento que eso haría el problema mas grande. 
+[17/05/2026, 18:26:22] Yo: Y estoy hablando con Gersom..él me está consolando ahora mismo porque estoy llorando por todo esto
+[17/05/2026, 18:26:22] Yo: Te ofrezco una disculpa de nuevo
+[17/05/2026, 18:26:22] Yo: Me siento mal por inmiscuirte en mis problemas
+[17/05/2026, 18:26:22] Yo: Y por seguir en la mía
+[17/05/2026, 18:26:22] Yo: Te quiero mucho y doy gracias a Dios por tu vida
+[17/05/2026, 18:26:23] Yo: Gracias amiga, por esas palabras tan maravillosas
+[17/05/2026, 18:26:23] Candy: Aharon es tu bebé y de los 3 hombres que te escribí el es el que vale la pena tu energía. 
+[17/05/2026, 18:26:23] Candy: Ahora lo importante. 
+[17/05/2026, 18:26:23] Candy: Hola Gersom 
+[17/05/2026, 18:26:23] Candy: Por cierto le respondí a Gersom porque me mando otro mensaje
+[17/05/2026, 18:26:23] Candy: Pues no
+[17/05/2026, 18:26:23] Candy: Es que amiga tu crees que el se sentía bien de que Gersom hablara con el?
+[17/05/2026, 18:26:23] Candy: OBVIO
+[17/05/2026, 18:26:23] Yo: Me borró
+[17/05/2026, 18:26:23] Yo: Me bloqueó del WhatsApp y de instagram
+[17/05/2026, 18:26:23] Yo: Y sabes que pasó?
+[17/05/2026, 18:26:23] Yo: justamente Aras y yo habíamos peleado ayer, y le envié un mensaje hoy en la madrugada diciéndole que Gersom estaba enterado de todo. No me respondió. Le volví a escribir a las 9 am para decirle: Gersom quiere hablar contigo,  puedes hablar con él?
+[17/05/2026, 18:26:23] Yo: Déjame hablar con él para conocerlo, porque no te dejare ir con un desconocido
+[17/05/2026, 18:26:23] Yo: Después de hablar con Gersom horas, me dijo: yo te voy a apoyar para que seas feliz con Aras
+[17/05/2026, 18:26:23] Candy: Estas bien? 😟😟😟
+[17/05/2026, 18:26:23] Yo: Amiga, han pasado demasiadas cosas, demasiadas
+[17/05/2026, 18:26:23] Candy: Quieres quedarte en mi casa( de Jojutla)?
+[17/05/2026, 18:26:23] Candy: Cómo  estás?
+[17/05/2026, 18:26:23] Candy: Estoy preocupada por ti
+[17/05/2026, 18:26:23] Candy: Hola amiga
+[17/05/2026, 18:26:23] Yo: Ok amiga
+[17/05/2026, 18:26:23] Candy: PON LIMITES
+[17/05/2026, 18:26:23] Candy: Please NORA! DATE VALOR
+[17/05/2026, 18:26:23] Candy: Como es que con el si quiera hablar para entender  
+[17/05/2026, 18:26:23] Candy: Con quien esta casado es contigo 
+[17/05/2026, 18:26:23] Candy: Gersom no tendría que hablar con el
+[17/05/2026, 18:26:23] Candy: Tu y Gersom son los que deberían arreglar esto
+[17/05/2026, 18:26:23] Yo: Ok, si, entiendo
+[17/05/2026, 18:26:23] Candy: No me voy a involucrar en eso
+[17/05/2026, 18:26:23] Candy: Amiga no
+[17/05/2026, 18:26:23] Yo: BEGIN:VCARD
+[17/05/2026, 18:26:23] Yo: Y si el me ama a mi
+[17/05/2026, 18:26:23] Yo: Entender porque me enamoré de él
+[17/05/2026, 18:26:23] Yo: Quiere preguntarle cosas
+[17/05/2026, 18:26:23] Yo: Y quiere conocer a Aras
+[17/05/2026, 18:26:23] Yo: Ya le dije toda la verdad
+[17/05/2026, 18:26:23] Yo: Si, si, ya lo sabe
+[17/05/2026, 18:26:23] Candy: No entiendo nada
+[17/05/2026, 18:26:23] Yo: Me tiene hablando y hablando y hablando
+[17/05/2026, 18:26:23] Candy: Pero ya le dijiste la verdad de como lo conociste?
+[17/05/2026, 18:26:23] Yo: Gersom no se va de mi lado
+[17/05/2026, 18:26:23] Yo: Pero debe estar dormido
+[17/05/2026, 18:26:23] Yo: Le escribí
+[17/05/2026, 18:26:23] Yo: Ya le dije a Aras los motivos por los cuales quiere hablar con él
+[17/05/2026, 18:26:23] Yo: Amiga, puedes despertar a Aras y decirle que lea mis mensajes. Gersom quiere hablar con él a fuerzas
+[17/05/2026, 18:26:23] Candy: Aqui ando por si necesitas  hablar. 
+[17/05/2026, 18:26:23] Yo: Voy con él amiga, nuevamente una disculpa y gracias por estar conmigo
+[17/05/2026, 18:26:23] Yo: Ya llegó Gersom aquí conmigo, de nuevo...supongo que quiere seguir hablando
+[17/05/2026, 18:26:23] Candy: Pero lo vas a hacer 
+[17/05/2026, 18:26:23] Yo: Y el hecho de que no sea autosuficiente en este momento
+[17/05/2026, 18:26:23] Yo: Ese acuerdo
+[17/05/2026, 18:26:23] Yo: Este tema es el que me tiene preocupada
+[17/05/2026, 18:26:23] Candy: 2. Dile a Gersom que ya sabes que no tiene la madurez de arreglarlo entre ustedes porque siempre involucra  a su mamá (lo cual seguro hará así que pues ya sabes lo que viene) pero que lo del divorcio es real y que el sabe perfecto de donde vienen sus problemas, entonces que pues lleguen a un acuerdo entre ustedes, de los niños de todo en lo que sucede el divorcio legal.
+[17/05/2026, 18:26:23] Candy: así que levanta tu trasero 
+[17/05/2026, 18:26:23] Yo: Si, lo haré
+[17/05/2026, 18:26:23] Candy: No tiene porque hacerlo 
+[17/05/2026, 18:26:23] Candy: Entiendo 
+[17/05/2026, 18:26:23] Yo: Te ayudaré a pagar tu vuelo y que te vayas a Turquía, te despediré ese día
+[17/05/2026, 18:26:23] Yo: Después del enojo que tuvo Gersom, él se calmó y me dijo: si quieres irte, vete, yo te ayudaré
+[17/05/2026, 18:26:23] Yo: Me siento tan asustada ahora mismo
+[17/05/2026, 18:26:23] Yo: Perdoname por involucrarte, realmente solo confíe en ti y pensé tu nombre como mi ancla
+[17/05/2026, 18:26:23] Yo: Justamente
+[17/05/2026, 18:26:23] Candy: Lo que te dije antes te lo digo ahora 
+[17/05/2026, 18:26:23] Yo: Y que yo no quiero eso, que yo quiero que nos divorciemos en paz
+[17/05/2026, 18:26:23] Yo: Le dije a Gersom que si el comienza a acusarme, yo tendré que defenderme
+[17/05/2026, 18:26:23] Candy: Exacto 
+[17/05/2026, 18:26:23] Yo: Y lo malo, que ni siquiera tengo garantía de nada con Aras... O sea, es algo absurdo
+[17/05/2026, 18:26:23] Yo: Ahora va a parecer que yo fui la mala de este matrimonio
+[17/05/2026, 18:26:23] Candy: Pues solo te va a quedar intentarlo y no hablo que se ponga de tu lado 
+[17/05/2026, 18:26:23] Candy: Va a ser peor que se entere por Gersom
+[17/05/2026, 18:26:23] Yo: Él ya se puso de lado de su papá
+[17/05/2026, 18:26:23] Yo: Yo hablaba con Aharón... Pero él está enojado conmigo
+[17/05/2026, 18:26:23] Yo: No lo creo
+[17/05/2026, 18:26:23] Candy: Ni con tus hijos?
+[17/05/2026, 18:26:23] Candy: Porque ahora el lo ve con los ojos de Gersom 
+[17/05/2026, 18:26:23] Candy: Goei te dije que hablaras con Aaron
+[17/05/2026, 18:26:23] Candy: Y Nora 
+[17/05/2026, 18:26:23] Yo: No tengo una familia normal
+[17/05/2026, 18:26:23] Yo: Mi padre no va a aceptarme en la casa
+[17/05/2026, 18:26:23] Yo: Amiga, recuerda que mi propio padre me corrió de adolescente
+[17/05/2026, 18:26:23] Yo: Sabes cómo se enteró Gersom? Porque Aharón encontró la carta que le envié a Aras hablandole de mis planes de divorcio e ir a mayo a Turquía, así que Aharón le ha contado a Gersom todo esto
+[17/05/2026, 18:26:23] Candy: Si los dejas va a ser peor 
+[17/05/2026, 18:26:23] Candy: Llevatelos
+[17/05/2026, 18:26:23] Candy: No gersom
+[17/05/2026, 18:26:23] Yo: No sé que pasará con mis hijos
+[17/05/2026, 18:26:23] Candy: Con tus papás 
+[17/05/2026, 18:26:23] Yo: No sé a dónde ir, amiga
+[17/05/2026, 18:26:23] Candy: Exacto
+[17/05/2026, 18:26:23] Candy: Entonces vete
+[17/05/2026, 18:26:23] Yo: Siento que debo irme
+[17/05/2026, 18:26:23] Yo: Ya sé, siento que su madre me puede destruir
+[17/05/2026, 18:26:23] Candy: Te voy a decir algo 
+[17/05/2026, 18:26:23] Yo: Quiere hablar con él
+[17/05/2026, 18:26:23] Yo: Pero mira, él ahorita está obsesionado con Aras
+[17/05/2026, 18:26:23] Yo: Qué ya le había pedido el divorcio por eso y que él no quiso
+[17/05/2026, 18:26:23] Yo: Yo le dije que Aras no tiene la culpa de nuestros problemas, que él y yo ya estábamos mal
+[17/05/2026, 18:26:23] Candy: Siento que tienes que ser honesta 
+[17/05/2026, 18:26:23] Yo: Una cosa era que yo pudiera tener una aventura y otra amar a alguien
+[17/05/2026, 18:26:23] Yo: Porque Gersom dice que jamás pensó que yo me iba a enamorar de alguien más
+[17/05/2026, 18:26:23] Yo: Me dijo que me llevaría con mis padres y les contaría la mujer infiel que soy
+[17/05/2026, 18:26:23] Yo: Ya no sé que hará.. al inicio de nuestra plática enloqueció
+[17/05/2026, 18:26:23] Candy: O sea el va a hablar con tus papás?
+[17/05/2026, 18:26:23] Yo: Es que me dijo que hablaría con mis padres y decir que lo conocí en un juego los va a enloquecer aún más
+[17/05/2026, 18:26:23] Yo: Lo siento 😔
+[17/05/2026, 18:26:23] Yo: Qué te había mandando
+[17/05/2026, 18:26:23] Yo: Si, me enseñó ese mensaje
+[17/05/2026, 18:26:23] Candy: O sea?????
+[17/05/2026, 18:26:23] Candy: Se que amas a Nora  y quieres lo mejor para ella pero háganlo bien. Y espero que no pases con Mijail problemas donde no puedan salir adelante. Dios bendiga tu matrimonio y que Mijail sea prosperado.
+[17/05/2026, 18:26:23] Candy: Ay amiga yo te amo 
+[17/05/2026, 18:26:23] Yo: Hola amiga
+[17/05/2026, 18:26:23] Yo: Bien amiga, acabo de cerrar ahorita
+[17/05/2026, 18:26:23] Candy: Cómo  vas tu con tu venta?
+[17/05/2026, 18:26:23] Candy: Gracias por el ánimo
+[17/05/2026, 18:26:23] Candy: Pero espero pronto
+[17/05/2026, 18:26:23] Candy: Aun no 🥲
+[17/05/2026, 18:26:23] Yo: Luego entro a instagram a ver tus videos y me encantan
+[17/05/2026, 18:26:23] Yo: Yo he visto que cada vez tienes más clases amiga! Creo que estás siendo un éxito en Canadá
+[17/05/2026, 18:26:23] Candy: Yo bien 
+[17/05/2026, 18:26:23] Candy: Ojala pronto se le quite.
+[17/05/2026, 18:26:23] Yo: Cómo estás tú? 🐱
+[17/05/2026, 18:26:23] Yo: Aharón sigue con tos
+[17/05/2026, 18:26:23] Yo: Leah ya está bien
+[17/05/2026, 18:26:23] Candy: Nooo puede ser y como estan ahorita?
+[17/05/2026, 18:26:23] Yo: Mero el día 10 se me enfermó Leah del estómago y Aharón de tos, los llevamos al IMSS porque el domingo no hay pediatra, y el IMSS es tan tardado!
+[17/05/2026, 18:26:23] Yo: Cómo estás?
+[17/05/2026, 18:26:23] Yo: Justo estaba pensando en ti
+[17/05/2026, 18:26:23] Candy: Ya no hablamos
+[17/05/2026, 18:26:23] Candy: Amiga noooooooo
+[17/05/2026, 18:26:23] Yo: Siii, el martes está bien amiga. Ahorita te respondo bien todo 😸
+[17/05/2026, 18:26:23] Candy: Si puedes el martes esta mejor.
+[17/05/2026, 18:26:23] Candy: [Archivo adjunto]
+[17/05/2026, 18:26:23] Candy: Amiga 
+[17/05/2026, 18:26:23] Yo: Puedes el lunes?
+[17/05/2026, 18:26:23] Yo: Supongo los fines de semana los ocupas
+[17/05/2026, 18:26:23] Yo: Siii, vamos a hablar 😊
+[17/05/2026, 18:26:23] Candy: Tqm
+[17/05/2026, 18:26:23] Candy: Perdón que no respondí esto 
+[17/05/2026, 18:26:23] Candy: Holaaa amiga 
+[17/05/2026, 18:26:23] Yo: Jajaja
+[17/05/2026, 18:26:23] Yo: En el futuro
+[17/05/2026, 18:26:23] Candy: Jajajajaa con que??
+[17/05/2026, 18:26:23] Yo: Bien, bien, aquí divagando
+[17/05/2026, 18:26:23] Candy: Bien y tu?
+[17/05/2026, 18:26:23] Candy: Amiga linda
+[17/05/2026, 18:26:23] Yo: Tendré que irme a vivir a Canadá contigo
+[17/05/2026, 18:26:23] Yo: Jajajaja
+[17/05/2026, 18:26:23] Candy: Nooooo 
+[17/05/2026, 18:26:23] Yo: 🥺 vamos a llorar juntas
+[17/05/2026, 18:26:23] Yo: Es el vídeo completo
+[17/05/2026, 18:26:23] Yo: [Archivo adjunto]
+[17/05/2026, 18:26:30] Yo: Añoro esos tiempos
+[17/05/2026, 18:26:30] Yo: Todo por ver tu video, me movió la nostalgia y hay voy yo también a ver los videos 😅
+[17/05/2026, 18:26:30] Yo: Te extraño amiga, ayer me puse a ver los videos de ballet, me sorprendió ver tantos ensayos y no maaaa.... La lagrimita
+[17/05/2026, 18:26:30] Candy: Jajajajajaja se ve que te ayuda a concentrarte  así que se vale aplaudir. 
+[17/05/2026, 18:26:30] Yo: Todos aplaudían y me contagiaron jajajajaja
+[17/05/2026, 18:26:30] Yo: Perdoname por favor jajajajajaja
+[17/05/2026, 18:26:30] Yo: Aunque andaba como señora aplaudiendo amiga jajaja
+[17/05/2026, 18:26:30] Candy: Jajajajajajaja me encanta
+[17/05/2026, 18:26:30] Yo: Ahorita lo miro 😀
+[17/05/2026, 18:26:30] Candy: [Archivo adjunto]
+[17/05/2026, 18:26:30] Yo: Hola amiga, ¿Cómo estás?
+[17/05/2026, 18:26:30] Candy: Siii
+[17/05/2026, 18:26:30] Yo: Si amiga, mañana a las 9 am podrías?
+[17/05/2026, 18:26:30] Yo: Mañana en la mañana estaré libre amiga
+[17/05/2026, 18:26:30] Candy: Mañana a que hora andas libre?
+[17/05/2026, 18:26:30] Candy: Serian las 10pm
+[17/05/2026, 18:26:30] Yo: Yo creo que llego en la noche, como a las 8:00, que hora sería contigo?
+[17/05/2026, 18:26:30] Yo: El evento es a las 4:30, pero obviamente no empieza a esa hora, yo creo que llegaré a las 5, será en el auditorios
+[17/05/2026, 18:26:30] Candy: Que chidoooo
+[17/05/2026, 18:26:30] Yo: Mmm para 4 clases que llevo jaja pero bueno, llevo 3 de yoga también, va Mariana también a veces
+[17/05/2026, 18:26:30] Candy: Que coool y sensual
+[17/05/2026, 18:26:30] Candy: Estas tomando árabe?
+[17/05/2026, 18:26:30] Yo: Si, estoy bien amiga, gracias por preguntar
+[17/05/2026, 18:26:30] Yo: Hoy es un evento de baile, de danza árabe, yo no voy a participar pero iré a dar porras
+[17/05/2026, 18:26:30] Candy: Pero si en un ratito te escribo y si estas libre 
+[17/05/2026, 18:26:30] Yo: Aaa ok ok, ya entiendo
+[17/05/2026, 18:26:30] Candy: Yo creo que me entendiste mal
+[17/05/2026, 18:26:30] Candy: Lo que teníamos era citas  para ver casas
+[17/05/2026, 18:26:30] Candy: Por eso esta semana estuvimos buscando
+[17/05/2026, 18:26:30] Candy: Estábamos en un Airbnb que pagamos de sábado a sábado
+[17/05/2026, 18:26:30] Candy: Noooo
+[17/05/2026, 18:26:30] Yo: Pero ya tenían casa, no? Bueno, me cuentas con calma
+[17/05/2026, 18:26:30] Candy: Pero en un rato  ya andaré libre
+[17/05/2026, 18:26:30] Candy: Andamos corriendo moviendo cosas
+[17/05/2026, 18:26:30] Candy: Amiga apenas conseguimos casa ayer
+[17/05/2026, 18:26:30] Yo: Amiga, estás muy apurada?
+[17/05/2026, 18:26:30] Yo: Hola amiga, buenos días, presumeme tu nueva casa, tu ciudad, hay que hacer videollamada
+[17/05/2026, 18:26:30] Yo: Ya acabaste de desempacar? 😄
+[17/05/2026, 18:26:30] Yo: Dime tu cómo va todo en la nueva ciudad !!! Te ha gustado?
+[17/05/2026, 18:26:30] Yo: Hola amiga
+[17/05/2026, 18:26:30] Candy: Hola amiga linda 
+[17/05/2026, 18:26:30] Yo: Si, debemos hacer esa agenda por favor 🙏🏼
+[17/05/2026, 18:26:30] Candy: Amiga 
+[17/05/2026, 18:26:30] Yo: Me compartes las últimas fotos, donde estamos más cerquitas 💕
+[17/05/2026, 18:26:30] Yo: Hola amiga, ya llegué a casa. Quería regresarme cuando me despedí, todo el camino he tenido apretado el corazón 🥺 siento que me faltó despedirme más pero me dio pena con tu familia...
+[17/05/2026, 18:26:30] Candy: Hola Nora 
+[17/05/2026, 18:26:30] Candy: Ok 
+[17/05/2026, 18:26:30] Yo: Estoy con mi hermana
+[17/05/2026, 18:26:30] Yo: Voy en camino amiga
+[17/05/2026, 18:26:30] Candy: Ya ando aquí
+[17/05/2026, 18:26:30] Yo: Ok amiga, me escribes cualquier cosa, quedo pendiente
+[17/05/2026, 18:26:30] Yo: 😊
+[17/05/2026, 18:26:30] Candy: Va
+[17/05/2026, 18:26:30] Yo: Si, está bien, allí te veo a las 6
+[17/05/2026, 18:26:30] Candy: A las 6 me queda mejor 
+[17/05/2026, 18:26:30] Yo: Mejor tu dime, porque tú eres la que anda corriendo
+[17/05/2026, 18:26:30] Candy: O prefieres a las 6?
+[17/05/2026, 18:26:30] Candy: Sip
+[17/05/2026, 18:26:30] Yo: 5:30?
+[17/05/2026, 18:26:30] Yo: Si, está bien allí entonces
+[17/05/2026, 18:26:30] Candy: Jajajajajaja 
+[17/05/2026, 18:26:30] Yo: Si los verás hoy 7:30 verdad?
+[17/05/2026, 18:26:30] Yo: Pues si quieres allí en la honorata para que allí te quedes de una vez jajaja
+[17/05/2026, 18:26:30] Candy: Tu dime 
+[17/05/2026, 18:26:30] Yo: Dónde te veo?
+[17/05/2026, 18:26:30] Yo: Si, me organizo rápido
+[17/05/2026, 18:26:30] Candy: Voy a dejar de 5:30 a 7:20 libre por si su puedes 💕
+[17/05/2026, 18:26:30] Candy: Hola amiga a las 5:30 puedes?
+[17/05/2026, 18:26:30] Yo: Así son las mudanzas amiga, un estrés total, yo creo que si me mudo ahora me da el patatús porque con los niños, tengo el triple de cosas
+[17/05/2026, 18:26:31] Candy: Yo ando super apurada
+[17/05/2026, 18:26:31] Candy: Hola ntp 
+[17/05/2026, 18:26:31] Yo: Ya tengo más información que actualizarte jajaja
+[17/05/2026, 18:26:31] Candy: [Archivo adjunto]
+[17/05/2026, 18:26:31] Candy: Yo no lo tengo agregado pero a ver
+[17/05/2026, 18:26:31] Yo: Si, necesito contarte, pero no por este medio, no quiero evidencia
+[17/05/2026, 18:26:31] Yo: No sé cómo lo hizo pero al parecer solo yo puedo ver qué dice "separado"
+[17/05/2026, 18:26:31] Yo: Me dice mi hermana que ella no ve ese estatus, solo lo veo yo
+[17/05/2026, 18:26:31] Candy: Pero que chafa que no haya respetado el acuerdo que hicieron 
+[17/05/2026, 18:26:31] Candy: Estoy muy impactada 
+[17/05/2026, 18:26:31] Yo: Yo fui la que pidió la separación, amiga
+[17/05/2026, 18:26:31] Yo: Se supone que íbamos a tratarlo él y yo primero y luego lo íbamos a anunciar, pero en la madrugada él hizo esto y bueno, ya no puedo ocultarlo, ya lo hizo público, por eso te lo cuento
+[17/05/2026, 18:26:31] Candy: Te puedo ayudar con algo?
+[17/05/2026, 18:26:31] Candy: Pero estas bien?
+[17/05/2026, 18:26:31] Yo: Por eso es en persona
+[17/05/2026, 18:26:31] Yo: El tema es largo amiga
+[17/05/2026, 18:26:31] Candy: Te juro que cuando te escribí esto pensé en poner si te ibas a separar? 
+[17/05/2026, 18:26:31] Yo: Mira, lo que debo contarte
+[17/05/2026, 18:26:31] Yo: [Archivo adjunto]
+[17/05/2026, 18:26:31] Yo: Ok amiga 😊
+[17/05/2026, 18:26:31] Candy: Deja que me confirmen la mudanza y te aviso
+[17/05/2026, 18:26:31] Candy: Ay no goei no puedo con tanta espera 
+[17/05/2026, 18:26:31] Yo: Dónde te vería y a qué hora?
+[17/05/2026, 18:26:31] Yo: Si, es mío, mío ☺️
+[17/05/2026, 18:26:31] Candy: Bien y tu????
+[17/05/2026, 18:26:31] Candy: Pero si es algo tuyo? O es familiar?
+[17/05/2026, 18:26:31] Yo: Cómo estás? Buenos días
+[17/05/2026, 18:26:31] Yo: No amiga, ninguna de las 3 😂😂
+[17/05/2026, 18:26:31] Candy: Goei a ver obvio no es un embarazo y no es una boda. Porque eso ya lo hiciste 💕
+[17/05/2026, 18:26:31] Candy: De aquí al martes !
+[17/05/2026, 18:26:31] Candy: https://www.instagram.com/reel/DWept2_kQY9/?igsh=MXNoZWtsY2J3bW01dw==
+[17/05/2026, 18:26:31] Yo: Pues en lo que cabe, gracias a Dios que tu papá está estable y con la cirugía estará mucho mejor 🙏🏼
+[17/05/2026, 18:26:31] Yo: Jajaja no amiga, no puedo darte pistas 😂
+[17/05/2026, 18:26:31] Yo: Yo me imagino que tu papá está mejor de salud, pero mejor te pregunto, cómo sigue?!
+[17/05/2026, 18:26:31] Yo: Son vacaciones, así que estamos descansando tranquilamente estos días. Todo bien. Pero quiero contarte algo, y si debe ser en persona 😃 así que, me dará gusto verte definitivamente
+[17/05/2026, 18:26:31] Yo: Si, hay que vernos, entonces el martes 7 verdad? Para agendarlo
+[17/05/2026, 18:26:31] Yo: 39131480588319@lid
+[17/05/2026, 18:26:31] Yo: Y cuéntame, estás dando clases de latina? He visto historias tuyas allí pero ya no sé si como instructora o de pasatiempo
+[17/05/2026, 18:26:31] Yo: Ok ok... Gracias amiga
+[17/05/2026, 18:26:31] Candy: Que tu energía de mamá es fuerte
+[17/05/2026, 18:26:31] Candy: Mira a un huevo ponle tu perfume y mientras se lo pasas reza lo que tu quieras pidiéndo qué el huevo absorba toda la mala energía
+[17/05/2026, 18:26:31] Yo: Yo no tengo idea de cómo hacer eso 😅 que diría tu mamá al respecto?
+[17/05/2026, 18:26:31] Candy: Yo digo que es mejor que si la lleves y si hazle una limpia. O limpiala tu, tu energía de mamá es fuerte!
+[17/05/2026, 18:26:31] Yo: Le he dado ibuprofeno y le estoy lavando la herida, desinfectandole
+[17/05/2026, 18:26:31] Yo: Y ella me dijo ayer: porque tengo mala suerte, mamá? 🥺
+[17/05/2026, 18:26:31] Yo: Igual el brazo lo trae doblado
+[17/05/2026, 18:26:31] Yo: Pues no sé si llevarla porque no camina bien
+[17/05/2026, 18:26:31] Candy: Y su rodilla solo fue la inflamación o de que si la vas a tener qu llevar al doctor?
+[17/05/2026, 18:26:31] Candy: Pobrecita porque aparte ama el show y bailar. Apapachala mucho 🥹🥹🥹
+[17/05/2026, 18:26:31] Candy: Chance y si deberías llevarla porque ya son varias cosas. Esta muy bella y es muy inteligente tu ya sabes como es la envidia.
+[17/05/2026, 18:26:31] Yo: Tuvimos un accidente en el coche. Un tipo abrió su puerta del lado de la carretera, tuve que frenar muy fuerte y Leah se golpeó en la rodilla izquierda. Lloró mucho. Fue un golpe doloroso. 
+[17/05/2026, 18:26:31] Yo: Estoy desesperada porque no hay un día que no le pase algo
+[17/05/2026, 18:26:31] Yo: Leah está peor!! Creo que la llevaré a una limpia 🥺
+[17/05/2026, 18:26:31] Yo: Bendito Dios que por fin ya salió
+[17/05/2026, 18:26:31] Candy: Mejor amiga, apenas lo dieron de alta y pues ha seguir con las diálisis.
+[17/05/2026, 18:26:31] Yo: Cómo sigue tu papá?
+[17/05/2026, 18:26:31] Yo: Bien también, andaba en el cine amiga, por eso no te respondía
+[17/05/2026, 18:26:31] Candy: Bien y tu? Cómo andas?
+[17/05/2026, 18:26:31] Yo: Hola amiga, cómo estás?
+[17/05/2026, 18:26:31] Candy: Que felicidad verte tan feliz y radiante
+[17/05/2026, 18:26:31] Yo: Duolingo cuenta? Jajaja 😂
+[17/05/2026, 18:26:31] Yo: Si, así es. Ha sido mucho rato lidiando con esto del dolor
+[17/05/2026, 18:26:31] Candy: Jajaja es que Aharon esta muy cañón pero esta Cool al final también es aprendizaje para ti
+[17/05/2026, 18:26:31] Candy: Ou pero E Colli es super molesta, pero que bueno que ya saben que onda pars que tenga su tratamiento.
+[17/05/2026, 18:26:31] Yo: Tengo que estudiar y prácticar, Aharón me está superando y ya no puedo con las tareas 🤣🤣
+[17/05/2026, 18:26:31] Yo: Ya mejor, sigue en tratamiento, pero en su estudio solo salió E. Colli. 
+[17/05/2026, 18:26:31] Candy: Bien y tu? Cómo está Leah?
+[17/05/2026, 18:26:31] Candy: Ya has estado super bilingue me encanta
+[17/05/2026, 18:26:31] Yo: Gracias amiga. 
+[17/05/2026, 18:26:31] Candy: Te quedo super Cool
+[17/05/2026, 18:26:31] Yo: lo bueno que tu papá se puede mover por si mismo todavía 🙏🏼
+[17/05/2026, 18:26:31] Yo: Así están ahorita con mi suegro, desde que se enfermó, en diciembre
+[17/05/2026, 18:26:31] Yo: Es que es muy pesado hacer guardia todo el día
+[17/05/2026, 18:26:31] Candy: Si tenemos guardia permanente porque no se si te conté que ya no ve bien.
+[17/05/2026, 18:26:31] Yo: Mañana me dan los resultados. 
+[17/05/2026, 18:26:31] Candy: Noo, no digas eso!
+[17/05/2026, 18:26:31] Yo: Ya se quedó dormida amiga. Si escucho tu audio pero ya no te respondió. Le di ibuprofeno y le dije que descansara. Ahora Leah no ha parado de enfermarse este año. Quisiera ser yo y no ella 😞
+[17/05/2026, 18:26:31] Yo: Leah contando con sumo detalle su historia 😅 
+[17/05/2026, 18:26:31] Candy: Ou
+[17/05/2026, 18:26:31] Yo: Voy por Leah
+[17/05/2026, 18:26:31] Yo: Voy a escribirte más tarde, te lo prometo. Tengo que salir para la escuela ahora mismo
+[17/05/2026, 18:26:31] Candy: Yo también creo que podría hacerlo mejor, si nos debemos esta oportunidad y en serio lamento haberte herido  con lo de la mesa, no fue mi intención pero pude haber  manejado mejor esa situación.
+[17/05/2026, 18:26:31] Yo: Si, estoy de acuerdo. Creo que podría hacerlo mejor. Considero que nos debemos esa oportunidad e intentarlo. No quisiera morir con arrepentimientos. Y si no lo intento, realmente me arrepentiría en el futuro
+[17/05/2026, 18:26:31] Candy: Bueno no
+[17/05/2026, 18:26:31] Candy: Todos tenemos cosas que trabajar y si efectivamente no tienen porque caerse bien pero siento que tampoco es necesario ser hostil.
+[17/05/2026, 18:26:31] Yo: Yo también lamento que las cosas hayan escalado a este punto. Tengo mucho que trabajar como persona, soy consciente y estoy empezando a cambiar. Agradezco tus palabras, también me ayudan a esclarecer la situación y ver mis fallas. 
+[17/05/2026, 18:26:31] Candy: Vale
+[17/05/2026, 18:26:31] Yo: Ok, voy a enviarte audios, porque en hora y medio tengo que salir
+[17/05/2026, 18:26:31] Candy: Pues desde hace 7 meses yo estuve esperando esta platica que habíamos acordado.
+[17/05/2026, 18:26:31] Yo: Creo que es momento de hablar amiga, yo también siento lo mismo que tú dices desde hace tiempo, pero yo no suelo confrontar, para bien o para mal, porque quizá debería hacerlo. podemos escribir o podemos hablar por teléfono. tu dime
+[17/05/2026, 18:26:31] Candy: Nora! Desde hace un montón quería mandarte este mensaje y pues no se, solo como que no sucedía pero esta semana se intensificó este pensamiento/emoción.
+[17/05/2026, 18:26:31] Candy: Y como van tus clases de danza árabe?
+[17/05/2026, 18:26:31] Candy: Se atraso un poco lo de canada y nos vino super bien eso. Por lo de mi papá y por lo de mis perras.
+[17/05/2026, 18:26:31] Candy: Sigue aquí.
+[17/05/2026, 18:26:31] Candy: Si mejor termina de recuperarlas y luego ya lo cierras definitivamente.
+[17/05/2026, 18:26:31] Yo: Y Mijail sigue en México amiga? O tuvo que irse a Canadá por el trabajo?
+[17/05/2026, 18:26:31] Yo: Eso pues, yo tenía fotos del 2010!! En la vida las iba a volver a encontrar 😂 es un álbum privado de fotos de cuando iba a la universidad
+[17/05/2026, 18:26:31] Candy: super
+[17/05/2026, 18:26:31] Yo: Perdón amiga, escribí muy rápido. Pues tengo bloqueado y reportado al tipo. Ya no me aparece nada de él
+[17/05/2026, 18:26:31] Yo: Gracias amiga, aquí ando con ella, voy a la farmacia por su tratamiento
+[17/05/2026, 18:26:31] Candy: Ay no
+[17/05/2026, 18:26:31] Candy: Kha? Jajaja no entendí nada de lo primero jajajajaja
+[17/05/2026, 18:26:31] Yo: Gracias amiga 💕
+[17/05/2026, 18:26:31] Yo: Pues creo que sí... 😅 Todavía sigo con la zozobra, pero necesitaba unas fotos que solo tenía allí y lo volví a abrir 😂
+[17/05/2026, 18:26:31] Yo: Acabo de salir del pediatra amiga, Leah y su dolor de estómago, ya le mandaron a hacer estudios
+[17/05/2026, 18:26:31] Candy: Vi que abriste tu fb otra vez
+[17/05/2026, 18:26:31] Candy: Si ahí va
+[17/05/2026, 18:26:31] Yo: En serio que lamento mucho esta situación, pero como dices, gracias a Dios, se va recuperando amiga 🙏🏼
+[17/05/2026, 18:26:31] Candy: Te ves muy linda
+[17/05/2026, 18:26:31] Candy: Yo estoy muy cansada, la verdad han sido días de mucha preocupación y horas y horas en el hospital pero ya ahorita pasaron las cirugías y ya esta todo un poco más tranquilo.
+[17/05/2026, 18:26:31] Yo: Entiendo amiga. 
+[17/05/2026, 18:26:31] Candy: En resumen :
+[17/05/2026, 18:26:31] Candy: Que bueno que ya esta bien Leah 🫰🏼
+[17/05/2026, 18:26:31] Yo: Están adolorida del estómago, no se si enfermedad o sobre esfuerzo, pero ya está bien. Cuentáme de tu papá
+[17/05/2026, 18:26:31] Yo: Hay amiga, no mejora? Qué ocurre?
+[17/05/2026, 18:26:31] Candy: Sigue hospitalizado
+[17/05/2026, 18:26:31] Candy: Y ya cómo está ? Que tenia?
+[17/05/2026, 18:26:31] Yo: Hola amiga, no he llevado a Leah a gimnasia, se sintió mal unos días
+[17/05/2026, 18:26:31] Candy: Cómo va Leah en gimnasia?
+[17/05/2026, 18:26:31] Candy: Si vi las noticias
+[17/05/2026, 18:26:31] Candy: Gracias
+[17/05/2026, 18:26:31] Yo: En casa todos bien, hoy no hubo clases ni salimos, pero al parecer ya todo vuelve a la normalidad
+[17/05/2026, 18:26:31] Yo: Hay amiga, lo siento mucho. Primero Dios va a mejorar tu padre 🙏🏼
+[17/05/2026, 18:26:31] Candy: Lo de la diálisis
+[17/05/2026, 18:26:31] Yo: Qué ha pasado amiga? Qué tiene? Lo siento mucho
+[17/05/2026, 18:26:31] Candy: Amiga
+[17/05/2026, 18:26:31] Yo: Si, por supuesto que sí! 😊 Dime a qué hora?
+[17/05/2026, 18:26:31] Candy: Si te veo?
+[17/05/2026, 18:26:31] Candy: El jueves 26
+[17/05/2026, 18:26:31] Yo: Cuándo vienes a Morelos?
+[17/05/2026, 18:26:31] Yo: Si amiga, decreto un excelente año!
+[17/05/2026, 18:26:31] Yo: Tienen su cartilla en orden 😊
+[17/05/2026, 18:26:31] Candy: pero es muy muy muy buena en inglés.
+[17/05/2026, 18:26:31] Candy: Si
+[17/05/2026, 18:26:31] Candy: Ya los vacunaste del sarampión?
+[17/05/2026, 18:26:31] Candy: Yeiiii
+[17/05/2026, 20:19:41] Candy: Y tu como te sientes con eso?
+[17/05/2026, 20:20:09] Candy: No crees que tambien existe la posibilidad de que te lo recrimine por siempre? Y ocupe esto para el hacerlo después?
+[17/05/2026, 20:20:17] Candy: Eso me da mucha mucha felicidad 
+
+Que te dijo?

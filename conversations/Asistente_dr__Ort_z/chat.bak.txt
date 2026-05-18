@@ -47,3 +47,11 @@ gersom.miranda@gmail.com
 [16/05/2026, 05:58:11] Yo: Facturar a régimen de asalariado
 [16/05/2026, 05:58:11] Yo: Constancia Situacion Fiscal GSML.pdf
 [16/05/2026, 05:58:11] Yo: [Archivo adjunto]
+[16/05/2026, 22:40:37] Yo: Si, gracias
+[16/05/2026, 22:40:37] Asistente dr. Ortíz: Por favor
+[16/05/2026, 22:40:37] Asistente dr. Ortíz: Hola buen día, disculpe la molestia, me apoya reenviando la información al contacto que le acabo de enviar, para que puedan realizar su factura
+[16/05/2026, 22:40:37] Asistente dr. Ortíz: BEGIN:VCARD
+[16/05/2026, 22:40:37] Yo: Correo:
+[16/05/2026, 22:40:37] Yo: Facturar a régimen de asalariado
+[16/05/2026, 22:40:37] Yo: Constancia Situacion Fiscal GSML.pdf
+[16/05/2026, 22:40:37] Yo: [Archivo adjunto]
