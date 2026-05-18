@@ -7,6 +7,7 @@ conversations/**/attachments/
 !conversations/Candy/attachments/
 !conversations/Psic_logo_Aras/attachments/
 !conversations/_52_734_141_1968/attachments/
+!conversations/Karem/attachments/
 conversations/.history_downloaded
 auth_info/
 .wwebjs_cache/
