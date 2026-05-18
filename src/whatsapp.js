@@ -187,8 +187,9 @@ export async function startWhatsApp() {
         folderName = chat.name || msg.from.split('@')[0];
         sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
       } else {
-        // En chats 1a1: usar nombre del contacto
-        folderName = contact.name || msg.from.split('@')[0];
+        // En chats 1a1: siempre usar el contacto del chat (el "otro"), no el del mensaje
+        const chatContact = await chat.getContact();
+        folderName = chatContact.name || chat.id._serialized.split('@')[0];
         sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
       }
 
@@ -200,6 +201,11 @@ export async function startWhatsApp() {
 
       console.log(`${type} 📝 [${folderName}] ${sender}: ${text.substring(0, 60)}`);
       saveMessage(folderName, sender, text);
+
+      // Guardar en carpeta "Yo" todos los mensajes que yo envío
+      if (msg.fromMe) {
+        saveMessage('Yo', `Yo → ${folderName}`, text);
+      }
 
       // Media detection
       if (msg.hasMedia) {
