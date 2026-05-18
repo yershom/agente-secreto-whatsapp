@@ -48,3 +48,19 @@ Soy la enfermera del Pediatra Heiverg, para preguntarle si pudo realizar la tran
 [16/05/2026, 22:40:36] Yo: comprobante_transferencia_03-Mar-2026_11_15_06 h.pdf
 [16/05/2026, 22:40:36] Anna Recepción Dr. Heiverg: Buen día! 
 [16/05/2026, 22:40:36] Yo: [Archivo adjunto]
+[17/05/2026, 18:29:00] Yo: 114637542584360@lid
+[17/05/2026, 18:29:00] Anna Recepción Dr. Heiverg: Le envio su factura. Gracias ☺️
+[17/05/2026, 18:29:00] Yo: Gracias a ti 🙂
+[17/05/2026, 18:29:00] Anna Recepción Dr. Heiverg: Gracias, es que no me dijo el Dr! 😬
+[17/05/2026, 18:29:00] Yo: Hola, si, la hice, le envié al dr. la transferencia
+[17/05/2026, 18:29:00] Yo: comprobante_transferencia_03-Mar-2026_11_15_06 h.pdf
+[17/05/2026, 18:29:00] Anna Recepción Dr. Heiverg: Buen día! 
+[17/05/2026, 18:29:00] Yo: [Archivo adjunto]
+[18/05/2026, 05:19:30] Yo: 114637542584360@lid
+[18/05/2026, 05:19:30] Anna Recepción Dr. Heiverg: Le envio su factura. Gracias ☺️
+[18/05/2026, 05:19:30] Yo: Gracias a ti 🙂
+[18/05/2026, 05:19:30] Anna Recepción Dr. Heiverg: Gracias, es que no me dijo el Dr! 😬
+[18/05/2026, 05:19:30] Yo: Hola, si, la hice, le envié al dr. la transferencia
+[18/05/2026, 05:19:30] Yo: comprobante_transferencia_03-Mar-2026_11_15_06 h.pdf
+[18/05/2026, 05:19:30] Anna Recepción Dr. Heiverg: Buen día! 
+[18/05/2026, 05:19:30] Yo: [Archivo adjunto]

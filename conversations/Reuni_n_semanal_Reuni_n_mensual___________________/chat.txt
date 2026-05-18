@@ -1,6 +1,7 @@
 Reuniones semanales
 Reuniones mensuales
 Día y hora para vernos
+[29/10/2025, 17:01:09] Yo: Grupo con el único fin de organizar las 
 [14/05/2026, 23:48:19] Yo: Grupo con el único fin de organizar las 
 [15/05/2026, 22:47:47] Yo: Grupo con el único fin de organizar las 
 [16/05/2026, 05:04:34] Yo: Grupo con el único fin de organizar las 
@@ -8,3 +9,4 @@ Día y hora para vernos
 [16/05/2026, 05:58:26] Yo: Grupo con el único fin de organizar las 
 [16/05/2026, 22:40:54] Yo: Grupo con el único fin de organizar las 
 [17/05/2026, 18:29:18] Yo: Grupo con el único fin de organizar las 
+[18/05/2026, 05:19:48] Yo: Grupo con el único fin de organizar las 

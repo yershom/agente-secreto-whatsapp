@@ -18,6 +18,26 @@ En breve comenzaremos a prepararlo 🍲😋
 !reanudar <id> — bot retoma la atención
 !pausados — lista conversaciones pausadas
 ℹ️ !help — muestra este mensaje
+[24/04/2026, 00:00:37] Dorantas: Hi Preciosa
+[24/04/2026, 00:00:38] Yo: [Archivo adjunto]
+[24/04/2026, 00:02:32] Dorantas: mandame la fot
+[24/04/2026, 00:50:39] Yo: [Archivo adjunto]
+[24/04/2026, 03:37:38] Yo: [Archivo adjunto]
+[24/04/2026, 03:52:29] Yo: [Archivo adjunto]
+[24/04/2026, 04:21:08] Yo: ¡Hola! 👋 
+[24/04/2026, 04:21:09] Dorantas: Gracias por escribirnos, nuestro horario de servicio es de 1pm a 10pm. Nos vemos en un rato
+[24/04/2026, 04:28:08] Dorantas: ¿Qué hamburguesa se te antoja hoy?
+[24/04/2026, 04:31:38] Yo: 146901554958590@lid
+[24/04/2026, 04:49:10] Yo: Hola
+[24/04/2026, 12:57:58] Yo: Hola
+[03/05/2026, 13:53:13] Yo: [Archivo adjunto]
+[03/05/2026, 13:53:15] Dorantas: Te estás comunicando fuera del horario de servicio, con gusto te atenderemos dentro de nuestro horario de atención.
+[03/05/2026, 13:54:55] Yo: [Archivo adjunto]
+[14/05/2026, 22:58:14] Yo: Hola
+[14/05/2026, 22:58:16] Dorantas: ¡Hola! Bienvenido a Dorantas. ¿Cómo te llamas?
+[14/05/2026, 23:06:47] Dorantas: Hola admin 👋 Usa *!help* para ver los comandos disponibles.
+[14/05/2026, 23:06:47] Yo: Hola
+[14/05/2026, 23:08:53] Dorantas: !help
 [14/05/2026, 23:08:55] Dorantas: !help
 [14/05/2026, 23:10:01] Dorantas: !help
 [14/05/2026, 23:10:01] Dorantas: Hola admin 👋 Usa *!help* para ver los comandos disponibles.
@@ -31,8 +51,14 @@ En breve comenzaremos a prepararlo 🍲😋
 [14/05/2026, 23:10:02] Dorantas: Gracias por escribirnos, nuestro horario de servicio es de 1pm a 10pm. Nos vemos en un rato
 [14/05/2026, 23:10:02] Yo: ¡Hola! 👋 
 [14/05/2026, 23:10:02] Yo: [Archivo adjunto]
+[14/05/2026, 23:11:19] Dorantas: *COMANDOS DORANTAS ADMIN*
+[14/05/2026, 23:11:19] Yo: !help
 [14/05/2026, 23:11:26] Dorantas: *COMANDOS DORANTAS ADMIN*
+[14/05/2026, 23:11:45] Dorantas: No hay pedidos para el filtro "hoy".
+[14/05/2026, 23:11:45] Yo: !pedidos hoy
 [14/05/2026, 23:11:53] Dorantas: No hay pedidos para el filtro "hoy".
+[14/05/2026, 23:12:06] Yo: !pedidos abiertos
+[14/05/2026, 23:12:07] Dorantas: No hay pedidos para el filtro "abiertos".
 [14/05/2026, 23:12:10] Dorantas: No hay pedidos para el filtro "abiertos".
 [14/05/2026, 23:13:48] Dorantas: No hay pedidos para el filtro "abiertos".
 [14/05/2026, 23:13:48] Yo: !pedidos abiertos
@@ -161,3 +187,21 @@ En breve comenzaremos a prepararlo 🍲😋
 [17/05/2026, 18:28:09] Yo: ¡Hola! 👋 
 [17/05/2026, 18:28:09] Dorantas: mandame la fot
 [17/05/2026, 18:28:09] Dorantas: Hi Preciosa
+[18/05/2026, 05:18:04] Dorantas: No hay pedidos para el filtro "abiertos".
+[18/05/2026, 05:18:04] Yo: !pedidos abiertos
+[18/05/2026, 05:18:04] Dorantas: No hay pedidos para el filtro "hoy".
+[18/05/2026, 05:18:04] Yo: !pedidos hoy
+[18/05/2026, 05:18:04] Dorantas: *COMANDOS DORANTAS ADMIN*
+[18/05/2026, 05:18:04] Yo: !help
+[18/05/2026, 05:18:04] Dorantas: !help
+[18/05/2026, 05:18:04] Dorantas: Hola admin 👋 Usa *!help* para ver los comandos disponibles.
+[18/05/2026, 05:18:04] Yo: Hola
+[18/05/2026, 05:18:04] Dorantas: ¡Hola! Bienvenido a Dorantas. ¿Cómo te llamas?
+[18/05/2026, 05:18:04] Yo: [Archivo adjunto]
+[18/05/2026, 05:18:04] Dorantas: Te estás comunicando fuera del horario de servicio, con gusto te atenderemos dentro de nuestro horario de atención.
+[18/05/2026, 05:18:04] Yo: 146901554958590@lid
+[18/05/2026, 05:18:04] Dorantas: ¿Qué hamburguesa se te antoja hoy?
+[18/05/2026, 05:18:04] Dorantas: Gracias por escribirnos, nuestro horario de servicio es de 1pm a 10pm. Nos vemos en un rato
+[18/05/2026, 05:18:04] Yo: ¡Hola! 👋 
+[18/05/2026, 05:18:04] Dorantas: mandame la fot
+[18/05/2026, 05:18:04] Dorantas: Hi Preciosa

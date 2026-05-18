@@ -20,6 +20,19 @@ FN:Inflables Diversiones Chavitos
 item1.TEL;waid=5217773878044:+52 777 387 8044
 item2.TEL:+52 734 131 9651
 item2.X-ABLabel:Celular
+[08/05/2026, 15:30:27] Zarpas: [Archivo adjunto]
+[08/05/2026, 15:31:35] Yo: Hola, si, si tengo
+[08/05/2026, 15:31:51] Yo: BEGIN:VCARD
+[08/05/2026, 15:32:10] Yo: BEGIN:VCARD
+[08/05/2026, 15:32:21] Yo: BEGIN:VCARD
+[08/05/2026, 15:32:32] Yo: BEGIN:VCARD
+[08/05/2026, 15:32:38] Yo: Te mando 4 opciones
+[08/05/2026, 15:34:27] Zarpas: Gracias
+[08/05/2026, 15:34:43] Zarpas: Pero cuál recomiendas
+[08/05/2026, 16:12:13] Yo: De que tamaño buscas?
+[08/05/2026, 16:26:47] Zarpas: [Archivo adjunto]
+[08/05/2026, 16:34:13] Yo: El de diversiones chavitos tiene uno de toy story
+[08/05/2026, 16:37:58] Zarpas: Yastas gracias
 [14/05/2026, 23:26:56] Zarpas: Yastas gracias
 [14/05/2026, 23:26:56] Yo: El de diversiones chavitos tiene uno de toy story
 [14/05/2026, 23:26:56] Zarpas: [Archivo adjunto]
@@ -83,3 +96,12 @@ item2.X-ABLabel:Celular
 [17/05/2026, 18:28:43] Yo: Te mando 4 opciones
 [17/05/2026, 18:28:43] Yo: BEGIN:VCARD
 [17/05/2026, 18:28:43] Yo: Hola, si, si tengo
+[18/05/2026, 05:19:14] Zarpas: Yastas gracias
+[18/05/2026, 05:19:14] Yo: El de diversiones chavitos tiene uno de toy story
+[18/05/2026, 05:19:14] Zarpas: [Archivo adjunto]
+[18/05/2026, 05:19:14] Yo: De que tamaño buscas?
+[18/05/2026, 05:19:14] Zarpas: Pero cuál recomiendas
+[18/05/2026, 05:19:14] Zarpas: Gracias
+[18/05/2026, 05:19:14] Yo: Te mando 4 opciones
+[18/05/2026, 05:19:14] Yo: BEGIN:VCARD
+[18/05/2026, 05:19:14] Yo: Hola, si, si tengo

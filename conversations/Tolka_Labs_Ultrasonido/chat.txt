@@ -1,3 +1,9 @@
+[16/02/2026, 22:46:39] Yo: [Archivo adjunto]
+[16/02/2026, 22:46:45] Tolka Labs Ultrasonido: Gracias por comunicarte con Tolka  Diagnóstico Médico Por Ultrasonido. ¿Cómo podemos ayudarte?
+[16/02/2026, 22:46:55] Yo: Facturar a régimen de asalariado de favor
+[16/02/2026, 22:46:55] Yo: Constancia Situacion Fiscal GSML.pdf
+[17/02/2026, 00:06:47] Tolka Labs Ultrasonido: K-194.xml
+[17/02/2026, 00:06:47] Tolka Labs Ultrasonido: K-194.pdf
 [14/05/2026, 23:47:52] Tolka Labs Ultrasonido: K-194.xml
 [14/05/2026, 23:47:53] Tolka Labs Ultrasonido: K-194.pdf
 [14/05/2026, 23:47:54] Yo: Facturar a régimen de asalariado de favor
@@ -40,3 +46,9 @@
 [17/05/2026, 18:29:08] Yo: Constancia Situacion Fiscal GSML.pdf
 [17/05/2026, 18:29:09] Tolka Labs Ultrasonido: Gracias por comunicarte con Tolka  Diagnóstico Médico Por Ultrasonido. ¿Cómo podemos ayudarte?
 [17/05/2026, 18:29:09] Yo: [Archivo adjunto]
+[18/05/2026, 05:19:38] Tolka Labs Ultrasonido: K-194.xml
+[18/05/2026, 05:19:38] Tolka Labs Ultrasonido: K-194.pdf
+[18/05/2026, 05:19:38] Yo: Facturar a régimen de asalariado de favor
+[18/05/2026, 05:19:38] Yo: Constancia Situacion Fiscal GSML.pdf
+[18/05/2026, 05:19:38] Tolka Labs Ultrasonido: Gracias por comunicarte con Tolka  Diagnóstico Médico Por Ultrasonido. ¿Cómo podemos ayudarte?
+[18/05/2026, 05:19:38] Yo: [Archivo adjunto]

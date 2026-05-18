@@ -1,3 +1,7 @@
+[19/02/2026, 21:58:27] Yo: Hola! yo voy a querer uno de estos. si ya no alcancé hoy, para después
+[19/02/2026, 22:03:09] 199350974202018: Hola! Una disculpa ya estamos en jojutla, si para el siguiente pedido se lo checo con gusto
+[19/02/2026, 22:03:14] 199350974202018: Gracias!
+[20/02/2026, 01:47:21] Yo: Si, gracias
 [14/05/2026, 23:47:52] Yo: Si, gracias
 [14/05/2026, 23:47:52] 199350974202018: Gracias!
 [14/05/2026, 23:47:52] 199350974202018: Hola! Una disculpa ya estamos en jojutla, si para el siguiente pedido se lo checo con gusto
@@ -26,3 +30,7 @@
 [17/05/2026, 18:29:08] 199350974202018: Gracias!
 [17/05/2026, 18:29:08] 199350974202018: Hola! Una disculpa ya estamos en jojutla, si para el siguiente pedido se lo checo con gusto
 [17/05/2026, 18:29:08] Yo: Hola! yo voy a querer uno de estos. si ya no alcancé hoy, para después
+[18/05/2026, 05:19:38] Yo: Si, gracias
+[18/05/2026, 05:19:38] 199350974202018: Gracias!
+[18/05/2026, 05:19:38] 199350974202018: Hola! Una disculpa ya estamos en jojutla, si para el siguiente pedido se lo checo con gusto
+[18/05/2026, 05:19:38] Yo: Hola! yo voy a querer uno de estos. si ya no alcancé hoy, para después

@@ -1,3 +1,6 @@
+[04/03/2026, 18:54:40] Yo: [Archivo adjunto]
+[06/05/2026, 01:31:47] Yo: Tarea Aharon.pdf
+[06/05/2026, 01:31:48] Yo: Tarea libro.pdf
 [14/05/2026, 23:27:11] Yo: Tarea libro.pdf
 [14/05/2026, 23:27:11] Yo: Tarea Aharon.pdf
 [14/05/2026, 23:27:11] Yo: [Archivo adjunto]
@@ -22,3 +25,6 @@
 [17/05/2026, 18:28:44] Yo: Tarea libro.pdf
 [17/05/2026, 18:28:44] Yo: Tarea Aharon.pdf
 [17/05/2026, 18:28:44] Yo: [Archivo adjunto]
+[18/05/2026, 05:19:15] Yo: Tarea libro.pdf
+[18/05/2026, 05:19:15] Yo: Tarea Aharon.pdf
+[18/05/2026, 05:19:15] Yo: [Archivo adjunto]

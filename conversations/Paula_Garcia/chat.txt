@@ -1,3 +1,17 @@
+[29/04/2026, 23:39:01] Paula Garcia: Shalom hermana buenas tardes
+[29/04/2026, 23:39:11] Paula Garcia: Soy la hermana Paula
+[29/04/2026, 23:39:26] Paula Garcia: Aún puedo hacer mi pedido?
+[29/04/2026, 23:39:36] Yo: Hola hermana, si, dígame
+[29/04/2026, 23:39:38] Yo: Shalom
+[29/04/2026, 23:40:22] Paula Garcia: Van a ser dos hamburguesas, una sin mayonesa
+[29/04/2026, 23:40:52] Paula Garcia: Y la otra sin cebolla sin , picante y sin mostaza
+[29/04/2026, 23:41:41] Paula Garcia: Usted le pone la mostaza y la catsup o ya  cada quien a su gusto?
+[29/04/2026, 23:51:02] Yo: No, cada quien le pone mostaza
+[29/04/2026, 23:51:07] Yo: Y catsup
+[29/04/2026, 23:51:10] Yo: Se envían sobres
+[29/04/2026, 23:51:25] Yo: Si, hermana, la anoto, gracias
+[29/04/2026, 23:52:13] Paula Garcia: Gracias a usted shalom,y que tenga buena tarde.
+[29/04/2026, 23:53:00] Yo: Igualmente, shalom 💞
 [14/05/2026, 23:27:45] Yo: Igualmente, shalom 💞
 [14/05/2026, 23:27:45] Paula Garcia: Gracias a usted shalom,y que tenga buena tarde.
 [14/05/2026, 23:27:45] Yo: Si, hermana, la anoto, gracias
@@ -96,3 +110,17 @@
 [17/05/2026, 18:28:47] Paula Garcia: Aún puedo hacer mi pedido?
 [17/05/2026, 18:28:47] Paula Garcia: Soy la hermana Paula
 [17/05/2026, 18:28:47] Paula Garcia: Shalom hermana buenas tardes
+[18/05/2026, 05:19:18] Yo: Igualmente, shalom 💞
+[18/05/2026, 05:19:18] Paula Garcia: Gracias a usted shalom,y que tenga buena tarde.
+[18/05/2026, 05:19:18] Yo: Si, hermana, la anoto, gracias
+[18/05/2026, 05:19:18] Yo: Se envían sobres
+[18/05/2026, 05:19:18] Yo: Y catsup
+[18/05/2026, 05:19:18] Yo: No, cada quien le pone mostaza
+[18/05/2026, 05:19:18] Paula Garcia: Usted le pone la mostaza y la catsup o ya  cada quien a su gusto?
+[18/05/2026, 05:19:18] Paula Garcia: Y la otra sin cebolla sin , picante y sin mostaza
+[18/05/2026, 05:19:18] Paula Garcia: Van a ser dos hamburguesas, una sin mayonesa
+[18/05/2026, 05:19:18] Yo: Shalom
+[18/05/2026, 05:19:18] Yo: Hola hermana, si, dígame
+[18/05/2026, 05:19:18] Paula Garcia: Aún puedo hacer mi pedido?
+[18/05/2026, 05:19:18] Paula Garcia: Soy la hermana Paula
+[18/05/2026, 05:19:18] Paula Garcia: Shalom hermana buenas tardes

@@ -64,3 +64,23 @@ Cuánto es el mínimo de pedido??
 [16/05/2026, 22:40:17] Yo: Hola buenas tardes, Mínimo son dos hamburguesas, y para pedido a panchimalco son 25$
 [16/05/2026, 22:40:17] 5217341500651: Buena tarde 
 [16/05/2026, 22:40:17] Yo: 252784712658954@lid
+[17/05/2026, 18:28:41] Yo: Si, un placer atenderle
+[17/05/2026, 18:28:41] 5217341500651: Gracias de momento solo preguntaba 
+[17/05/2026, 18:28:41] Yo: ¿Va a querer dos o más? Están muy bien servidas y es pan especial artesanal
+[17/05/2026, 18:28:41] Yo: Si gracias
+[17/05/2026, 18:28:41] 5217341500651: [Archivo adjunto]
+[17/05/2026, 18:28:41] 5217341500651: Excelente tarde
+[17/05/2026, 18:28:41] 5217341500651: Ok agradezco su atención
+[17/05/2026, 18:28:41] Yo: Hola buenas tardes, Mínimo son dos hamburguesas, y para pedido a panchimalco son 25$
+[17/05/2026, 18:28:41] 5217341500651: Buena tarde 
+[17/05/2026, 18:28:41] Yo: 252784712658954@lid
+[18/05/2026, 05:19:12] Yo: Si, un placer atenderle
+[18/05/2026, 05:19:12] 5217341500651: Gracias de momento solo preguntaba 
+[18/05/2026, 05:19:12] Yo: ¿Va a querer dos o más? Están muy bien servidas y es pan especial artesanal
+[18/05/2026, 05:19:12] Yo: Si gracias
+[18/05/2026, 05:19:12] 5217341500651: [Archivo adjunto]
+[18/05/2026, 05:19:12] 5217341500651: Excelente tarde
+[18/05/2026, 05:19:12] 5217341500651: Ok agradezco su atención
+[18/05/2026, 05:19:12] Yo: Hola buenas tardes, Mínimo son dos hamburguesas, y para pedido a panchimalco son 25$
+[18/05/2026, 05:19:12] 5217341500651: Buena tarde 
+[18/05/2026, 05:19:12] Yo: 252784712658954@lid

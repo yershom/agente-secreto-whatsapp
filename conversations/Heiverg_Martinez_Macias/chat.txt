@@ -7,6 +7,19 @@ Me compartes tu receta
 Quería preguntarle sobre los resultados de mi hija. 
 Necesita algún tratamiento adicional? Le dio para gastritis actualmente.
 Le envío resultados de laboratorio de Leah
+[03/03/2026, 17:23:51] Yo: comprobante_transferencia_03-Mar-2026_11_15_06 h.pdf
+[03/03/2026, 17:23:54] Yo: Gracias
+[05/03/2026, 20:36:03] Yo: LEAH MIRANDA.pdf
+[05/03/2026, 20:36:24] Yo: Buenas tardes! 😊 
+[07/03/2026, 01:04:51] Yo: Hola, buenas noches Dr. Heiverg. 
+[07/03/2026, 01:49:10] Heiverg Martinez Macias: Hola
+[07/03/2026, 02:14:33] Yo: Si, le envío, gracias
+[07/03/2026, 02:15:01] Yo: [Archivo adjunto]
+[07/03/2026, 14:29:17] Heiverg Martinez Macias: Buen dia
+[07/03/2026, 16:11:53] Yo: Buenos días!
+[07/03/2026, 16:49:12] Heiverg Martinez Macias: Puedes pasar por una receta antes de la 1 pm.
+[07/03/2026, 16:53:53] Yo: Si, está bien
+[07/03/2026, 16:53:57] Yo: Paso
 [14/05/2026, 23:46:15] Yo: Paso
 [14/05/2026, 23:46:15] Yo: Si, está bien
 [14/05/2026, 23:46:15] Heiverg Martinez Macias: Puedes pasar por una receta antes de la 1 pm.
@@ -98,3 +111,16 @@ Le envío resultados de laboratorio de Leah
 [17/05/2026, 18:29:05] Yo: LEAH MIRANDA.pdf
 [17/05/2026, 18:29:05] Yo: Gracias
 [17/05/2026, 18:29:05] Yo: comprobante_transferencia_03-Mar-2026_11_15_06 h.pdf
+[18/05/2026, 05:19:36] Yo: Paso
+[18/05/2026, 05:19:36] Yo: Si, está bien
+[18/05/2026, 05:19:36] Heiverg Martinez Macias: Puedes pasar por una receta antes de la 1 pm.
+[18/05/2026, 05:19:36] Yo: Buenos días!
+[18/05/2026, 05:19:36] Heiverg Martinez Macias: Buen dia
+[18/05/2026, 05:19:36] Yo: [Archivo adjunto]
+[18/05/2026, 05:19:36] Yo: Si, le envío, gracias
+[18/05/2026, 05:19:36] Heiverg Martinez Macias: Hola
+[18/05/2026, 05:19:36] Yo: Hola, buenas noches Dr. Heiverg. 
+[18/05/2026, 05:19:36] Yo: Buenas tardes! 😊 
+[18/05/2026, 05:19:36] Yo: LEAH MIRANDA.pdf
+[18/05/2026, 05:19:36] Yo: Gracias
+[18/05/2026, 05:19:36] Yo: comprobante_transferencia_03-Mar-2026_11_15_06 h.pdf

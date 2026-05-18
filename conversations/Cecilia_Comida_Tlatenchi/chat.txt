@@ -130,6 +130,39 @@ Además también tenemos:
 🥭 Agua fresca de mango
 Todo recién hecho y con sazón casero ✨
 ¡Aparta tu comida antes de que se termine el pozole! 💛🍲
+[06/03/2026, 15:19:06] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[07/03/2026, 15:00:16] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[09/03/2026, 15:52:42] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[10/03/2026, 15:12:17] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[11/03/2026, 15:02:58] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[12/03/2026, 14:57:51] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[13/03/2026, 15:12:14] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[16/03/2026, 15:10:03] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[18/03/2026, 15:33:23] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[18/03/2026, 15:52:29] Yo: Hola, buenos días, me vendes de favor 1 chile con loganiza de favor ☺️ y un pollo en salsa macha
+[18/03/2026, 15:56:56] Yo: Y 1 litro de agua de melón
+[18/03/2026, 15:58:36] Cecilia Comida Tlatenchi: Sí claro en un momento se lo llevo
+[18/03/2026, 15:59:37] Yo: Tengo un billete de a $500
+[18/03/2026, 15:59:56] Yo: Cuánto sería?
+[19/03/2026, 15:07:36] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[21/03/2026, 15:09:21] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[23/03/2026, 15:20:50] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[24/03/2026, 15:22:36] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[25/03/2026, 15:16:40] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[26/03/2026, 15:01:51] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[31/03/2026, 16:23:06] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[01/04/2026, 15:13:27] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[03/04/2026, 11:47:21] Yo: 65416730816696@lid
+[03/04/2026, 23:40:56] Yo: 65416730816696@lid
+[03/04/2026, 23:42:08] Yo: 65416730816696@lid
+[13/05/2026, 18:08:19] Yo: Hola, buenos días
+[13/05/2026, 18:08:27] Yo: Hoy vendiste? Qué tienes de comer?
+[13/05/2026, 18:12:14] Cecilia Comida Tlatenchi: [Archivo adjunto]
+[13/05/2026, 18:12:36] Cecilia Comida Tlatenchi: Sólo que puerco ya no hay
+[13/05/2026, 18:14:16] Yo: Ok, en cuánto está el platillo?
+[13/05/2026, 18:15:49] Cecilia Comida Tlatenchi: 65
+[13/05/2026, 18:16:37] Yo: 2 bistec al albañil porfavor
+[13/05/2026, 18:18:53] Cecilia Comida Tlatenchi: Si
 [14/05/2026, 13:07:23] Cecilia Comida Tlatenchi: Si
 [14/05/2026, 13:07:23] Yo: 2 bistec al albañil porfavor
 [14/05/2026, 13:07:23] Cecilia Comida Tlatenchi: 65
@@ -307,3 +340,20 @@ Todo recién hecho y con sazón casero ✨
 [17/05/2026, 18:27:29] Cecilia Comida Tlatenchi: Sí claro en un momento se lo llevo
 [17/05/2026, 18:27:29] Yo: Y 1 litro de agua de melón
 [17/05/2026, 18:27:29] Yo: Hola, buenos días, me vendes de favor 1 chile con loganiza de favor ☺️ y un pollo en salsa macha
+[18/05/2026, 05:17:29] Cecilia Comida Tlatenchi: 🌽✨ ¡Hola! Hoy tenemos comida casera hecha con mucho amor y sabor 😋💛
+[18/05/2026, 05:17:29] Cecilia Comida Tlatenchi: ✨ ¡Hola! Muy bonito día 🌞
+[18/05/2026, 05:17:29] Cecilia Comida Tlatenchi: [Archivo adjunto]
+[18/05/2026, 05:17:29] Cecilia Comida Tlatenchi: Si
+[18/05/2026, 05:17:29] Yo: 2 bistec al albañil porfavor
+[18/05/2026, 05:17:29] Cecilia Comida Tlatenchi: 65
+[18/05/2026, 05:17:29] Yo: Ok, en cuánto está el platillo?
+[18/05/2026, 05:17:29] Cecilia Comida Tlatenchi: Sólo que puerco ya no hay
+[18/05/2026, 05:17:29] Yo: Hoy vendiste? Qué tienes de comer?
+[18/05/2026, 05:17:29] Yo: Hola, buenos días
+[18/05/2026, 05:17:29] Yo: 65416730816696@lid
+[18/05/2026, 05:17:29] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
+[18/05/2026, 05:17:29] Yo: Cuánto sería?
+[18/05/2026, 05:17:29] Yo: Tengo un billete de a $500
+[18/05/2026, 05:17:29] Cecilia Comida Tlatenchi: Sí claro en un momento se lo llevo
+[18/05/2026, 05:17:29] Yo: Y 1 litro de agua de melón
+[18/05/2026, 05:17:29] Yo: Hola, buenos días, me vendes de favor 1 chile con loganiza de favor ☺️ y un pollo en salsa macha

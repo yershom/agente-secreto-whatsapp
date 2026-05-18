@@ -15,3 +15,7 @@ Nora, hemos identificado una compra con tu tarjeta Inbursa 2410 por $129.00 en G
 [16/05/2026, 05:57:21] 5215554478050: 🚨 *IMPORTANTE* 🚨
 [16/05/2026, 22:40:00] 5215554478050: *Compra declinada* 🚫
 [16/05/2026, 22:40:00] 5215554478050: 🚨 *IMPORTANTE* 🚨
+[17/05/2026, 18:28:21] 5215554478050: *Compra declinada* 🚫
+[17/05/2026, 18:28:21] 5215554478050: 🚨 *IMPORTANTE* 🚨
+[18/05/2026, 05:18:14] 5215554478050: *Compra declinada* 🚫
+[18/05/2026, 05:18:14] 5215554478050: 🚨 *IMPORTANTE* 🚨

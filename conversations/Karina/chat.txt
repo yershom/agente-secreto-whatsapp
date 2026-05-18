@@ -3,6 +3,48 @@ N:;Alma Delia CPM;;;
 FN:Alma Delia CPM
 TEL;type=CELL;waid=5217341088915:+52 1 734 108 8915
 END:VCARD
+[28/02/2026, 20:02:48] Karina: Hola Eli, cómo han estado?
+[28/02/2026, 20:03:52] Yo: Hola amiga
+[28/02/2026, 20:04:28] Yo: Más o menos, pero cuéntame tú, cómo ha estado? Me urge más saber de ti y tu familia
+[28/02/2026, 20:05:26] Karina: [Archivo adjunto]
+[28/02/2026, 20:07:57] Karina: Gracias a Dios todo ha estado mejor. Mi abuelita ha estado mejor después de que pensamos que ya no se podía hacer nada por ella. Apenas fue al Doctor y le dijeron a mi mamá que hasta sus riñones mejoraron, que no hay explicación para esa mejoría.
+[28/02/2026, 20:10:09] Karina: Ya he podido hasta platicar con ella aunque sea un poco. Tiene momentos de más lucidez
+[28/02/2026, 20:11:08] Karina: Te escribía para saber cómo estás y también porque hace tres días Osvan se acordó de Leah y de ti
+[28/02/2026, 20:11:47] Yo: Lloraré 🥹🥹🥹
+[28/02/2026, 20:11:56] Yo: Que tierno tu niño
+[28/02/2026, 20:12:15] Karina: Y me dijo que las quería saludar. Ahorita que te estaba escribiendo de repente se volvió a acordar de ti como si supiera que te estaba escribiendo
+[28/02/2026, 20:12:18] Yo: Me da tantisisisimo gusto lo de tu abuelita amiga
+[28/02/2026, 20:12:59] Karina: [Archivo adjunto]
+[28/02/2026, 20:13:45] Karina: [Archivo adjunto]
+[28/02/2026, 20:15:07] Karina: [Archivo adjunto]
+[28/02/2026, 20:15:08] Yo: Hay si amiga! Claro que si a la videollamada
+[28/02/2026, 20:15:51] Yo: A ok, le pido los teléfonos a Gersom y te los paso amiga
+[28/02/2026, 20:16:48] Karina: [Archivo adjunto]
+[28/02/2026, 20:17:08] Karina: [Archivo adjunto]
+[28/02/2026, 20:18:24] Karina: Pero ahora tú cuéntame también
+[28/02/2026, 20:34:47] Yo: Si, si, yo te apoyo
+[28/02/2026, 20:35:08] Yo: Necesito a Leah jeje ahorita no está, hoy en la noche yo creo amiga
+[28/02/2026, 20:38:09] Karina: Gracias 🫶
+[28/02/2026, 20:38:38] Karina: Sí tú me avisas y ya hacemos la videollamada para que se saluden 😊
+[28/02/2026, 20:39:46] Yo: [Archivo adjunto]
+[28/02/2026, 20:40:01] Yo: Si amiga, te aviso en un ratito
+[01/03/2026, 17:19:21] Yo: BEGIN:VCARD
+[01/03/2026, 17:19:39] Yo: Hola amiga, este el teléfono de la señora de la caja popular que podría apoyarles
+[01/03/2026, 17:20:00] Yo: Diganle que son amigos de Gersom Miranda
+[01/03/2026, 17:20:44] Yo: Perdón que ayer ya no pude escribirte o marcarte, llegó mi hermana a verme anoche
+[01/03/2026, 21:28:17] Karina: Hola, muchas gracias!
+[01/03/2026, 21:28:54] Karina: Se lo envío a mi mamá para que se comunique
+[01/03/2026, 21:29:07] Karina: Cómo está tu hermana?
+[02/03/2026, 00:29:28] Yo: Está estable por lo pronto amiga
+[02/03/2026, 00:29:47] Yo: Estás ocupada? Aquí ando con Leah
+[02/03/2026, 00:54:12] Karina: Hola
+[02/03/2026, 00:54:21] Karina: Apenas viendo tu mensaje
+[02/03/2026, 00:54:30] Karina: Estaba disponibles?
+[02/03/2026, 01:11:47] Yo: Hola amiga, salimos 😅🥹
+[02/03/2026, 01:11:52] Yo: Regresando te aviso
+[02/03/2026, 01:22:40] Karina: Hola, sí me mandas mensaje 😊
+[02/03/2026, 01:22:44] Karina: Con cuidado
+[02/03/2026, 01:36:12] Yo: Si amiga 😀💕
 [14/05/2026, 23:46:19] Yo: Si amiga 😀💕
 [14/05/2026, 23:46:19] Karina: Con cuidado
 [14/05/2026, 23:46:19] Karina: Hola, sí me mandas mensaje 😊
@@ -267,3 +309,40 @@ END:VCARD
 [17/05/2026, 18:29:06] Yo: Más o menos, pero cuéntame tú, cómo ha estado? Me urge más saber de ti y tu familia
 [17/05/2026, 18:29:06] Yo: Hola amiga
 [17/05/2026, 18:29:06] Karina: Hola Eli, cómo han estado?
+[18/05/2026, 05:19:36] Yo: Si amiga 😀💕
+[18/05/2026, 05:19:36] Karina: Con cuidado
+[18/05/2026, 05:19:36] Karina: Hola, sí me mandas mensaje 😊
+[18/05/2026, 05:19:36] Yo: Regresando te aviso
+[18/05/2026, 05:19:36] Yo: Hola amiga, salimos 😅🥹
+[18/05/2026, 05:19:36] Karina: Estaba disponibles?
+[18/05/2026, 05:19:36] Karina: Apenas viendo tu mensaje
+[18/05/2026, 05:19:36] Karina: Hola
+[18/05/2026, 05:19:36] Yo: Estás ocupada? Aquí ando con Leah
+[18/05/2026, 05:19:36] Yo: Está estable por lo pronto amiga
+[18/05/2026, 05:19:36] Karina: Cómo está tu hermana?
+[18/05/2026, 05:19:36] Karina: Se lo envío a mi mamá para que se comunique
+[18/05/2026, 05:19:36] Karina: Hola, muchas gracias!
+[18/05/2026, 05:19:36] Yo: Perdón que ayer ya no pude escribirte o marcarte, llegó mi hermana a verme anoche
+[18/05/2026, 05:19:36] Yo: Diganle que son amigos de Gersom Miranda
+[18/05/2026, 05:19:36] Yo: Hola amiga, este el teléfono de la señora de la caja popular que podría apoyarles
+[18/05/2026, 05:19:36] Yo: BEGIN:VCARD
+[18/05/2026, 05:19:36] Yo: Si amiga, te aviso en un ratito
+[18/05/2026, 05:19:36] Yo: [Archivo adjunto]
+[18/05/2026, 05:19:36] Karina: Sí tú me avisas y ya hacemos la videollamada para que se saluden 😊
+[18/05/2026, 05:19:36] Karina: Gracias 🫶
+[18/05/2026, 05:19:36] Yo: Necesito a Leah jeje ahorita no está, hoy en la noche yo creo amiga
+[18/05/2026, 05:19:36] Yo: Si, si, yo te apoyo
+[18/05/2026, 05:19:36] Karina: Pero ahora tú cuéntame también
+[18/05/2026, 05:19:36] Karina: [Archivo adjunto]
+[18/05/2026, 05:19:36] Yo: A ok, le pido los teléfonos a Gersom y te los paso amiga
+[18/05/2026, 05:19:36] Yo: Hay si amiga! Claro que si a la videollamada
+[18/05/2026, 05:19:36] Yo: Me da tantisisisimo gusto lo de tu abuelita amiga
+[18/05/2026, 05:19:36] Karina: Y me dijo que las quería saludar. Ahorita que te estaba escribiendo de repente se volvió a acordar de ti como si supiera que te estaba escribiendo
+[18/05/2026, 05:19:36] Yo: Que tierno tu niño
+[18/05/2026, 05:19:36] Yo: Lloraré 🥹🥹🥹
+[18/05/2026, 05:19:36] Karina: Te escribía para saber cómo estás y también porque hace tres días Osvan se acordó de Leah y de ti
+[18/05/2026, 05:19:36] Karina: Ya he podido hasta platicar con ella aunque sea un poco. Tiene momentos de más lucidez
+[18/05/2026, 05:19:36] Karina: Gracias a Dios todo ha estado mejor. Mi abuelita ha estado mejor después de que pensamos que ya no se podía hacer nada por ella. Apenas fue al Doctor y le dijeron a mi mamá que hasta sus riñones mejoraron, que no hay explicación para esa mejoría.
+[18/05/2026, 05:19:36] Yo: Más o menos, pero cuéntame tú, cómo ha estado? Me urge más saber de ti y tu familia
+[18/05/2026, 05:19:36] Yo: Hola amiga
+[18/05/2026, 05:19:36] Karina: Hola Eli, cómo han estado?

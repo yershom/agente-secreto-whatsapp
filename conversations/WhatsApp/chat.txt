@@ -1,3 +1,4 @@
+[28/04/2026, 09:06:40] WhatsApp: [Archivo adjunto]
 [14/05/2026, 23:28:24] WhatsApp: [Archivo adjunto]
 [15/05/2026, 22:46:55] WhatsApp: [Archivo adjunto]
 [16/05/2026, 05:04:05] WhatsApp: [Archivo adjunto]
@@ -5,3 +6,4 @@
 [16/05/2026, 05:57:58] WhatsApp: [Archivo adjunto]
 [16/05/2026, 22:40:25] WhatsApp: [Archivo adjunto]
 [17/05/2026, 18:28:49] WhatsApp: [Archivo adjunto]
+[18/05/2026, 05:19:19] WhatsApp: [Archivo adjunto]
