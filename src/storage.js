@@ -15,7 +15,7 @@ function sanitizeName(name) {
   return name.replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 }
 
-export function saveMessage(contact, sender, message) {
+export function saveMessage(contact, sender, message, msgTimestamp) {
   const contactDir = path.join(CONVERSATIONS_DIR, sanitizeName(contact));
   const chatFile = path.join(contactDir, 'chat.txt');
 
@@ -24,7 +24,8 @@ export function saveMessage(contact, sender, message) {
     fs.mkdirSync(path.join(contactDir, 'attachments'), { recursive: true });
   }
 
-  const timestamp = new Date().toLocaleString('es-ES', {
+  const date = msgTimestamp ? new Date(msgTimestamp * 1000) : new Date();
+  const timestamp = date.toLocaleString('es-ES', {
     year: 'numeric',
     month: '2-digit',
     day: '2-digit',

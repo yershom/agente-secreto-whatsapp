@@ -80,7 +80,7 @@ async function downloadHistoryOnce(client) {
               const sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
               const text = msg.body || '[Archivo adjunto]';
 
-              saveMessage(folderName, sender, text);
+              saveMessage(folderName, sender, text, msg.timestamp);
 
               if (msg.hasMedia) {
                 try {
@@ -200,11 +200,11 @@ export async function startWhatsApp() {
       const type = isGroup ? '👥' : '💬';
 
       console.log(`${type} 📝 [${folderName}] ${sender}: ${text.substring(0, 60)}`);
-      saveMessage(folderName, sender, text);
+      saveMessage(folderName, sender, text, msg.timestamp);
 
       // Guardar en carpeta "Yo" todos los mensajes que yo envío
       if (msg.fromMe) {
-        saveMessage('Yo', `Yo → ${folderName}`, text);
+        saveMessage('Yo', `Yo → ${folderName}`, text, msg.timestamp);
       }
 
       // Media detection
