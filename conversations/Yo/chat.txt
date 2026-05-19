@@ -104,3 +104,27 @@ Voy a almorzar
 [18/05/2026, 18:20:19] Yo → Karem: Si, no te preocupes
 [18/05/2026, 18:20:23] Yo → Karem: Entonces, almorzamos?
 [18/05/2026, 19:33:12] Yo → Karem: Si, está bien
+[18/05/2026, 23:20:49] Yo → Geydi_Hermana_Brenda: Hola amiga, bien, y tú?
+[19/05/2026, 00:07:23] Yo → _52_734_141_1968: [Archivo adjunto]
+[19/05/2026, 00:28:00] Yo → Gersom: Ok
+[19/05/2026, 04:18:53] Yo → Nora_Olivas: Siii
+[19/05/2026, 04:18:56] Yo → Nora_Olivas: Ya lo tengo conmigo
+[19/05/2026, 04:19:03] Yo → Nora_Olivas: Si estaba en la casa idieb
+[19/05/2026, 04:19:05] Yo → Nora_Olivas: Gracias
+[19/05/2026, 04:52:21] Yo → Geydi_Hermana_Brenda: BEGIN:VCARD
+VERSION:3.0
+N:LaPor;MARIA LAPOR;María;;
+FN:MARIA LAPOR María LaPor
+item1.TEL;waid=5217341610650:+52 734 161 0650
+item1.X-ABLabel:Móvil
+END:VCARD
+[19/05/2026, 04:53:44] Yo → Maestra_Danza__rabe________: 😖
+[19/05/2026, 04:55:23] Yo → Maestra_Danza__rabe________: Jajaja no era ese
+[19/05/2026, 04:55:58] Yo → Maestra_Danza__rabe________: 😋 era este emoji
+[19/05/2026, 04:56:31] Yo → Geydi_Hermana_Brenda: Cómo has estado?
+[19/05/2026, 04:56:38] Yo → Geydi_Hermana_Brenda: Dónde andas?
+[19/05/2026, 04:57:24] Yo → Geydi_Hermana_Brenda: Hay no, espero se recupere pronto
+[19/05/2026, 04:58:45] Yo → Geydi_Hermana_Brenda: Entonces ya andas aquí cerca
+[19/05/2026, 05:00:38] Yo → Geydi_Hermana_Brenda: Y qué día tienes para trabajar, amiga?
+[19/05/2026, 05:04:22] Yo → Geydi_Hermana_Brenda: Y que horarios?
+[19/05/2026, 05:04:41] Yo → Geydi_Hermana_Brenda: Porque tú camión sale creo que a las 6 el último, no?
