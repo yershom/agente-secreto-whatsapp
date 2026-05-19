@@ -7,3 +7,31 @@
 [16/05/2026, 22:40:46] Geydi Hermana Brenda: Como estas
 [17/05/2026, 18:29:10] Geydi Hermana Brenda: Como estas
 [18/05/2026, 05:19:40] Geydi Hermana Brenda: Como estas
+[18/05/2026, 22:04:50] Geydi Hermana Brenda: Hola Nora como estas
+[18/05/2026, 23:20:49] Yo: Hola amiga, bien, y tú?
+[18/05/2026, 23:24:30] Geydi Hermana Brenda: Bien amiga
+[19/05/2026, 04:14:18] Geydi Hermana Brenda: Cuando puedes me podrías enviar otra vez el número de tu suegra xfavor
+[19/05/2026, 04:14:23] Geydi Hermana Brenda: Ando buscando trabajo
+[19/05/2026, 04:52:21] Yo: BEGIN:VCARD
+VERSION:3.0
+N:LaPor;MARIA LAPOR;María;;
+FN:MARIA LAPOR María LaPor
+item1.TEL;waid=5217341610650:+52 734 161 0650
+item1.X-ABLabel:Móvil
+END:VCARD
+[19/05/2026, 04:55:01] Geydi Hermana Brenda: Muchas gracias amiga
+[19/05/2026, 04:56:31] Yo: Cómo has estado?
+[19/05/2026, 04:56:38] Yo: Dónde andas?
+[19/05/2026, 04:56:54] Geydi Hermana Brenda: Bien aquí andamos en el rancho
+[19/05/2026, 04:57:05] Geydi Hermana Brenda: Mi mamá anda un poco mal
+[19/05/2026, 04:57:10] Geydi Hermana Brenda: Pero estamos bien
+[19/05/2026, 04:57:17] Geydi Hermana Brenda: Gracias a dios amiga
+[19/05/2026, 04:57:24] Yo: Hay no, espero se recupere pronto
+[19/05/2026, 04:58:33] Geydi Hermana Brenda: Muchas gracias amiga
+[19/05/2026, 04:58:45] Yo: Entonces ya andas aquí cerca
+[19/05/2026, 04:59:32] Geydi Hermana Brenda: Si ya ando aquí amiga
+[19/05/2026, 05:00:38] Yo: Y qué día tienes para trabajar, amiga?
+[19/05/2026, 05:01:22] Geydi Hermana Brenda: Todos los pero menos domingos
+[19/05/2026, 05:04:22] Yo: Y que horarios?
+[19/05/2026, 05:04:41] Yo: Porque tú camión sale creo que a las 6 el último, no?
+[19/05/2026, 05:07:39] Geydi Hermana Brenda: El último es de las 7
