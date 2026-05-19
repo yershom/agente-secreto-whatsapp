@@ -855,3 +855,4 @@ Playera $250
 [18/05/2026, 18:36:33] 120363401947058074: Les dejo maquillaje y peinado
 [18/05/2026, 19:23:24] 120363401947058074: Y cuando entrégan el moño profe
 [18/05/2026, 19:24:25] 120363401947058074: La entrega de playera y moño está agendada entre el 28 y 30
+[19/05/2026, 21:52:32] 120363401947058074: [Archivo adjunto]
