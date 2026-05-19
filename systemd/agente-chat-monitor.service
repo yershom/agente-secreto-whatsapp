@@ -1,0 +1,15 @@
+[Unit]
+Description=AgenteWA - monitor Psic_logo_Aras y Candy → Telegram
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/ubuntu/AgenteWA/agente-secreto-whatsapp
+EnvironmentFile=/home/ubuntu/AgenteWA/agente-secreto-whatsapp/.env
+ExecStart=/usr/bin/node /home/ubuntu/AgenteWA/agente-secreto-whatsapp/src/monitor-telegram.js
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=default.target
