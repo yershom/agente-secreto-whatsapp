@@ -1,3 +1,9 @@
+VERSION:3.0
+N:LaPor;MARIA LAPOR;María;;
+FN:MARIA LAPOR María LaPor
+item1.TEL;waid=5217341610650:+52 734 161 0650
+item1.X-ABLabel:Móvil
+END:VCARD
 [27/01/2026, 18:09:38] Geydi Hermana Brenda: Como estas
 [14/05/2026, 23:47:58] Geydi Hermana Brenda: Como estas
 [15/05/2026, 22:47:40] Geydi Hermana Brenda: Como estas
@@ -13,12 +19,6 @@
 [19/05/2026, 04:14:18] Geydi Hermana Brenda: Cuando puedes me podrías enviar otra vez el número de tu suegra xfavor
 [19/05/2026, 04:14:23] Geydi Hermana Brenda: Ando buscando trabajo
 [19/05/2026, 04:52:21] Yo: BEGIN:VCARD
-VERSION:3.0
-N:LaPor;MARIA LAPOR;María;;
-FN:MARIA LAPOR María LaPor
-item1.TEL;waid=5217341610650:+52 734 161 0650
-item1.X-ABLabel:Móvil
-END:VCARD
 [19/05/2026, 04:55:01] Geydi Hermana Brenda: Muchas gracias amiga
 [19/05/2026, 04:56:31] Yo: Cómo has estado?
 [19/05/2026, 04:56:38] Yo: Dónde andas?
@@ -35,3 +35,8 @@ END:VCARD
 [19/05/2026, 05:04:22] Yo: Y que horarios?
 [19/05/2026, 05:04:41] Yo: Porque tú camión sale creo que a las 6 el último, no?
 [19/05/2026, 05:07:39] Geydi Hermana Brenda: El último es de las 7
+[19/05/2026, 05:19:20] Yo: ok, amiga, y cuánto estás cobrando por día ?
+[19/05/2026, 05:20:32] Geydi Hermana Brenda: De 350 a 400 amiga
+[19/05/2026, 05:22:17] Geydi Hermana Brenda: Pero se puede llegar a un arreglo amiga con la persona
+[19/05/2026, 05:23:02] Yo: Va, les comento a mis conocidos ☺️
+[19/05/2026, 05:23:37] Geydi Hermana Brenda: Si amiga gracias

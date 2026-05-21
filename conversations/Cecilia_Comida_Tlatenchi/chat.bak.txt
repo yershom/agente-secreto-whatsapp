@@ -130,6 +130,33 @@ Además también tenemos:
 🥭 Agua fresca de mango
 Todo recién hecho y con sazón casero ✨
 ¡Aparta tu comida antes de que se termine el pozole! 💛🍲
+✨ Comida casera hecha con sabor, amor y tradición ✨
+¡Hoy tenemos platillos súper ricos y recién hechos para consentirte! 🤍
+🥘 Cochinita de puerco
+🌿 Pechuga rellena en crema de cilantro
+🍃 Tortita de pollo en salsa verde
+🌶️ Pollo en salsa macha
+🍄 Pollo en crema
+🧀 Queso en salsa verde
+🌶️ Chile con longaniza
+🐷 Chicharrón en salsa verde
+🥤 Agua fresca de jamaica
+💛 ¡Todo acompañado con el sazón casero que tanto te gusta!
+📲 Haz tu pedido con tiempo y disfruta una comida deliciosa hecha al momento ✨
+🍽️ Comida casera hecha con mucho cariño 🍽️
+🥘 Carne de puerco en salsa de jitomate con cilantro
+💚 Clemole de pollo verde (sin picante)
+🥦 Coliflor capeada en especie de jitomate (sin picante)
+🥔 Bistec en salsa verde con papitas
+❤️ Pollo en adobo rojo
+🌵 Cecina a la mexicana con nopales
+🍄 Pollo en crema con champiñones
+🌭 Salchichas a la mexicana con rajitas
+🌶️ Longaniza en salsa verde
+🥤 Agua fresca de limón
+✨ Sazón casero, comida recién hecha y tortillas calientitas para acompañar.
+💛 ¡Gracias por apoyar mi cocina! Hoy toca comer rico 😋
+📲 Mándame tu pedido con tiempo porque algunos platillos se terminan rápido.
 [06/03/2026, 15:19:06] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
 [07/03/2026, 15:00:16] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
 [09/03/2026, 15:52:42] Cecilia Comida Tlatenchi: Muy buenos días hoy les ofrezco para almorzar 
@@ -360,23 +387,6 @@ Todo recién hecho y con sazón casero ✨
 [18/05/2026, 15:29:30] Yo: Buenos días
 [18/05/2026, 15:29:37] Yo: Que tienen de almorzar?
 [18/05/2026, 15:32:32] Cecilia Comida Tlatenchi: 🌸🍽️ Menú del Día 🍽️🌸
-
-✨ Comida casera hecha con sabor, amor y tradición ✨
-¡Hoy tenemos platillos súper ricos y recién hechos para consentirte! 🤍
-
-🥘 Cochinita de puerco
-🌿 Pechuga rellena en crema de cilantro
-🥜 Pollo en salsa de cacahuate
-🍃 Tortita de pollo en salsa verde
-🌶️ Pollo en salsa macha
-🍄 Pollo en crema
-🧀 Queso en salsa verde
-🌶️ Chile con longaniza
-🐷 Chicharrón en salsa verde
-
-🥤 Agua fresca de jamaica
-
-💛 ¡Todo acompañado con el sazón casero que tanto te gusta!
-📲 Haz tu pedido con tiempo y disfruta una comida deliciosa hecha al momento ✨
 [18/05/2026, 15:38:15] Yo: 1 tortitas de pollo y 1 pollo en cacahuate porfavor
 [18/05/2026, 15:40:53] Cecilia Comida Tlatenchi: Si ahorita se lo llevo
+[19/05/2026, 15:42:34] Cecilia Comida Tlatenchi: ✨ Menú del Día ✨
