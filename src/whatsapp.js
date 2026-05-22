@@ -44,7 +44,7 @@ async function downloadHistoryOnce(client) {
     }
     console.log('💾 Backup de conversaciones existentes completado.');
 
-    const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968','Karem','Hanani_Herrera','211552993050832']);
+    const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968','Karem','Hanani_Herrera','211552993050832','Ibrahim_Gatito_WS']);
     const chats = await client.getChats();
     console.log(`📊 Encontrados ${chats.length} chats. Descargando historial...`);
     console.log('⏱️  Esto puede tomar unos minutos...\n');
