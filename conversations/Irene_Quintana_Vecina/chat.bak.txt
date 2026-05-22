@@ -4,6 +4,14 @@ FN:Panadero Pedro (Pikin)
 item1.TEL;waid=5217341431412:+52 734 143 1412
 item1.X-ABLabel:Celular
 END:VCARD
+4 milanesas 
+1 penca de plátano
+1 papaya
+1 caja de blueberry 
+1 caja de zarzamora 
+1 caja de frambuesa 
+1 Kg tomate manzano 
+1 brócoli
 [01/05/2026, 04:45:43] Yo: Holaaaa
 [01/05/2026, 04:45:56] Yo: Si tienes pedido para mañana temprano, las hacemos
 [01/05/2026, 04:46:00] Yo: Si no, empezamos a la 1
@@ -1035,6 +1043,7 @@ END:VCARD
 [20/05/2026, 00:37:46] Irene Quintana Vecina: [Archivo adjunto]
 [20/05/2026, 00:38:00] Irene Quintana Vecina: Y mire ese es el pan que me trajeron
 [20/05/2026, 00:56:03] Irene Quintana Vecina: Si va a querer para que le aparte
+[20/05/2026, 01:12:59] Irene Quintana Vecina: [Archivo adjunto]
 [20/05/2026, 01:44:59] Irene Quintana Vecina: Le aparté 4 panes licensiada como le pregunté ayer y .me dijo que 4 me avisa cuando yegue porfa
 [20/05/2026, 01:54:55] Yo: Hola si
 [20/05/2026, 01:55:09] Yo: Cuáles te quedan?
@@ -1049,6 +1058,7 @@ END:VCARD
 [20/05/2026, 02:02:55] Yo: Llego como a las 9
 [20/05/2026, 02:03:13] Irene Quintana Vecina: Ok está bien
 [20/05/2026, 03:37:02] Irene Quintana Vecina: Ahun no regresa le yebe el pan le toque y no salió nadie
+[20/05/2026, 03:46:56] Irene Quintana Vecina: [Archivo adjunto]
 [20/05/2026, 03:47:32] Yo: Aun no llego
 [20/05/2026, 03:47:49] Yo: Se me olvidó avisarte
 [20/05/2026, 03:48:12] Irene Quintana Vecina: Ok me avisa kuya van a ser las 10 licenciada
@@ -1056,3 +1066,15 @@ END:VCARD
 [20/05/2026, 03:49:18] Irene Quintana Vecina: Ok entonces se lo guardo para temprano primero dios asta mañana
 [20/05/2026, 04:15:16] Yo: Si, hasta mañana
 [20/05/2026, 14:28:44] Irene Quintana Vecina: Me avisa aqueoras le yevo su pan y para poner mi manguera y de paso de una vez le barro
+[20/05/2026, 14:59:29] Irene Quintana Vecina: [Archivo adjunto]
+[20/05/2026, 16:36:25] Irene Quintana Vecina: Licenciada ahun no ase su lista
+[20/05/2026, 16:41:08] Yo: 4 pechugas aplanadas para asar 
+[20/05/2026, 16:43:01] Irene Quintana Vecina: 4 pechugas o una pechuga en 4 milanesas para empanizar ?
+[20/05/2026, 16:43:31] Yo: Las milanesas las vende por pieza, ya están hechas
+[20/05/2026, 16:43:53] Yo: Y a parte son 4 bisteces de pechuga para asar
+[20/05/2026, 16:44:05] Yo: Aplanados
+[20/05/2026, 16:44:37] Irene Quintana Vecina: En total 4 pechugas
+[20/05/2026, 16:46:57] Irene Quintana Vecina: [Archivo adjunto]
+[21/05/2026, 17:47:39] Irene Quintana Vecina: [Archivo adjunto]
+[22/05/2026, 14:40:45] Irene Quintana Vecina: Licenciada buenos días ya podré ir a poner mi mangera o usted me avisa porfis
+[22/05/2026, 15:11:18] Irene Quintana Vecina: [Archivo adjunto]

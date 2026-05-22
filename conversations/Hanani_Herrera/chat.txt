@@ -9,6 +9,695 @@ Pueden comenzar a hacer su pedido por WhatsApp al número 7341362682 en Papeler�
  *Jojutla, Municipio Humano y de Progreso
 Nora de casualidad tu tienes una transportadora que me prestes? Estoy viendo que se quedaron con mi mamá 2
 Quieres?
+Banco: BBVA 
+Destinatario: Nora Herrera
+VERSION:3.0
+N:;Dorantas;;;
+FN:Dorantas
+ORG:Food
+TITLE:
+item1.TEL;waid=5217341416526:+52 734 141 6526
+item1.X-ABLabel:Celular
+X-WA-BIZ-DESCRIPTION:Burgers 🍔
+X-WA-BIZ-NAME:Dorantas
+END:VCARD
+Cómo estás?
+Cómo sigues?
+Te quería decir si los niños no quieren venir en la noche a ver en el telescopio la alineación planetaria que es hoy 🌕
+N:Ortiz;Consultorio Colonproctologo;Miguel;;
+FN:Consultorio Colonproctologo Miguel Ortiz
+item1.TEL:+52 777 311 3825
+item1.X-ABLabel:Móvil
+[16/02/2026, 17:22:18] Hanani Herrera: Hola Nora, buenos días 🌷
+[16/02/2026, 17:22:38] Hanani Herrera: Nora de pura casualidad no tendrán pala, pico, barreta o algo de ello?
+[16/02/2026, 17:22:54] Hanani Herrera: Para enterrar a un gatito que mataron aquí en la unidad 🥲
+[16/02/2026, 17:48:28] Yo: Si nanis, si tengo
+[16/02/2026, 17:48:32] Yo: Al rato paso
+[16/02/2026, 17:49:37] Hanani Herrera: Gracias 💕
+[17/02/2026, 01:53:37] Hanani Herrera: Nora estarás como a las 8:30 pm para que mande a Carlos por la herramienta?
+[17/02/2026, 01:59:52] Yo: Hola nanis
+[17/02/2026, 01:59:54] Yo: Si
+[17/02/2026, 01:59:58] Yo: Voy para allá
+[17/02/2026, 02:00:04] Yo: Estaba manejando
+[17/02/2026, 02:18:54] Hanani Herrera: Gracias! Entonces sube en un momento, nada más termina de comer
+[17/02/2026, 02:19:09] Yo: Sale
+[17/02/2026, 03:27:39] Hanani Herrera: Ya enterramos el gato y si estaba envenenado, ya estaba inflado
+[17/02/2026, 03:31:16] Yo: Uy, que pena nanis, gracias por enterrarlo, pobrecito
+[17/02/2026, 03:32:12] Hanani Herrera: Si, pobre gatito 😞
+[21/02/2026, 15:28:54] Yo: Hola nanis, buenos días
+[21/02/2026, 15:28:57] Yo: Cómo estás?
+[21/02/2026, 15:32:41] Hanani Herrera: Buenos días 🌷
+[21/02/2026, 15:32:47] Hanani Herrera: Bien, gracias a Dios
+[21/02/2026, 15:32:49] Hanani Herrera: Y tú?
+[21/02/2026, 15:37:41] Yo: No muy bien
+[21/02/2026, 15:38:01] Yo: Me salió una enorme hemorroide y tengo dolor
+[21/02/2026, 15:38:10] Yo: No he dormido bien en dos días y ya me dió migraña
+[21/02/2026, 15:38:18] Hanani Herrera: 😖
+[21/02/2026, 15:38:22] Yo: Me dice mi mamá que tienes una dona, por si puedes prestarmela
+[21/02/2026, 15:38:26] Hanani Herrera: Sii
+[21/02/2026, 15:38:31] Yo: Y si pudiera encargarte pollo para comer
+[21/02/2026, 15:38:35] Hanani Herrera: Si
+[21/02/2026, 15:38:39] Hanani Herrera: De cuál?
+[21/02/2026, 15:39:46] Yo: Del pollo guerrero o del chikanito (del centro de Jojutla)
+[21/02/2026, 15:39:51] Yo: Son rostizados
+[21/02/2026, 15:41:41] Hanani Herrera: El pollo Guerrero es el que está donde antes era la farmacia del mercado? O dónde?
+[21/02/2026, 15:42:21] Yo: Ajá, si
+[21/02/2026, 15:42:31] Yo: Son los pollos rostizados que conozco pues
+[21/02/2026, 15:43:05] Hanani Herrera: Está bien
+[21/02/2026, 15:43:10] Hanani Herrera: 1 pollo entero?
+[21/02/2026, 15:43:17] Yo: 1 y medio nanis
+[21/02/2026, 15:43:22] Yo: Aharón es bien tragón ya jajaja
+[21/02/2026, 15:43:32] Yo: Te doy $
+[21/02/2026, 15:44:19] Hanani Herrera: Jeje come bien
+[21/02/2026, 15:44:41] Hanani Herrera: Hoy termino de vender como 2:15 pm, a esa hora paso por el pollo y ya subo contigo
+[21/02/2026, 15:50:22] Yo: Gracias nanis
+[21/02/2026, 15:52:09] Hanani Herrera: Quieres que pida arroz?
+[21/02/2026, 15:53:21] Yo: Siiii
+[21/02/2026, 15:53:22] Yo: Porfavor
+[21/02/2026, 15:54:40] Hanani Herrera: Como cuántas bolsitas?
+[21/02/2026, 15:55:52] Yo: 2 nanis
+[21/02/2026, 15:56:44] Hanani Herrera: Sip
+[21/02/2026, 15:57:12] Yo: A las 4 es el entierro del sobrino de doña Elvira
+[21/02/2026, 15:57:17] Yo: Vamos?
+[21/02/2026, 15:59:41] Hanani Herrera: Si quiero, un ratito
+[21/02/2026, 15:59:53] Hanani Herrera: Pero deja le digo a Carlos ahorita que llegue, fue por el auto
+[21/02/2026, 16:56:59] Yo: [Archivo adjunto]
+[21/02/2026, 19:28:08] Hanani Herrera: Si, mejor cuídate ahorita
+[21/02/2026, 19:28:21] Hanani Herrera: Vas a ir con algún médico?
+[21/02/2026, 20:20:35] Yo: No he ido a ninguno
+[21/02/2026, 20:40:12] Hanani Herrera: Pues si va a querer que vayas 🥲
+[21/02/2026, 20:40:26] Hanani Herrera: Ya llevo tu pollo, ya vamos por panchi
+[21/02/2026, 20:41:08] Yo: Gracias nanis
+[23/02/2026, 02:48:07] Hanani Herrera: [Archivo adjunto]
+[23/02/2026, 02:48:30] Yo: Si
+[23/02/2026, 02:48:35] Hanani Herrera: No han dicho algo en la escuela?
+[23/02/2026, 02:48:37] Yo: Me llegó este mensaje al celular
+[23/02/2026, 02:48:42] Yo: [Archivo adjunto]
+[23/02/2026, 02:48:50] Yo: No, no hay comunicado
+[23/02/2026, 02:49:02] Yo: Pero nadie irá a la escuela, según leo en el chat de padres de familia
+[23/02/2026, 02:51:30] Hanani Herrera: Pues entonces no los mandes mañana mejor
+[23/02/2026, 03:11:39] Yo: Ya se suspendieron las clases oficialmente
+[23/02/2026, 03:11:46] Yo: Tampoco hay transporte público
+[23/02/2026, 03:11:59] Yo: Karem vino a la casa y se tuvo que ir en taxi
+[23/02/2026, 03:16:46] Hanani Herrera: Tampoco hay aquí local?
+[23/02/2026, 03:17:09] Hanani Herrera: En Cuernavaca suspendieron la ruta 9, 11, 20 y casi no hay nada de transporte
+[23/02/2026, 03:17:16] Hanani Herrera: No sé podía ir el esposo de Karla
+[23/02/2026, 03:17:33] Hanani Herrera: Se fue a Xochitepec, que fue lo único que encontró
+[23/02/2026, 03:17:41] Hanani Herrera: Y de ahí se iba a ir caminando
+[23/02/2026, 03:17:55] Hanani Herrera: Ni taxis 🤷🏻‍♀️
+[23/02/2026, 03:18:53] Hanani Herrera: Que mal 😖😖😖
+[23/02/2026, 03:19:14] Hanani Herrera: Yo creo ni transporte va a ver mucho
+[23/02/2026, 03:26:17] Yo: No manches
+[23/02/2026, 03:26:22] Yo: Haber como acaba esto
+[23/02/2026, 03:30:32] Hanani Herrera: Mañana van a suspender más servicio según leí
+[23/02/2026, 03:30:39] Hanani Herrera: A ver qué pasa mañana
+[23/02/2026, 03:44:00] Yo: Si
+[23/02/2026, 03:44:15] Yo: [Archivo adjunto]
+[23/02/2026, 16:55:13] Yo: Hola nanis
+[23/02/2026, 16:55:28] Yo: Tienes el teléfono del proctologo?
+[23/02/2026, 16:55:53] Hanani Herrera: Hola, buenos días ☀️
+[23/02/2026, 16:55:58] Hanani Herrera: Si, deja lo busco
+[23/02/2026, 16:56:30] Hanani Herrera: BEGIN:VCARD
+[23/02/2026, 16:56:38] Hanani Herrera: Hoy cómo sigues?
+[23/02/2026, 16:57:23] Yo: Gracias
+[23/02/2026, 20:54:12] Hanani Herrera: [Archivo adjunto]
+[23/02/2026, 20:54:28] Hanani Herrera: Me dice mi mamá que no te entro la llamada, aquí hay otros números
+[23/02/2026, 20:55:22] Hanani Herrera: [Archivo adjunto]
+[23/02/2026, 20:56:05] Hanani Herrera: Dr. Miguel Ortiz Amador
+[23/02/2026, 20:56:09] Hanani Herrera: https://www.facebook.com/share/r/1D4BGiQ1tt/
+[24/02/2026, 15:58:56] Hanani Herrera: https://www.facebook.com/share/p/17kx85WjZX/
+[24/02/2026, 15:59:24] Hanani Herrera: Buenos días Nora🌷
+[24/02/2026, 15:59:29] Hanani Herrera: Cómo sigues?
+[24/02/2026, 15:59:36] Hanani Herrera: Ya pudiste sacarte cita?
+[24/02/2026, 16:33:44] Yo: No
+[24/02/2026, 16:34:40] Hanani Herrera: Gustas que te saque la cita?
+[24/02/2026, 16:36:13] Yo: [Archivo adjunto]
+[24/02/2026, 16:36:51] Hanani Herrera: Perfecto, sii que te lleve
+[25/02/2026, 15:49:22] Yo: Hola nanis
+[25/02/2026, 15:49:39] Yo: Agendé cita y vamos en camino pero estoy checando la dirección
+[25/02/2026, 15:50:00] Yo: En la publicación que me enviaste dice que hospital Vistahermosa pero dice mi mamá que no
+[25/02/2026, 15:50:06] Yo: Y muy ahorita no me respondes
+[25/02/2026, 16:29:54] Hanani Herrera: Oh
+[25/02/2026, 16:31:38] Hanani Herrera: A qué número agendaste cita?
+[25/02/2026, 16:31:43] Hanani Herrera: Al que te mandé yo?
+[25/02/2026, 16:31:54] Yo: Si, ya me escondieron
+[25/02/2026, 16:31:54] Hanani Herrera: Es que creo trabaja en ambos lados
+[25/02/2026, 16:32:03] Yo: Esta en el hospital center
+[25/02/2026, 16:32:27] Hanani Herrera: [Archivo adjunto]
+[25/02/2026, 16:32:37] Hanani Herrera: Si, trabaja en 3 mira
+[25/02/2026, 16:32:53] Hanani Herrera: En el que vas a ir, en vista hermosa y en cuautla en otro
+[25/02/2026, 16:32:58] Yo: Ajá
+[25/02/2026, 16:33:15] Hanani Herrera: Que bueno que te respondieron
+[25/02/2026, 16:33:23] Hanani Herrera: Yo estaba dormida 🥹
+[28/02/2026, 22:29:57] Hanani Herrera: Hola Nora ☀️
+[28/02/2026, 22:33:32] Yo: Y dónde es eso??
+[28/02/2026, 22:33:52] Hanani Herrera: En mi casa
+[28/02/2026, 22:33:56] Hanani Herrera: Tengo telescopio
+[28/02/2026, 22:34:07] Yo: Aaaa ok ok jajaja
+[28/02/2026, 22:34:08] Yo: Si nanis
+[28/02/2026, 22:34:34] Yo: A qué hora?
+[28/02/2026, 22:36:11] Hanani Herrera: Como a las 7?
+[28/02/2026, 22:36:21] Yo: SIP
+[28/02/2026, 22:36:29] Yo: Allá llegamos, gracias ☺️
+[28/02/2026, 22:36:40] Hanani Herrera: Sip
+[01/03/2026, 01:55:00] Hanani Herrera: No sé vio nada el cielo 🥲
+[01/03/2026, 01:55:16] Hanani Herrera: Si quieren venir mañana más temprano aunque sea a ver la luna 🌙
+[01/03/2026, 02:11:58] Yo: Si nanis
+[01/03/2026, 02:12:00] Yo: Gracias
+[02/03/2026, 03:10:02] Yo: Nanis, ya no llegó Gersom hasta tu casa
+[02/03/2026, 03:10:40] Yo: La dejó unas calles más adelante de dónde vivimos, al parecer pasará mañana también
+[02/03/2026, 03:11:46] Yo: Es que estaban muy pesadas y apestosas, no quisimos molestarte
+[02/03/2026, 03:12:30] Hanani Herrera: Ohh bueno, está bien
+[02/03/2026, 03:34:10] Yo: Gracias nanis
+[02/03/2026, 03:40:27] Yo: https://www.facebook.com/share/1LEAuyj5xP/
+[02/03/2026, 04:04:40] Hanani Herrera: Nora
+[02/03/2026, 04:04:49] Hanani Herrera: Mi mamá mandó una pomada con Carlos
+[02/03/2026, 04:05:00] Hanani Herrera: Aún tienes o te la llevo de una vez?
+[02/03/2026, 04:05:17] Yo: Aún tengo
+[02/03/2026, 04:05:22] Hanani Herrera: También una cosmetiquera
+[02/03/2026, 04:05:25] Hanani Herrera: No la ocupas?
+[02/03/2026, 04:05:33] Yo: Si, esa si
+[02/03/2026, 04:05:35] Yo: Jeje
+[02/03/2026, 04:05:50] Hanani Herrera: Se acaba de ir la familia de Carlos
+[02/03/2026, 04:06:06] Hanani Herrera: Entonces aún están despiertos para que suba Carlos a llevarlo?
+[02/03/2026, 04:06:15] Yo: Si, si pueden, gracias 🙂
+[02/03/2026, 04:11:18] Hanani Herrera: Si va Carlos en la moto
+[02/03/2026, 04:11:23] Hanani Herrera: Ya no ha de tardar en llegar
+[04/03/2026, 14:38:13] Yo: https://www.facebook.com/share/r/1Auyc6vMVp/
+[19/03/2026, 01:21:52] Yo: https://www.facebook.com/share/187HvPGuLG/
+[19/03/2026, 01:21:58] Yo: Cómo has estado nanis?.
+[19/03/2026, 01:35:35] Hanani Herrera: Es en la esquina del salón
+[19/03/2026, 01:35:52] Hanani Herrera: Más o menos, aquí ando
+[19/03/2026, 01:36:08] Hanani Herrera: Y tú?
+[19/03/2026, 01:36:21] Yo: Me imaginé 😵‍💫
+[19/03/2026, 01:36:41] Yo: Bien, excepto por el susto de ayer
+[19/03/2026, 01:36:50] Hanani Herrera: Qué pasó?
+[19/03/2026, 01:48:31] Yo: Por donde está el gym marciano y el bule en panchi
+[19/03/2026, 01:48:31] Yo: Se estacionó un coche y abrió la puerta de golpe del lado de la carretera
+[19/03/2026, 01:48:59] Yo: Ahorita que me bañé me lo vi
+[19/03/2026, 01:48:59] Yo: Estaba preocupada por Leah
+[19/03/2026, 01:48:59] Yo: Pero ni sentí
+[19/03/2026, 01:48:59] Yo: Yo no había visto y traigo un moretón en medio del pecho, seguramente del cinturón de seguridad
+[19/03/2026, 01:48:59] Yo: Leah se golpeó la rodilla con el la parte que separa los asientos, pudo salir hasta el parabrisas
+[19/03/2026, 02:00:41] Hanani Herrera: Y cómo está Leah?
+[19/03/2026, 02:00:47] Hanani Herrera: No sé pegó feo?
+[19/03/2026, 02:00:51] Yo: Le duele su pierna
+[19/03/2026, 02:01:04] Yo: Pero camina y hace todo
+[19/03/2026, 02:01:12] Hanani Herrera: Está bien
+[19/03/2026, 02:01:16] Hanani Herrera: Y a ti no te duele?
+[19/03/2026, 02:02:03] Yo: No, estoy bien
+[19/03/2026, 02:02:09] Yo: Voy a dar de cenar nanis
+[19/03/2026, 02:02:12] Yo: Ahora vuelvo
+[19/03/2026, 02:02:31] Hanani Herrera: Si, provecho
+[20/03/2026, 16:11:35] Yo: Hola nanis
+[20/03/2026, 16:11:41] Yo: Te puedo encargar a Leah?
+[20/03/2026, 16:11:43] Yo: Cómo estás?
+[20/03/2026, 16:14:45] Hanani Herrera: Buenos días 🌷
+[20/03/2026, 16:14:50] Hanani Herrera: Si, está bien
+[20/03/2026, 16:15:02] Hanani Herrera: Bien, gracias a Dios
+[20/03/2026, 16:15:09] Hanani Herrera: Solo batallando con mi pie
+[20/03/2026, 16:15:35] Hanani Herrera: Y tú?
+[20/03/2026, 16:15:57] Yo: Que tienes?
+[20/03/2026, 16:19:10] Hanani Herrera: Desde la semana pasada me lesioné un pie, el izquierdo, se me hinchó y puso bien morado, ya fui a que me sobaran, ya me bajo lo hinchado pero es cosa que aún me duele bastante y sigue morado
+[20/03/2026, 16:23:56] Yo: Cómo pasó eso?
+[20/03/2026, 16:24:01] Yo: 😵
+[20/03/2026, 16:25:00] Hanani Herrera: Pues me dio vértigo y me caí y se dobló el pie
+[20/03/2026, 16:25:10] Hanani Herrera: No creí necesario sacarme placa
+[20/03/2026, 16:25:18] Hanani Herrera: Ni pensé que pasara a más
+[20/03/2026, 16:25:31] Hanani Herrera: Hasta que doña Elvira me vio y me dijo que se me estaba hinchando
+[20/03/2026, 16:25:40] Hanani Herrera: Y desde ahí como tamal el pie 🥲
+[20/03/2026, 16:26:25] Hanani Herrera: Ya me bajó mucho lo hinchado pero sigue doliendo
+[20/03/2026, 16:26:53] Yo: Uy, esguince
+[20/03/2026, 16:27:06] Hanani Herrera: Crees que necesite placa?
+[20/03/2026, 16:27:17] Yo: Te caíste de la escalera o caminando?
+[20/03/2026, 16:27:26] Yo: Ya te vio Ezzer?
+[20/03/2026, 16:27:29] Hanani Herrera: Si
+[20/03/2026, 16:27:36] Hanani Herrera: Bajando de la cama
+[20/03/2026, 16:28:17] Yo: Y qué dice?
+[20/03/2026, 16:28:45] Hanani Herrera: Pues solo lo sobó, no dijo nada más
+[20/03/2026, 16:29:29] Yo: No vio fractura?
+[20/03/2026, 16:32:02] Hanani Herrera: No dijo,yo creo que no
+[20/03/2026, 16:32:25] Yo: Ok ok
+[20/03/2026, 16:32:30] Hanani Herrera: Pero las esguinces no salen en la placa verdad
+[20/03/2026, 16:32:34] Yo: Los esguinces tardan mucho en sanar
+[20/03/2026, 16:32:40] Yo: No salen
+[20/03/2026, 16:32:46] Yo: Solo en tomografías
+[20/03/2026, 16:33:19] Hanani Herrera: Pero yo creo que si es eso
+[20/03/2026, 16:33:22] Hanani Herrera: Ya me tardó
+[20/03/2026, 16:33:38] Yo: Si, debe ser eso
+[20/03/2026, 16:33:38] Hanani Herrera: Y me duele caminar, estar de pie, en la noche al dormir me está doliendo
+[20/03/2026, 16:33:51] Yo: Ponte mamisan
+[20/03/2026, 16:34:11] Yo: Tienes? Te presto
+[20/03/2026, 16:34:42] Hanani Herrera: No tengo, me he puesto piroxicam y fomentos de vinagre con sal
+[20/03/2026, 16:35:08] Yo: Ok, ahorita que vaya contigo te la llevo
+[20/03/2026, 16:38:11] Hanani Herrera: Pero tú no la ocupas?
+[20/03/2026, 16:44:19] Yo: No la estoy ocupando
+[20/03/2026, 16:56:07] Hanani Herrera: Está bien
+[20/03/2026, 20:37:43] Hanani Herrera: Lehita comiendo la ensalada que hicimos juntas
+[20/03/2026, 20:37:43] Hanani Herrera: [Archivo adjunto]
+[20/03/2026, 20:46:39] Yo: Que genial 😘😘😘
+[20/03/2026, 22:10:28] Hanani Herrera: [Archivo adjunto]
+[20/03/2026, 22:15:12] Yo: Jajajaja
+[20/03/2026, 22:15:15] Yo: Con el 😺
+[20/03/2026, 22:15:18] Yo: Ella es feliz así
+[20/03/2026, 22:16:01] Yo: Si me muero, ella sería feliz viviendo contigo, nanis
+[20/03/2026, 22:18:27] Hanani Herrera: Jeje ella es feliz y el gato como sin nada durmiendo también
+[20/03/2026, 22:19:08] Yo: Es el de la patita lastimada, no?
+[20/03/2026, 22:19:21] Hanani Herrera: Si
+[20/03/2026, 22:19:32] Hanani Herrera: Es ella
+[20/03/2026, 22:20:13] Yo: Y ya está bien?
+[20/03/2026, 22:21:24] Hanani Herrera: Mejoró, pero siento que algo le falta, mueve la parte de arriba pero lo de abajo como que lo veo mal
+[20/03/2026, 22:21:34] Hanani Herrera: A ver si el domingo la llevamos a revisión otra vez
+[20/03/2026, 22:24:58] Yo: Oh, si, mejor
+[20/03/2026, 22:29:44] Hanani Herrera: Se llama Estrella 🐈‍⬛
+[20/03/2026, 22:54:02] Yo: [Archivo adjunto]
+[21/03/2026, 00:42:51] Hanani Herrera: https://www.facebook.com/share/1AuLjHaaiU/
+[25/03/2026, 01:34:06] Yo: Hola nanis
+[25/03/2026, 01:34:29] Yo: Tu tenías señal y luz? Yo estuve dos horas y media en oscuridad y sin señal de telefonía
+[25/03/2026, 01:34:43] Yo: Cómo estás?
+[25/03/2026, 02:24:32] Hanani Herrera: Hola Nora!!
+[25/03/2026, 02:24:35] Hanani Herrera: No tenía
+[25/03/2026, 02:24:47] Hanani Herrera: Estuve desde las 3 sin luz ni señal
+[25/03/2026, 02:25:26] Yo: Antes que yo, a mi se me fue como 4:50
+[25/03/2026, 02:25:46] Yo: Cómo estás?
+[25/03/2026, 02:27:14] Hanani Herrera: Pero si tardó mucho, ya estaba bien oscuro
+[25/03/2026, 02:27:24] Hanani Herrera: Bien, gracias a Dios
+[25/03/2026, 02:27:27] Hanani Herrera: Y tú?
+[25/03/2026, 02:34:04] Yo: Si, yo puse velas
+[25/03/2026, 02:37:53] Hanani Herrera: Yo fui a comprar vela
+[25/03/2026, 02:38:02] Hanani Herrera: Porque no tenía
+[25/03/2026, 03:55:13] Yo: Si, haber si nos enteramos que pasó jeje
+[25/03/2026, 03:56:25] Yo: Nanis, me voy a dormir, mañana platicamos
+[25/03/2026, 04:04:08] Hanani Herrera: [Archivo adjunto]
+[25/03/2026, 04:04:10] Hanani Herrera: Si, que descanses
+[25/03/2026, 19:40:24] Yo: Este nanis
+[25/03/2026, 20:43:12] Hanani Herrera: Nora creo mañana es el último día de clases?
+[25/03/2026, 20:43:37] Hanani Herrera: Crees que te podría mandar un pedido para Marely Capistran? Creo es la prefecta en el colegio
+[25/03/2026, 20:45:07] Yo: Si nanis, mándamelo
+[25/03/2026, 20:50:14] Hanani Herrera: Gracias!!! Te lo mando en la noche con Carlos, como a las 8 p.m. 🌷
+[25/03/2026, 20:51:27] Yo: [Archivo adjunto]
+[25/03/2026, 20:52:02] Hanani Herrera: Siii
+[25/03/2026, 20:52:04] Hanani Herrera: Con cuidado
+[26/03/2026, 02:11:36] Hanani Herrera: Ya voy para allá
+[27/03/2026, 16:50:20] Hanani Herrera: Hola Nora! Buenos días
+[27/03/2026, 16:50:36] Hanani Herrera: Cómo estás? Creo vas de camino a consulta, me avisas qué te dice el médico
+[27/03/2026, 16:50:51] Hanani Herrera: Por cierto, si se le mandó el pedido a Marely? Para que le pueda su deposito
+[27/03/2026, 23:07:22] Hanani Herrera: Nora ya me escribió Marely que no se le entregó su pedido, que lo mande mañana en envio a Tlaltizapan
+[27/03/2026, 23:07:30] Hanani Herrera: Puedo pasar en la noche por él?
+[27/03/2026, 23:07:46] Yo: Nanis
+[27/03/2026, 23:07:51] Yo: Hubo un problema 😵‍💫
+[27/03/2026, 23:08:28] Yo: La bolsa tenía escurrido, como si empezará a derretir
+[27/03/2026, 23:08:41] Hanani Herrera: Todo bien?
+[27/03/2026, 23:08:42] Yo: Le dije a Gersom que no lo entregara
+[27/03/2026, 23:08:47] Yo: Y que mejor me lo quedaba
+[27/03/2026, 23:08:56] Yo: Es que él fue a la escuela, no fui yo....
+[27/03/2026, 23:09:02] Yo: Yo te lo pagaría
+[27/03/2026, 23:09:13] Yo: Porque pienso que el calor pudo causar eso, estaba en el carro
+[27/03/2026, 23:09:23] Yo: Se me había olvidado decirte
+[27/03/2026, 23:09:36] Yo: Tienes otro? O puedes pedir otro? Para enviarle a Marely?
+[27/03/2026, 23:09:49] Yo: Ya abrí la bolsa y sigue sellado
+[27/03/2026, 23:09:54] Yo: No entiendo como se salió
+[27/03/2026, 23:10:09] Yo: Pero huele mucho a mandarina la bolsa
+[27/03/2026, 23:10:55] Yo: Quieres ver cómo está? Es que me da pendiente entregar así
+[27/03/2026, 23:11:32] Yo: el carro ni siquiera estuvo en el sol, pero quizá el calor del carro y encerrado fue lo que lo causó, pero te digo que sigue sellado ,
+[27/03/2026, 23:11:48] Hanani Herrera: A ver enseñame
+[27/03/2026, 23:13:19] Yo: Si, voy
+[27/03/2026, 23:14:54] Yo: [Archivo adjunto]
+[27/03/2026, 23:15:06] Yo: Asi está abierto
+[27/03/2026, 23:15:37] Yo: [Archivo adjunto]
+[27/03/2026, 23:16:00] Yo: No se cómo se veía antes pero creo que está bien
+[27/03/2026, 23:16:16] Yo: Pero la bolsa si estaba mojada y olía mucho a mandarina
+[27/03/2026, 23:20:46] Hanani Herrera: MMM 🤔
+[27/03/2026, 23:20:55] Hanani Herrera: Físicamente no le veo nada
+[27/03/2026, 23:21:13] Yo: Yo tampoco!! Pero entré en pánico 😱
+[27/03/2026, 23:21:50] Yo: Gersom me dijo: la bolsa está escurriendo y yo le dije: no lo entregues!!
+[27/03/2026, 23:22:02] Hanani Herrera: Y era mucho?
+[27/03/2026, 23:22:08] Hanani Herrera: Se habrá escurrido un poco?
+[27/03/2026, 23:22:33] Hanani Herrera: Está curioso de dónde se salió
+[27/03/2026, 23:22:40] Hanani Herrera: Pero creo no esta mal
+[27/03/2026, 23:22:47] Hanani Herrera: Aún huele a mandarina?
+[27/03/2026, 23:23:17] Yo: Era poco, pero si tenía que limpiarse
+[27/03/2026, 23:23:43] Yo: Si, el frasco huele a mandarina, la bolsa la he tirado. Se tendría que poner una bolsa nueva
+[27/03/2026, 23:24:08] Yo: Si crees que está bien, que se envíe, yo pago el envío
+[27/03/2026, 23:24:23] Yo: Chécalo al rato
+[27/03/2026, 23:24:28] Hanani Herrera: Si, no lo veo mal
+[27/03/2026, 23:24:41] Yo: Si ves que está mal, me lo quedo, no tengo problemas, lo usaré para Leah
+[27/03/2026, 23:24:48] Hanani Herrera: No te preocupes, el envio lo paga Marely je
+[27/03/2026, 23:24:58] Yo: No no, yo lo pago, porque es mi culpa
+[27/03/2026, 23:25:20] Hanani Herrera: Normalmente lo mando en envio, pero esta semana se le hizo fácil decir que lo mandara contigo
+[27/03/2026, 23:25:45] Yo: 😅 y yo quedando mal
+[27/03/2026, 23:26:07] Hanani Herrera: Yo creo fue algo del calor, hizo que sudara tal vez
+[27/03/2026, 23:26:42] Yo: Si, pero salió de la tapa 😅
+[27/03/2026, 23:28:20] Hanani Herrera: Eso jajaja
+[27/03/2026, 23:28:26] Hanani Herrera: Quien sabe cómo
+[27/03/2026, 23:31:20] Yo: Entonces al rato vienes? O quieres que vaya?
+[27/03/2026, 23:31:39] Hanani Herrera: Si, al ratito subo
+[27/03/2026, 23:31:42] Hanani Herrera: Ahí vas a estar?
+[27/03/2026, 23:38:12] Yo: Si, aquí estaré
+[27/03/2026, 23:39:42] Hanani Herrera: Subo como a las 7 p.m. entonces 😁
+[28/03/2026, 00:11:22] Yo: Okis
+[28/03/2026, 00:38:09] Yo: [Archivo adjunto]
+[28/03/2026, 00:40:26] Hanani Herrera: Está bien, no te preocupes
+[28/03/2026, 00:40:32] Hanani Herrera: Que todo este bien
+[28/03/2026, 02:03:12] Hanani Herrera: Ando por aquí en las gordas, me avisas si vienes cerca para que baje
+[28/03/2026, 02:04:54] Yo: Vengo llegando justamente
+[28/03/2026, 02:05:03] Yo: Puedes pasar 😄
+[28/03/2026, 02:07:58] Hanani Herrera: Gracias, ahorita bajamos
+[28/03/2026, 04:19:46] Hanani Herrera: Nora el auto de afuera tiene abiertas las ventanas
+[30/03/2026, 16:41:48] Hanani Herrera: https://www.facebook.com/share/1DYcDZRZep/
+[01/04/2026, 00:14:43] Yo: Nanis
+[01/04/2026, 00:15:05] Yo: Tienes fotos de nosotros, de niños? De las que tiene mi mamá en la casa
+[01/04/2026, 00:15:24] Hanani Herrera: Umm deja ver
+[01/04/2026, 00:15:56] Yo: Jaja si, gracias
+[01/04/2026, 00:21:04] Hanani Herrera: No encuentro, las necesitabas hoy?
+[01/04/2026, 00:21:22] Yo: Noo
+[01/04/2026, 00:21:42] Yo: Haber si voy a la casa y las escaneo jeje
+[01/04/2026, 00:22:26] Hanani Herrera: Es que yo tenía fotos, las use para el video de la boda, pero no las encuentro 🫠
+[02/04/2026, 22:54:39] Yo: Hola nanis
+[02/04/2026, 22:54:45] Yo: Cómo estás?
+[02/04/2026, 22:55:30] Yo: A qué hora es la conmemoración? Podrías pasar por mi?
+[02/04/2026, 23:09:40] Hanani Herrera: Hola Nora
+[02/04/2026, 23:09:44] Hanani Herrera: Es alas 6:30 pm
+[02/04/2026, 23:09:56] Hanani Herrera: Am solo tengo moto 🥺
+[02/04/2026, 23:10:35] Yo: Aaa entonces yo llego allá
+[02/04/2026, 23:10:52] Hanani Herrera: Quieres que pida un taxi?
+[02/04/2026, 23:15:00] Yo: No, yo llego, tengo el Sentra
+[02/04/2026, 23:15:53] Hanani Herrera: Está bien entonces
+[02/04/2026, 23:16:24] Yo: Sale nanis, me avisas a qué hora te vas para que lleguemos juntas
+[02/04/2026, 23:39:46] Hanani Herrera: Yo tengo que llegar antes, citaron a Carlos temprano, pero yo salgo por ti a la calle
+[02/04/2026, 23:39:57] Hanani Herrera: Por cierto, los autos se van a estacionar sobre la carretera
+[03/04/2026, 00:12:15] Hanani Herrera: Ya estoy aquí en el salón, me avisas cuando llegues y salgo
+[03/04/2026, 00:18:50] Yo: Voy en camino
+[03/04/2026, 00:18:53] Yo: Con la roncha
+[03/04/2026, 00:19:43] Hanani Herrera: Está bien, falta mi lehita 🥺
+[03/04/2026, 02:18:37] Hanani Herrera: [Archivo adjunto]
+[03/04/2026, 02:18:38] Hanani Herrera: [Archivo adjunto]
+[03/04/2026, 02:18:39] Hanani Herrera: [Archivo adjunto]
+[03/04/2026, 17:16:50] Hanani Herrera: Buenos días 🌷
+[03/04/2026, 17:17:07] Hanani Herrera: Nora dirías que entonces canceló la mesa y sillas para el domingo?
+[03/04/2026, 17:39:27] Yo: Si nanis
+[03/04/2026, 17:39:32] Yo: Cancela
+[03/04/2026, 17:40:32] Yo: No estoy muy bien y tu?
+[03/04/2026, 17:44:55] Yo: Nanis, de que se te ocurre que podemos poner un negocio o hacer algo?
+[03/04/2026, 17:45:15] Yo: Que podamos generar ingresos
+[03/04/2026, 17:55:56] Hanani Herrera: 🥺
+[03/04/2026, 17:56:06] Hanani Herrera: Te puedo ayudar en algo?
+[03/04/2026, 17:56:11] Hanani Herrera: Ammm
+[03/04/2026, 17:56:35] Hanani Herrera: Algo que se pueda vender ahorita en vacaciones
+[03/04/2026, 18:01:44] Yo: [Archivo adjunto]
+[03/04/2026, 18:02:08] Yo: Mira, es algo que ya Gersom lo hizo público
+[03/04/2026, 18:02:19] Yo: Se supone lo íbamos a tratar en privado primero
+[03/04/2026, 18:02:26] Yo: Pero Facebook ya lo anunció
+[03/04/2026, 18:02:42] Yo: Ahora mi suegra me está pidiendo que vaya a la casa a comer ahorita
+[03/04/2026, 18:02:50] Yo: Supongo que es por este tema
+[03/04/2026, 18:02:56] Yo: Yo le he pedido la separación
+[03/04/2026, 18:11:05] Hanani Herrera: Umm entiendo
+[03/04/2026, 18:11:14] Hanani Herrera: No tenía porque hacerlo público en este momento
+[03/04/2026, 18:12:39] Yo: Lo sé
+[03/04/2026, 18:12:56] Yo: Pero lo ha hecho, y no estaba preparada para las preguntas
+[03/04/2026, 18:13:08] Hanani Herrera: A mi ni me sale eso
+[03/04/2026, 18:13:08] Hanani Herrera: [Archivo adjunto]
+[03/04/2026, 18:13:24] Yo: Oh, deja ver
+[03/04/2026, 18:14:12] Yo: A mí me sigue saliendo jajaja
+[03/04/2026, 18:14:23] Yo: Será que solo yo puedo verlo?
+[03/04/2026, 18:14:45] Hanani Herrera: Deja veo de la cuenta de carlos
+[03/04/2026, 18:15:06] Hanani Herrera: Tampoco
+[03/04/2026, 18:15:15] Yo: Yo por ejemplo, lo oculté nada mas
+[03/04/2026, 18:15:31] Yo: A ninguno le sale?
+[03/04/2026, 18:15:34] Yo: Cómo lo hizo?
+[03/04/2026, 18:16:10] Yo: Solo yo podía verlo? Shit
+[03/04/2026, 18:16:20] Hanani Herrera: Quizá
+[03/04/2026, 18:16:29] Yo: Yo pensaba que todos lo veían
+[03/04/2026, 18:16:30] Hanani Herrera: Porque cheque en la cuenta de Carlos y tampoco
+[03/04/2026, 18:16:40] Yo: Me lleva
+[03/04/2026, 18:17:09] Hanani Herrera: No sé
+[03/04/2026, 18:17:13] Yo: Bueno, supongo que aún no me harán preguntas
+[03/04/2026, 18:17:29] Hanani Herrera: Eso espero
+[03/04/2026, 18:19:13] Yo: Bueno ... El punto es que quiero hacer algo de mi vida nanis
+[03/04/2026, 18:19:24] Yo: Hay que buscar algo que emprender
+[03/04/2026, 18:19:33] Yo: Podemos vender comida? Que se te ocurre ?
+[03/04/2026, 18:19:41] Yo: Algo que sea del diario y un lugar
+[03/04/2026, 18:19:46] Yo: Algo fijo
+[03/04/2026, 18:19:55] Yo: Qué nos genere ingresos
+[03/04/2026, 18:20:26] Hanani Herrera: Podría ser
+[03/04/2026, 18:20:33] Hanani Herrera: Almuerzos?
+[03/04/2026, 18:20:45] Hanani Herrera: Ummm
+[03/04/2026, 18:21:05] Yo: Hay que pensar y planearlo, hay que ganar dinero
+[03/04/2026, 18:21:14] Yo: Más ahora sí ya no tendré IMSS
+[03/04/2026, 18:21:28] Yo: O Gersom no me dará dinero para mí
+[03/04/2026, 18:21:45] Yo: Necesito activarme urgentemente
+[03/04/2026, 18:22:13] Hanani Herrera: El seguro social te lo cancelaría?
+[03/04/2026, 18:22:51] Yo: Si no estamos casados, supongo que si
+[03/04/2026, 18:23:18] Yo: No tendría por qué dejarme allí
+[03/04/2026, 18:23:41] Hanani Herrera: Se piensan separar o tramitar divorcio? Depende de ello pienso
+[03/04/2026, 18:28:48] Yo: No hemos hablado de ello
+[03/04/2026, 18:57:37] Hanani Herrera: Pues a él no creo le convenga económicamente el divorcio, porque están casados por vienes mancomunados
+[03/04/2026, 18:58:27] Yo: Pero la casa de cuerna sigue a nombre de su papá por ejemplo
+[03/04/2026, 18:58:42] Hanani Herrera: Um bueno, eso si
+[03/04/2026, 18:58:50] Hanani Herrera: Pero la casa donde viven y el auto
+[03/04/2026, 19:04:34] Hanani Herrera: Pero bueno, hay que pensar en que negocio poner
+[03/04/2026, 20:37:00] Yo: Todavía se debe
+[04/04/2026, 05:02:42] Yo: https://youtu.be/kK4anbI0nt0?si=TQ5Qukn5m5w4dr-8
+[06/04/2026, 01:47:28] Hanani Herrera: Te gustaría crear contenido?
+[06/04/2026, 02:10:44] Yo: Creo que tenemos que entrarle a ese mundo
+[06/04/2026, 03:53:11] Hanani Herrera: Pues es algo incierto y desconocido, pero es lo de hoy
+[06/04/2026, 03:58:44] Yo: Si, la IA me lo ha recomendado también
+[06/04/2026, 03:59:16] Yo: Qué ideas has tenido?
+[06/04/2026, 03:59:58] Hanani Herrera: Hacer vídeos de gatitos 🐈
+[06/04/2026, 04:25:55] Yo: Si, deberías hacerlo
+[07/04/2026, 21:40:40] Yo: Hola nanis
+[07/04/2026, 21:40:45] Yo: Cómo estás?
+[07/04/2026, 21:43:24] Hanani Herrera: Hola Nora 🌷
+[07/04/2026, 21:43:29] Hanani Herrera: Bien, gracias a Dios
+[07/04/2026, 21:43:32] Hanani Herrera: Aquí comiendo
+[07/04/2026, 21:43:37] Hanani Herrera: Tu cómo sigues?
+[07/04/2026, 21:44:33] Yo: Mejor nanis
+[07/04/2026, 21:44:44] Yo: Hoy viene Candy aqui a Jojutla
+[07/04/2026, 21:44:51] Yo: Y quedamos de vernos
+[07/04/2026, 21:45:05] Yo: Pero, crees que te podría encargar a los niños?
+[07/04/2026, 21:45:34] Hanani Herrera: Si, está bien
+[07/04/2026, 21:45:38] Hanani Herrera: A qué hora?
+[07/04/2026, 21:50:34] Yo: Te los llevaría a las 5
+[07/04/2026, 21:52:01] Hanani Herrera: Está bien
+[07/04/2026, 21:53:49] Yo: Gracias nanis
+[08/04/2026, 20:53:42] Hanani Herrera: https://www.facebook.com/share/18aKmVZJ21/
+[08/04/2026, 23:45:21] Yo: Es hasta tlaqui nanis jajaja ups
+[08/04/2026, 23:45:29] Yo: Tiene que ser algo de aquí del pueblo
+[08/04/2026, 23:45:48] Hanani Herrera: Jeje bueno
+[10/04/2026, 20:26:58] Yo: Hola nanis
+[10/04/2026, 20:27:14] Yo: Vas a ir a cuerna con mi mamá o te quedas?
+[10/04/2026, 20:33:33] Hanani Herrera: Hola
+[10/04/2026, 20:33:52] Hanani Herrera: No puedo ir
+[10/04/2026, 20:33:59] Hanani Herrera: Estoy en un funeral
+[10/04/2026, 20:38:23] Hanani Herrera: Falleció el abuelo de Carlos, aquí he estado en el funeral todo el día
+[10/04/2026, 20:45:07] Yo: Si pues, eso me dijo mi mamá
+[10/04/2026, 20:47:27] Hanani Herrera: Sip
+[10/04/2026, 20:47:37] Hanani Herrera: Y el entierro es hasta tarde, así que no podría ir
+[10/04/2026, 20:48:08] Yo: Si nanis, que pena, le das el pésame a Carlos
+[10/04/2026, 20:49:43] Hanani Herrera: Si Nora, le digo de tu parte
+[14/04/2026, 16:35:56] Hanani Herrera: https://www.facebook.com/share/1cTPSGhRys/
+[22/04/2026, 01:14:08] Yo: Hola nanis
+[22/04/2026, 01:14:10] Yo: Cómo estás?
+[22/04/2026, 01:18:10] Hanani Herrera: Hola Nora 🌷
+[22/04/2026, 01:18:17] Hanani Herrera: Cansada, pero bien gracias a Dios
+[22/04/2026, 01:18:20] Hanani Herrera: Y tú?
+[22/04/2026, 01:21:17] Yo: También cansada jajaja
+[22/04/2026, 01:21:29] Yo: Pero quiero comentarte que quiero vender hamburguesas este viernes
+[22/04/2026, 01:42:49] Hanani Herrera: Ahhh que bien
+[22/04/2026, 01:42:53] Hanani Herrera: Quieres que te ayude?
+[22/04/2026, 01:43:37] Yo: Si, sobre todo a hacer labor de venta
+[22/04/2026, 01:44:12] Hanani Herrera: Si
+[22/04/2026, 01:48:35] Hanani Herrera: Me das la información y ofrezco
+[22/04/2026, 01:51:40] Yo: Siii
+[22/04/2026, 01:52:35] Hanani Herrera: Piensas para vender y que coman ahí o para llevar?
+[22/04/2026, 02:09:04] Yo: Las dos cosas nanis
+[22/04/2026, 02:09:23] Yo: Quieres venir aquí a la casa y ayudarme también? Cómo te sientes?
+[22/04/2026, 02:09:31] Yo: Mañana quiero ir a comprar a Jojutla y al tianguis
+[22/04/2026, 02:10:07] Hanani Herrera: Si, también te puedo ayudar
+[22/04/2026, 02:10:22] Hanani Herrera: La hago de mesera si quieres
+[22/04/2026, 02:11:16] Yo: Pues solo si no hay mucho sol pues nanis
+[22/04/2026, 02:15:19] Hanani Herrera: Está bien
+[23/04/2026, 17:06:53] Hanani Herrera: [Archivo adjunto]
+[23/04/2026, 17:06:54] Hanani Herrera: [Archivo adjunto]
+[23/04/2026, 17:07:22] Yo: Hola nanis
+[23/04/2026, 17:07:23] Yo: Buenos días
+[23/04/2026, 17:07:34] Hanani Herrera: Buenos días 🌷
+[23/04/2026, 17:11:10] Yo: Tengo una freidora, es de la vecina
+[23/04/2026, 17:11:25] Hanani Herrera: Ahh bien
+[23/04/2026, 17:11:36] Hanani Herrera: Solo te falta el de la hamburguesa entonces
+[23/04/2026, 17:12:03] Hanani Herrera: Me hubieras dicho antes, ayer mandé pedido de full, mando otro la siguiente semana
+[23/04/2026, 17:40:24] Yo: No se me ocurrió jeje
+[23/04/2026, 17:40:30] Yo: Ahora lo haré manual todo
+[23/04/2026, 17:40:37] Yo: Ando enferma 🤧
+[23/04/2026, 17:42:44] Hanani Herrera: Qué tienes?
+[23/04/2026, 17:43:20] Yo: Me duele mucho la garganta
+[23/04/2026, 17:43:54] Yo: Y estoy toda constipada, cuerpo cortado
+[23/04/2026, 17:47:53] Yo: [Archivo adjunto]
+[23/04/2026, 17:48:15] Yo: [Archivo adjunto]
+[23/04/2026, 17:48:22] Yo: Así quedaría
+[23/04/2026, 17:48:35] Hanani Herrera: Espero se te quite pronto 🥺
+[23/04/2026, 17:48:51] Hanani Herrera: Está bien
+[23/04/2026, 17:49:00] Hanani Herrera: Si preguntan costos?
+[24/04/2026, 02:29:58] Yo: $75 nanis, con papas
+[24/04/2026, 02:34:00] Hanani Herrera: Sale
+[24/04/2026, 03:23:21] Hanani Herrera: Nora las hamburguesas son para entregar a domicilio?
+[24/04/2026, 03:27:33] Yo: Si, puedo entregar a domicilio aquí cerca
+[24/04/2026, 03:27:44] Yo: Por ejemplo, allí en manantiales
+[24/04/2026, 03:27:56] Yo: A partir de 2 hamburguesas
+[24/04/2026, 03:28:20] Hanani Herrera: Ahh ok
+[24/04/2026, 03:28:39] Yo: Voy a meter una hamburguesa con cerdo y tocino y otra de pura res
+[24/04/2026, 03:29:19] Hanani Herrera: Es que me estaban pidiendo una, unos hermanos, pero entonces les digo que a domicilio a partir de 2
+[24/04/2026, 03:29:22] Hanani Herrera: Es por la cruz
+[24/04/2026, 03:29:41] Hanani Herrera: A menos que se la lleve Carlos, pero ya en la noche
+[24/04/2026, 03:30:26] Yo: Me conviene más de dos, porque el servicio no lo estaría cobrando
+[24/04/2026, 03:30:49] Yo: Pero, igual mando a la vecina caminando jajaja
+[24/04/2026, 03:30:59] Hanani Herrera: Está bien, igual que se la lleve Carlos pero le digo que ya tardecito
+[24/04/2026, 03:31:16] Hanani Herrera: Entonces le digo que hay de cerdo con tocino o de res?
+[24/04/2026, 03:32:13] Yo: Si, estoy terminando los logos de WhatsApp
+[24/04/2026, 03:32:19] Yo: Para enviar el número y catálogo
+[24/04/2026, 03:32:59] Yo: Hay 100% res y hay mezclada, carne de res con cerdo y tocino
+[24/04/2026, 03:33:46] Hanani Herrera: Ah bien, me mandas cuando termines
+[24/04/2026, 03:33:52] Hanani Herrera: Para que lo suba aquí en mi unidad
+[24/04/2026, 03:38:29] Yo: BEGIN:VCARD
+[24/04/2026, 03:38:36] Yo: Estoy creando
+[24/04/2026, 04:00:28] Hanani Herrera: Mañana gustas que te vaya a ayudar?
+[24/04/2026, 04:09:55] Yo: [Archivo adjunto]
+[24/04/2026, 04:58:26] Yo: Nanis, realmente si me gustaría, pero me enfermé y me da miedo contagiarte
+[24/04/2026, 04:58:48] Yo: Usaré cubre bocas todo el día, pero no sé, lo dejo a tu criterio
+[24/04/2026, 05:01:11] Hanani Herrera: Bueno, también me pongo el cubrebocas
+[24/04/2026, 05:01:22] Hanani Herrera: Pero vendrías por mi?
+[24/04/2026, 05:05:40] Yo: Si, puedo ir por ti, pero que opinas?
+[24/04/2026, 05:05:50] Yo: Mi mamá tenía el nervio
+[24/04/2026, 05:08:08] Hanani Herrera: Pues me mantengo lejitos?
+[24/04/2026, 05:31:41] Yo: jajaja
+[24/04/2026, 05:31:45] Yo: bueno
+[24/04/2026, 15:25:16] Yo: A qué hora paso por ti?
+[24/04/2026, 15:44:49] Hanani Herrera: Hola Nora
+[24/04/2026, 15:44:54] Hanani Herrera: Tu dime, para que este lista
+[24/04/2026, 15:46:47] Yo: Puedo pasar desde ahorita
+[24/04/2026, 15:46:52] Yo: Tu dime
+[24/04/2026, 15:47:11] Hanani Herrera: Ahorita voy a almorzar, puedes en 1 hora?
+[24/04/2026, 15:48:24] Yo: Si
+[24/04/2026, 15:49:06] Yo: Estoy compartiendo la imagen para que de preferencia sean pedidos
+[24/04/2026, 15:49:24] Yo: Con los Testigos, nada más quieren 1?
+[24/04/2026, 15:49:30] Yo: Te dijeron de cual?
+[24/04/2026, 15:51:52] Hanani Herrera: Aún no
+[24/04/2026, 15:52:00] Hanani Herrera: Varios me han estado preguntando
+[24/04/2026, 15:52:03] Hanani Herrera: A ver si piden
+[24/04/2026, 15:52:58] Yo: 😃 ojalá que si, el pan está bien rico
+[24/04/2026, 15:53:16] Hanani Herrera: Si, al rato hay que tomar fotos y vídeos de todo
+[24/04/2026, 15:53:29] Hanani Herrera: Es pan casero?
+[24/04/2026, 15:53:36] Yo: Siiii
+[24/04/2026, 15:53:50] Hanani Herrera: [Archivo adjunto]
+[24/04/2026, 16:31:06] Hanani Herrera: [Archivo adjunto]
+[24/04/2026, 16:31:13] Hanani Herrera: Se paga con transferencia?
+[24/04/2026, 16:36:05] Yo: Si, transferencia
+[24/04/2026, 16:36:11] Yo: Efectivo
+[24/04/2026, 16:36:16] Yo: Tarjeta
+[24/04/2026, 16:37:31] Yo: Ya voy por ti
+[24/04/2026, 16:37:32] Hanani Herrera: Transferencia doy tu numero?
+[24/04/2026, 16:37:36] Hanani Herrera: O el mío?
+[24/04/2026, 16:38:00] Yo: Mmm pues el mío
+[24/04/2026, 16:38:22] Yo: No. tarjeta 💳 4152313916300937
+[24/04/2026, 17:17:59] Hanani Herrera: [Archivo adjunto]
+[25/04/2026, 05:21:43] Hanani Herrera: https://www.facebook.com/share/p/1b93AEZEjd/
+[29/04/2026, 23:34:48] Hanani Herrera: Hola Nora
+[29/04/2026, 23:35:00] Hanani Herrera: Cómo sigues?
+[29/04/2026, 23:35:36] Hanani Herrera: Por cierto, voy a mandar hoy un envio de full de mercado libre, si quieres pedir el procesador para hacer las hamburguesas
+[29/04/2026, 23:39:28] Yo: Si, pídelo
+[30/04/2026, 01:02:11] Hanani Herrera: [Archivo adjunto]
+[30/04/2026, 01:02:23] Hanani Herrera: Ese mide 12 cm de diámetro
+[30/04/2026, 01:02:31] Hanani Herrera: [Archivo adjunto]
+[30/04/2026, 01:02:39] Hanani Herrera: Y este 14 cm de diámetro
+[30/04/2026, 01:04:27] Yo: Mmm voy por una regla
+[30/04/2026, 01:05:22] Yo: El de 12
+[30/04/2026, 01:09:25] Hanani Herrera: Ok
+[30/04/2026, 16:00:59] Yo: Hola nanis
+[30/04/2026, 16:01:01] Yo: Buenos días
+[30/04/2026, 16:01:12] Yo: Me dice mi mamá que si vamos al mercado, que si nos acompañan
+[30/04/2026, 16:01:22] Hanani Herrera: Buenos días
+[30/04/2026, 16:01:24] Hanani Herrera: Si, vamos
+[30/04/2026, 16:01:30] Hanani Herrera: Aquí está Carlos hoy
+[30/04/2026, 16:01:56] Hanani Herrera: Por cierto, ayer ya te pedí tu procesador de hamburguesas
+[30/04/2026, 16:02:01] Hanani Herrera: Llega hoy
+[30/04/2026, 16:05:51] Yo: Ok, ahorita paso por ustedes
+[30/04/2026, 16:06:15] Hanani Herrera: A qué hora?
+[30/04/2026, 16:15:12] Yo: A las 10:30
+[30/04/2026, 16:15:17] Yo: Me estoy terminando de arreglar
+[30/04/2026, 22:13:53] Hanani Herrera: [Archivo adjunto]
+[30/04/2026, 22:14:00] Hanani Herrera: Ya tengo tu pedido
+[30/04/2026, 22:14:16] Hanani Herrera: Quieres que te lo lleve al rato que termine la reunión?
+[30/04/2026, 22:16:53] Yo: Si nanis, gracias
+[01/05/2026, 04:37:42] Yo: [Archivo adjunto]
+[01/05/2026, 17:07:55] Hanani Herrera: En cuánto van a estar las hamburguesas?
+[01/05/2026, 17:10:19] Yo: $75
+[01/05/2026, 17:12:08] Hanani Herrera: Y las papas a parte?
+[01/05/2026, 17:12:27] Yo: [Archivo adjunto]
+[01/05/2026, 17:12:37] Yo: Si, $30
+[01/05/2026, 17:12:42] Yo: La cajita
+[01/05/2026, 17:52:52] Yo: [Archivo adjunto]
+[01/05/2026, 17:52:56] Yo: [Archivo adjunto]
+[02/05/2026, 23:06:51] Yo: Hola nanis
+[02/05/2026, 23:06:57] Yo: Creo que me pidió hamburguesas tu vecina
+[02/05/2026, 23:07:01] Yo: Sigue publicando jeje
+[02/05/2026, 23:07:25] Hanani Herrera: Ahhhh
+[02/05/2026, 23:07:27] Hanani Herrera: Que bueno
+[02/05/2026, 23:07:27] Yo: Cómo estás?
+[02/05/2026, 23:08:58] Hanani Herrera: Bien, gracias a Dios
+[02/05/2026, 23:09:02] Hanani Herrera: Cansada pero bien
+[02/05/2026, 23:09:12] Hanani Herrera: Cómo van las ventas?
+[02/05/2026, 23:13:32] Yo: Solo 2 hamburguesas
+[02/05/2026, 23:14:10] Yo: Pero es bueno
+[02/05/2026, 23:26:09] Hanani Herrera: Está bien
+[02/05/2026, 23:29:16] Yo: Si, gracias por todo tu apoyo nanis 🫂❣️
+[03/05/2026, 00:12:23] Hanani Herrera: Si, por nada ☺️
+[03/05/2026, 02:05:51] Hanani Herrera: Que querían varias, yo creo seria para la siguiente semana me dicen
+[03/05/2026, 02:30:44] Yo: Aaa okis
+[07/05/2026, 00:06:50] Hanani Herrera: [Archivo adjunto]
+[07/05/2026, 00:09:33] Hanani Herrera: [Archivo adjunto]
+[08/05/2026, 17:38:21] Yo: Nanis, buenos días
+[08/05/2026, 17:38:31] Yo: Puedes publicar en manantiales de nuevo lo de las hamburguesas??
+[08/05/2026, 17:38:44] Hanani Herrera: Buenos días
+[08/05/2026, 17:38:45] Hanani Herrera: Si
+[08/05/2026, 17:38:55] Yo: Gracias
+[08/05/2026, 23:20:38] Hanani Herrera: Estas?
+[08/05/2026, 23:21:17] Yo: Si
+[08/05/2026, 23:21:31] Hanani Herrera: [Archivo adjunto]
+[08/05/2026, 23:21:45] Hanani Herrera: Tienes servicio para llevarlas a domicilio?
+[08/05/2026, 23:22:20] Yo: A dónde sería y cuántas serían?
+[08/05/2026, 23:22:32] Hanani Herrera: Que en la ampliación santa María
+[08/05/2026, 23:22:38] Hanani Herrera: Ni idea dónde es
+[08/05/2026, 23:22:58] Yo: Ah si, es por dónde vivo
+[08/05/2026, 23:23:05] Yo: Cuántas serían?
+[08/05/2026, 23:23:15] Hanani Herrera: Le digo que tiene costo o así?
+[08/05/2026, 23:23:26] Yo: Si, 15 pesos
+[08/05/2026, 23:23:29] Hanani Herrera: Va
+[08/05/2026, 23:24:56] Hanani Herrera: Que ahorita me manda el pedido
+[08/05/2026, 23:26:08] Yo: Ok
+[08/05/2026, 23:29:15] Hanani Herrera: Van a ser 5 hamburguesas de Res/Cerdo con tocino 
+[08/05/2026, 23:29:30] Hanani Herrera: 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
+[08/05/2026, 23:29:54] Hanani Herrera: Es calle otomí #24 santa María
+[08/05/2026, 23:31:44] Yo: Ok ok
+[08/05/2026, 23:31:47] Yo: Gracias nanis
+[08/05/2026, 23:31:59] Hanani Herrera: Sipi
+[08/05/2026, 23:32:09] Hanani Herrera: Quedé de avisarle cuando este listo el pedido
+[08/05/2026, 23:32:16] Yo: Ok ok
+[08/05/2026, 23:33:57] Hanani Herrera: Me agregas otra por favor igual pero sin salsa BBQ y otras papas a la francesa
+[08/05/2026, 23:34:18] Hanani Herrera: Nora quiere otra hamburguesa y otra orden de papas, solo que esta sin BBQ
+[08/05/2026, 23:34:43] Hanani Herrera: Serian 6 y 6, 1 sin BBQ
+[08/05/2026, 23:34:47] Hanani Herrera: Así queda la orden
+[09/05/2026, 00:28:28] Hanani Herrera: Cómo va la orden?
+[09/05/2026, 00:31:46] Yo: Bien nanis, espérame un ratito que ando cocinando
+[09/05/2026, 00:31:58] Yo: Mi esposo ya casi las manda
+[09/05/2026, 00:32:41] Yo: Dile que son 630, que si cambio o transferencia
+[09/05/2026, 00:32:42] Hanani Herrera: Sii
+[09/05/2026, 00:32:46] Hanani Herrera: Voy
+[09/05/2026, 00:32:54] Yo: Ok
+[09/05/2026, 00:35:45] Hanani Herrera: Que pagan con cambio
+[09/05/2026, 00:35:58] Hanani Herrera: Le dije los 630 + 15 de envio
+[09/05/2026, 00:36:46] Yo: Ok nanis
+[09/05/2026, 00:38:30] Hanani Herrera: Sip 🌷
+[09/05/2026, 00:58:05] Hanani Herrera: Cómo vas? ☺️
 [09/05/2026, 01:02:41] Yo: Muy bien, pero si ando un poco saturada
 [09/05/2026, 01:03:17] Hanani Herrera: Jeje bueno, hay trabajo, ya salieron más? Ya se entrego ese pedido?
 [09/05/2026, 01:03:41] Yo: Ya se entregó
