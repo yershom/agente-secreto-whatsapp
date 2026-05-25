@@ -1947,6 +1947,7 @@ item1.X-ABLabel:Móvil
 [23/05/2026, 01:22:28] Hanani Herrera: Ay no se su nombre
 [23/05/2026, 01:22:40] Hanani Herrera: Es donde tu me has llevado a las gorditas
 [23/05/2026, 01:23:14] Hanani Herrera: Subiendo en la calle donde está la que corta el cabello que me llevaste a glaciar el cabello
+[23/05/2026, 01:23:14] Hanani Herrera: Subiendo en la calle donde está la que corta el cabello que me llevaste a alaciar el cabello
 [23/05/2026, 01:29:49] Yo: Aaa ok, si, es para llevar entonces? Para que ya la lleve Gersom
 [23/05/2026, 01:29:53] Yo: Serían $105
 [23/05/2026, 01:30:00] Hanani Herrera: Si
@@ -1965,6 +1966,7 @@ item1.X-ABLabel:Móvil
 [23/05/2026, 01:39:55] Hanani Herrera: Si
 [23/05/2026, 01:40:02] Hanani Herrera: Que a las 8 si se puede
 [23/05/2026, 01:40:14] Hanani Herrera: Más bien, en cuanto salgamos me avisas y les digo que ya van
+[23/05/2026, 01:40:14] Hanani Herrera: Más bien, en cuanto salgan me avisas y les digo que ya van
 [23/05/2026, 01:41:48] Hanani Herrera: Con todo
 [23/05/2026, 01:48:39] Yo: Ok si
 [23/05/2026, 02:14:41] Yo: Ya va para allá

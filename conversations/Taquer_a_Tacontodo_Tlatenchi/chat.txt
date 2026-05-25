@@ -2,7 +2,20 @@ Claro que si, empezamos a preparas tu pedido.
 Quiero hacerte un pedido a domicilio de favor:
 Serían 2 tortas de suadero con todo 
 2 tortas de milanesa con todo
+[03/03/2026, 19:49:15] Yo: 26199870955587@lid
 [04/03/2026, 01:49:15] Yo: 26199870955587@lid
+[13/03/2026, 19:51:10] Yo: Hola, buenas noches. Soy Nora 😃
+[13/03/2026, 19:51:22] Yo: Casa blanca de dos pisos
+[13/03/2026, 19:51:22] Yo: Casi esquina con la costeña y abarrotes citlalli (que están en av. Chisco)
+[13/03/2026, 19:51:22] Yo: Crisantemos #3, col. Santa María
+[13/03/2026, 19:52:51] Taquería Tacontodo Tlatenchi: Buenas noches Nora, un gusto leerte! 🫡
+[13/03/2026, 19:54:20] Yo: Gracias, cuánto sería? ☺️
+[13/03/2026, 20:02:23] Taquería Tacontodo Tlatenchi: Claro, en un momento te enviamos el total
+[13/03/2026, 20:09:45] Yo: Gracias
+[13/03/2026, 20:15:18] Taquería Tacontodo Tlatenchi: Sería $210
+[13/03/2026, 20:15:59] Yo: Ok, te pago con $510, para que me des $300 de favor?
+[13/03/2026, 20:20:06] Taquería Tacontodo Tlatenchi: El repartido salió a la entrega de su pedido antes
+[13/03/2026, 20:20:16] Taquería Tacontodo Tlatenchi: Permítame y le marco.
 [14/03/2026, 01:51:10] Yo: Hola, buenas noches. Soy Nora 😃
 [14/03/2026, 01:51:22] Yo: Casa blanca de dos pisos
 [14/03/2026, 01:51:22] Yo: Casi esquina con la costeña y abarrotes citlalli (que están en av. Chisco)

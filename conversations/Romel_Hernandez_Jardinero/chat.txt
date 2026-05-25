@@ -1,12 +1,24 @@
           4909 0142 4632 74
 Yo aquí estoy en la casa
+[07/04/2026, 09:49:33] Yo: Tu hermano nunca vino a terminar de limpiar la alberca, pasó algo?
+[07/04/2026, 10:19:07] Romel Hernandez Jardinero: Mmm ese amihon
+[07/04/2026, 10:19:18] Romel Hernandez Jardinero: Yo paso más tarde aver que paso va
+[07/04/2026, 12:46:50] Yo: Gracias
 [07/04/2026, 15:49:02] Yo: Hola Romel
 [07/04/2026, 15:49:09] Yo: [Archivo adjunto]
 [07/04/2026, 15:49:33] Yo: Tu hermano nunca vino a terminar de limpiar la alberca, pasó algo?
 [07/04/2026, 16:19:07] Romel Hernandez Jardinero: Mmm ese amihon
 [07/04/2026, 16:19:18] Romel Hernandez Jardinero: Yo paso más tarde aver que paso va
 [07/04/2026, 18:46:50] Yo: Gracias
+[07/04/2026, 18:55:28] Romel Hernandez Jardinero: Ya estoy en su domicilio
 [08/04/2026, 00:55:28] Romel Hernandez Jardinero: Ya estoy en su domicilio
+[09/04/2026, 09:08:45] Yo: Hola Romel
+[09/04/2026, 09:08:52] Yo: Buenos días
+[09/04/2026, 09:09:36] Yo: Me dijo Gersom que se fue al fútbol y no coincidieron 🫤 
+[09/04/2026, 09:09:42] Yo: Puedes venir hoy?
+[09/04/2026, 09:10:33] Romel Hernandez Jardinero: Paso más tarde
+[09/04/2026, 09:11:17] Yo: A qué hora? Llevo al fútbol a los niños 4:30, saldré hasta esa hora,
+[09/04/2026, 09:12:03] Romel Hernandez Jardinero: Paso antes
 [09/04/2026, 15:08:45] Yo: Hola Romel
 [09/04/2026, 15:08:52] Yo: Buenos días
 [09/04/2026, 15:09:36] Yo: Me dijo Gersom que se fue al fútbol y no coincidieron 🫤 
@@ -14,6 +26,15 @@ Yo aquí estoy en la casa
 [09/04/2026, 15:10:33] Romel Hernandez Jardinero: Paso más tarde
 [09/04/2026, 15:11:17] Yo: A qué hora? Llevo al fútbol a los niños 4:30, saldré hasta esa hora,
 [09/04/2026, 15:12:03] Romel Hernandez Jardinero: Paso antes
+[10/04/2026, 12:58:38] Yo: romel, pasas hoy? Ya está llena de zancudos la alberca
+[10/04/2026, 13:23:18] Romel Hernandez Jardinero: Si paso como alas 8
+[10/04/2026, 13:25:24] Yo: Crees que puedas venir antes de las 4? Vienes mis papás y me van a regañar
+[10/04/2026, 13:28:04] Romel Hernandez Jardinero: Mmm
+[10/04/2026, 13:28:25] Romel Hernandez Jardinero: No creo are lo posible de las 8
+[10/04/2026, 13:28:36] Romel Hernandez Jardinero: O alas 7
+[10/04/2026, 13:39:37] Yo: Bueno, bueno, gracias
+[10/04/2026, 14:25:06] Romel Hernandez Jardinero: Me voy a parara para pasar antes
+[10/04/2026, 14:26:19] Yo: Gracias
 [10/04/2026, 18:58:38] Yo: romel, pasas hoy? Ya está llena de zancudos la alberca
 [10/04/2026, 19:23:18] Romel Hernandez Jardinero: Si paso como alas 8
 [10/04/2026, 19:25:24] Yo: Crees que puedas venir antes de las 4? Vienes mis papás y me van a regañar
@@ -23,28 +44,75 @@ Yo aquí estoy en la casa
 [10/04/2026, 19:39:37] Yo: Bueno, bueno, gracias
 [10/04/2026, 20:25:06] Romel Hernandez Jardinero: Me voy a parara para pasar antes
 [10/04/2026, 20:26:19] Yo: Gracias
+[11/04/2026, 20:43:29] Romel Hernandez Jardinero: Mañana voy a recortar los arbustos va
+[11/04/2026, 21:11:36] Yo: Si, Gracias
 [12/04/2026, 02:43:29] Romel Hernandez Jardinero: Mañana voy a recortar los arbustos va
 [12/04/2026, 03:11:36] Yo: Si, Gracias
+[21/04/2026, 11:07:39] Yo: Romel, el viernes empiezo a vender aquí en la casa y me super urge que esté bien arreglado. Todavía tienen plaga las plantas 😑😔 necesitan podarse, la alberca está muy sucia ... En fin... Porfavor ayudame que hoy o mañana ya esté todo listo para el viernes
+[21/04/2026, 11:18:45] Romel Hernandez Jardinero: Ok
+[21/04/2026, 14:18:49] Romel Hernandez Jardinero: Ay alguien en su domicilio
+[21/04/2026, 14:19:17] Yo: Si, aquí estoy
+[21/04/2026, 14:21:05] Romel Hernandez Jardinero: Ok
 [21/04/2026, 17:07:39] Yo: Romel, el viernes empiezo a vender aquí en la casa y me super urge que esté bien arreglado. Todavía tienen plaga las plantas 😑😔 necesitan podarse, la alberca está muy sucia ... En fin... Porfavor ayudame que hoy o mañana ya esté todo listo para el viernes
 [21/04/2026, 17:18:45] Romel Hernandez Jardinero: Ok
 [21/04/2026, 20:18:49] Romel Hernandez Jardinero: Ay alguien en su domicilio
 [21/04/2026, 20:19:17] Yo: Si, aquí estoy
 [21/04/2026, 20:21:05] Romel Hernandez Jardinero: Ok
+[22/04/2026, 15:56:15] Romel Hernandez Jardinero: Ya voynpara su domicilio
+[22/04/2026, 15:56:39] Yo: Ok si
+[22/04/2026, 15:56:40] Yo: Esta bien
+[22/04/2026, 17:28:57] Romel Hernandez Jardinero: Mi número de cuenta para enviarme dinero dentro de Banco Azteca es: 
 [22/04/2026, 21:56:15] Romel Hernandez Jardinero: Ya voynpara su domicilio
 [22/04/2026, 21:56:39] Yo: Ok si
 [22/04/2026, 21:56:40] Yo: Esta bien
 [22/04/2026, 23:28:57] Romel Hernandez Jardinero: Mi número de cuenta para enviarme dinero dentro de Banco Azteca es: 
+[24/04/2026, 09:30:28] Yo: Hola Romel, si, en un rato te transfiero, ando corriendo ahorita
+[24/04/2026, 09:30:51] Yo: Hoy vendemos hamburguesas, a partir de la 1
+[24/04/2026, 09:31:47] Romel Hernandez Jardinero: Ok
 [24/04/2026, 15:30:28] Yo: Hola Romel, si, en un rato te transfiero, ando corriendo ahorita
 [24/04/2026, 15:30:51] Yo: Hoy vendemos hamburguesas, a partir de la 1
 [24/04/2026, 15:31:47] Romel Hernandez Jardinero: Ok
+[24/04/2026, 20:18:36] Romel Hernandez Jardinero: Hola todavía ay
+[24/04/2026, 20:18:50] Romel Hernandez Jardinero: De res con cerdo
+[24/04/2026, 20:19:44] Yo: Ya no hay nada, ya se acabó todo
+[24/04/2026, 20:21:08] Romel Hernandez Jardinero: Que bueno
+[24/04/2026, 20:21:17] Romel Hernandez Jardinero: Buenas noches
+[24/04/2026, 20:27:27] Yo: Si, bendito Dios
 [25/04/2026, 02:18:36] Romel Hernandez Jardinero: Hola todavía ay
 [25/04/2026, 02:18:50] Romel Hernandez Jardinero: De res con cerdo
 [25/04/2026, 02:19:44] Yo: Ya no hay nada, ya se acabó todo
 [25/04/2026, 02:21:08] Romel Hernandez Jardinero: Que bueno
 [25/04/2026, 02:21:17] Romel Hernandez Jardinero: Buenas noches
 [25/04/2026, 02:27:27] Yo: Si, bendito Dios
+[27/04/2026, 19:13:53] Romel Hernandez Jardinero: Voy para su domicilio
+[27/04/2026, 19:27:19] Yo: Ok
 [28/04/2026, 01:13:53] Romel Hernandez Jardinero: Voy para su domicilio
 [28/04/2026, 01:27:19] Yo: Ok
+[01/05/2026, 09:55:16] Yo: Hola Romel, buenos días
+[01/05/2026, 09:55:26] Yo: Vas a querer hamburguesas? Para que te aparte
+[01/05/2026, 10:04:15] Romel Hernandez Jardinero: Si
+[01/05/2026, 10:04:43] Romel Hernandez Jardinero: Hoy voy a apsar a echar cloro
+[01/05/2026, 10:16:11] Romel Hernandez Jardinero: A que horas
+[01/05/2026, 10:17:00] Romel Hernandez Jardinero: 3
+[01/05/2026, 10:33:47] Yo: Pues yo aquí voy a andar
+[01/05/2026, 10:33:55] Yo: A qué hora vas a querer tus hamburguesas?
+[01/05/2026, 10:35:29] Romel Hernandez Jardinero: 3:30
+[01/05/2026, 10:35:34] Romel Hernandez Jardinero: O a que horas
+[01/05/2026, 10:35:53] Yo: Si, está bien, a esa hora vienes y te doy tus hamburguesas también?
+[01/05/2026, 11:20:17] Yo: De que serían tus hamburguesas?
+[01/05/2026, 11:20:28] Romel Hernandez Jardinero: Con tocino
+[01/05/2026, 11:20:37] Yo: Vale
+[01/05/2026, 11:43:01] Yo: Vas a querer papas? O solo hamburguesas?
+[01/05/2026, 12:16:45] Romel Hernandez Jardinero: Con papas
+[01/05/2026, 12:17:25] Yo: Cuántas órdenes de papas?
+[01/05/2026, 12:17:54] Romel Hernandez Jardinero: Las amburguesas yeban papa?
+[01/05/2026, 12:18:01] Yo: No
+[01/05/2026, 12:18:07] Yo: Cuesta $30 la orden
+[01/05/2026, 12:18:22] Romel Hernandez Jardinero: Ok tres ordenes
+[01/05/2026, 12:18:43] Yo: Vale
+[01/05/2026, 12:18:58] Romel Hernandez Jardinero: Va 4:30
+[01/05/2026, 12:19:04] Romel Hernandez Jardinero: Paso por ellas
+[01/05/2026, 12:19:08] Yo: Ok
 [01/05/2026, 15:55:16] Yo: Hola Romel, buenos días
 [01/05/2026, 15:55:26] Yo: Vas a querer hamburguesas? Para que te aparte
 [01/05/2026, 16:04:15] Romel Hernandez Jardinero: Si
@@ -56,10 +124,20 @@ Yo aquí estoy en la casa
 [01/05/2026, 16:35:29] Romel Hernandez Jardinero: 3:30
 [01/05/2026, 16:35:34] Romel Hernandez Jardinero: O a que horas
 [01/05/2026, 16:35:53] Yo: Si, está bien, a esa hora vienes y te doy tus hamburguesas también?
+[01/05/2026, 16:43:38] Romel Hernandez Jardinero: Deve 700
+[01/05/2026, 16:43:43] Romel Hernandez Jardinero: Menos 300
+[01/05/2026, 16:43:48] Romel Hernandez Jardinero: Resta 400
+[01/05/2026, 17:02:30] Romel Hernandez Jardinero: Una más con papas
+[01/05/2026, 17:02:56] Yo: De qué?
+[01/05/2026, 17:03:03] Yo: Igual?
+[01/05/2026, 17:03:03] Romel Hernandez Jardinero: Igual
+[01/05/2026, 17:03:05] Yo: Ok
+[01/05/2026, 17:03:22] Romel Hernandez Jardinero: Voy por ella
 [01/05/2026, 17:20:17] Yo: De que serían tus hamburguesas?
 [01/05/2026, 17:20:28] Romel Hernandez Jardinero: Con tocino
 [01/05/2026, 17:20:37] Yo: Vale
 [01/05/2026, 17:43:01] Yo: Vas a querer papas? O solo hamburguesas?
+[01/05/2026, 17:45:25] Yo: Si, ya esta
 [01/05/2026, 18:16:45] Romel Hernandez Jardinero: Con papas
 [01/05/2026, 18:17:25] Yo: Cuántas órdenes de papas?
 [01/05/2026, 18:17:54] Romel Hernandez Jardinero: Las amburguesas yeban papa?
@@ -80,10 +158,24 @@ Yo aquí estoy en la casa
 [01/05/2026, 23:03:05] Yo: Ok
 [01/05/2026, 23:03:22] Romel Hernandez Jardinero: Voy por ella
 [01/05/2026, 23:45:25] Yo: Si, ya esta
+[06/05/2026, 12:14:51] Romel Hernandez Jardinero: Ay alguien en su domicilio voy para ya
+[06/05/2026, 12:18:40] Yo: Si, aquí estoy
+[06/05/2026, 12:28:35] Romel Hernandez Jardinero: Ok
+[06/05/2026, 15:57:26] Romel Hernandez Jardinero: Resta $300
 [06/05/2026, 18:14:51] Romel Hernandez Jardinero: Ay alguien en su domicilio voy para ya
 [06/05/2026, 18:18:40] Yo: Si, aquí estoy
 [06/05/2026, 18:28:35] Romel Hernandez Jardinero: Ok
 [06/05/2026, 21:57:26] Romel Hernandez Jardinero: Resta $300
+[08/05/2026, 16:33:20] Romel Hernandez Jardinero: Hola
+[08/05/2026, 16:33:37] Yo: Hola hola!
+[08/05/2026, 16:33:43] Romel Hernandez Jardinero: 2 amburguesas con tocino
+[08/05/2026, 16:33:55] Romel Hernandez Jardinero: Y unas papas
+[08/05/2026, 16:34:39] Yo: De acuerdo !!
+[08/05/2026, 16:34:47] Yo: Con todo?
+[08/05/2026, 16:35:40] Romel Hernandez Jardinero: Sin cebolla
+[08/05/2026, 16:44:53] Romel Hernandez Jardinero: Ya voy
+[08/05/2026, 18:47:43] Yo: Ya están tus hamburguesas
+[08/05/2026, 18:49:21] Romel Hernandez Jardinero: Ya ban
 [08/05/2026, 22:33:20] Romel Hernandez Jardinero: Hola
 [08/05/2026, 22:33:37] Yo: Hola hola!
 [08/05/2026, 22:33:43] Romel Hernandez Jardinero: 2 amburguesas con tocino
@@ -187,6 +279,12 @@ Yo aquí estoy en la casa
 [14/05/2026, 23:26:26] Romel Hernandez Jardinero: Voy para su domicilio ay alguien
 [14/05/2026, 23:26:26] Romel Hernandez Jardinero: Ok
 [14/05/2026, 23:26:26] Yo: Si, me avisas antes de llegar
+[15/05/2026, 19:12:12] Romel Hernandez Jardinero: Ay alguien en su domicilio
+[15/05/2026, 19:15:33] Yo: Si
+[15/05/2026, 19:15:37] Yo: Aquí estamos
+[15/05/2026, 19:15:56] Romel Hernandez Jardinero: Ok
+[15/05/2026, 19:16:15] Romel Hernandez Jardinero: Me prepara una amburguesa von papas de res con tocino
+[15/05/2026, 19:16:43] Yo: Seguro que solo 1? Jajaja luego regresas por más 😂
 [15/05/2026, 20:01:54] Romel Hernandez Jardinero: [Archivo adjunto]
 [15/05/2026, 22:46:48] Romel Hernandez Jardinero: Ya ban
 [15/05/2026, 22:46:48] Yo: Ya están tus hamburguesas
@@ -917,5 +1015,7 @@ Yo aquí estoy en la casa
 [18/05/2026, 05:17:34] Romel Hernandez Jardinero: Mmm ese amihon
 [18/05/2026, 05:17:34] Yo: Tu hermano nunca vino a terminar de limpiar la alberca, pasó algo?
 [18/05/2026, 05:17:34] Yo: [Archivo adjunto]
+[22/05/2026, 16:26:57] Romel Hernandez Jardinero: Mañana le aspiro si alberca va
+[22/05/2026, 16:32:33] Yo: Okis
 [22/05/2026, 22:26:57] Romel Hernandez Jardinero: Mañana le aspiro si alberca va
 [22/05/2026, 22:32:33] Yo: Okis

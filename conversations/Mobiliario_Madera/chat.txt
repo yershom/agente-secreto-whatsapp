@@ -1,4 +1,41 @@
 Pedido
+[21/04/2026, 19:43:48] Mobiliario Madera: Si estaría algo larga
+[21/04/2026, 19:43:56] Mobiliario Madera: Pero si se le hace
+[21/04/2026, 19:44:39] Yo: Ok, y que precio sería de esta forma? Serían 3 mesas con sillas así
+[21/04/2026, 19:46:34] Mobiliario Madera: Se las dejaría en 1400
+[21/04/2026, 19:46:37] Mobiliario Madera: Cada una
+[21/04/2026, 19:47:53] Yo: Si, está bien
+[21/04/2026, 19:48:28] Yo: Me decía mi esposo que requieres anticipo?
+[21/04/2026, 19:54:37] Mobiliario Madera: [Archivo adjunto]
+[21/04/2026, 19:58:01] Yo: Yo puedo darte el anticipo hoy mismo pero me preocupa el tema del tiempo que me comentas
+[21/04/2026, 19:59:22] Yo: Empiezo a vender este viernes 😂
+[21/04/2026, 19:59:28] Yo: Este fin de semana
+[21/04/2026, 20:02:38] Mobiliario Madera: [Archivo adjunto]
+[21/04/2026, 20:03:16] Yo: Ok ok
+[21/04/2026, 20:03:20] Yo: Si, entiendo
+[21/04/2026, 20:03:34] Yo: Todavía tienes la mesa con bancos?
+[21/04/2026, 20:03:42] Yo: Podría ser esa para este fin de semana
+[21/04/2026, 20:03:53] Yo: Y el resto para la otra semana
+[21/04/2026, 20:04:04] Yo: Igual las 3 mesas
+[21/04/2026, 20:04:45] Mobiliario Madera: [Archivo adjunto]
+[21/04/2026, 20:05:17] Yo: Si, serían 4
+[21/04/2026, 20:05:24] Yo: Si
+[21/04/2026, 20:05:57] Yo: Estoy pensando, tu tienes flete?
+[21/04/2026, 20:06:21] Yo: Tendría que ver una camioneta porque no creo que la mesa entre en un carro
+[21/04/2026, 20:06:39] Yo: O si crees que quepa?
+[21/04/2026, 20:07:18] Mobiliario Madera: [Archivo adjunto]
+[21/04/2026, 20:09:55] Yo: Tlatenchi
+[21/04/2026, 20:11:37] Mobiliario Madera: 200
+[21/04/2026, 20:11:38] Mobiliario Madera: Pesos
+[21/04/2026, 20:11:59] Yo: Mañana a qué hora te puedo recoger?
+[21/04/2026, 20:12:15] Mobiliario Madera: Por la tarde
+[21/04/2026, 20:22:50] Yo: Te queda bien como a las 7?
+[21/04/2026, 20:23:22] Mobiliario Madera: [Archivo adjunto]
+[21/04/2026, 22:03:41] Yo: Entonces, mañana te recojo y de una vez te pago
+[21/04/2026, 22:03:46] Yo: Y te doy el anticipo
+[21/04/2026, 22:13:25] Mobiliario Madera: Ok
+[21/04/2026, 22:13:27] Mobiliario Madera: Está bien
+[21/04/2026, 22:13:30] Mobiliario Madera: Entonces mañana nos vemos
 [22/04/2026, 01:43:48] Mobiliario Madera: Si estaría algo larga
 [22/04/2026, 01:43:56] Mobiliario Madera: Pero si se le hace
 [22/04/2026, 01:44:39] Yo: Ok, y que precio sería de esta forma? Serían 3 mesas con sillas así
@@ -36,6 +73,43 @@ Pedido
 [22/04/2026, 04:13:25] Mobiliario Madera: Ok
 [22/04/2026, 04:13:27] Mobiliario Madera: Está bien
 [22/04/2026, 04:13:30] Mobiliario Madera: Entonces mañana nos vemos
+[22/04/2026, 19:00:19] Yo: Hola
+[22/04/2026, 19:00:22] Yo: Buenas noches
+[22/04/2026, 19:00:26] Yo: Ya llegó mi esposo?
+[22/04/2026, 19:01:25] Yo: Para tranferirte
+[22/04/2026, 19:01:58] Mobiliario Madera: Si
+[22/04/2026, 19:02:01] Mobiliario Madera: Ya la están subiendo
+[22/04/2026, 19:02:02] Mobiliario Madera: Entonces
+[22/04/2026, 19:02:06] Mobiliario Madera: Serían
+[22/04/2026, 19:02:17] Mobiliario Madera: 4200 de las tres
+[22/04/2026, 19:02:23] Mobiliario Madera: Y 1200 de los bancos
+[22/04/2026, 19:02:43] Mobiliario Madera: Entonces transferiria 3400
+[22/04/2026, 19:03:23] Mobiliario Madera: 2200 de las tres mesas
+[22/04/2026, 19:03:36] Yo: [Archivo adjunto]
+[22/04/2026, 19:04:21] Yo: Me pasas los datos de tu tarjeta porfavor?
+[22/04/2026, 19:04:56] Mobiliario Madera: Y ok
+[22/04/2026, 19:05:02] Mobiliario Madera: Si
+[22/04/2026, 19:05:04] Mobiliario Madera: Está bie
+[22/04/2026, 19:05:12] Mobiliario Madera: Solo que esta que se lleva me la paga
+[22/04/2026, 19:05:14] Mobiliario Madera: Y para el
+[22/04/2026, 19:05:16] Yo: Si, claro
+[22/04/2026, 19:05:20] Mobiliario Madera: Sería el 50 %
+[22/04/2026, 19:05:23] Yo: De acuerdo
+[22/04/2026, 19:05:31] Mobiliario Madera: Y cuando esté la otra el resto
+[22/04/2026, 19:05:37] Mobiliario Madera: Entonces serían 1400
+[22/04/2026, 19:05:38] Mobiliario Madera: De una
+[22/04/2026, 19:05:43] Mobiliario Madera: Y 1200 de la de bancos
+[22/04/2026, 19:05:45] Mobiliario Madera: Correcto
+[22/04/2026, 19:05:49] Yo: Si, correcto
+[22/04/2026, 19:05:57] Yo: $2,600
+[22/04/2026, 19:05:57] Mobiliario Madera: Y quedaría pendiente una nada más
+[22/04/2026, 19:06:02] Yo: Si
+[22/04/2026, 19:06:05] Mobiliario Madera: Así es
+[22/04/2026, 19:06:15] Yo: Me envías datos bancarios de favor
+[22/04/2026, 19:06:18] Mobiliario Madera: [Archivo adjunto]
+[22/04/2026, 19:06:25] Mobiliario Madera: Banorte a nombre de Sergio Hernández
+[22/04/2026, 19:06:29] Yo: Permítame
+[22/04/2026, 19:10:15] Mobiliario Madera: Ok
 [23/04/2026, 01:00:19] Yo: Hola
 [23/04/2026, 01:00:22] Yo: Buenas noches
 [23/04/2026, 01:00:26] Yo: Ya llegó mi esposo?
@@ -73,7 +147,18 @@ Pedido
 [23/04/2026, 01:06:25] Mobiliario Madera: Banorte a nombre de Sergio Hernández
 [23/04/2026, 01:06:29] Yo: Permítame
 [23/04/2026, 01:10:15] Mobiliario Madera: Ok
+[23/04/2026, 20:23:44] Yo: 120942621667464@lid
 [24/04/2026, 02:23:44] Yo: 120942621667464@lid
+[28/04/2026, 17:26:21] Mobiliario Madera: Hola buenas tardes
+[28/04/2026, 18:06:44] Yo: Hola, buenas tardes
+[28/04/2026, 18:07:05] Mobiliario Madera: [Archivo adjunto]
+[28/04/2026, 18:28:26] Yo: Ok, deja ver con mi esposo, gracias
+[28/04/2026, 21:36:03] Mobiliario Madera: ???
+[28/04/2026, 21:36:45] Yo: Hola, iremos a las 7 pm mañana, llevaremos camioneta, gracias
+[28/04/2026, 21:37:00] Mobiliario Madera: Ok
+[28/04/2026, 21:37:52] Yo: Gracias
+[28/04/2026, 21:38:12] Mobiliario Madera: A usted buena noche
+[28/04/2026, 21:38:39] Yo: Igualmente, buenas noches
 [28/04/2026, 23:26:21] Mobiliario Madera: Hola buenas tardes
 [29/04/2026, 00:06:44] Yo: Hola, buenas tardes
 [29/04/2026, 00:07:05] Mobiliario Madera: [Archivo adjunto]
@@ -84,6 +169,21 @@ Pedido
 [29/04/2026, 03:37:52] Yo: Gracias
 [29/04/2026, 03:38:12] Mobiliario Madera: A usted buena noche
 [29/04/2026, 03:38:39] Yo: Igualmente, buenas noches
+[29/04/2026, 19:20:44] Mobiliario Madera: Buenas noches
+[29/04/2026, 19:20:47] Mobiliario Madera: Tardará en llegar
+[29/04/2026, 19:24:59] Yo: Llamo
+[29/04/2026, 19:25:00] Yo: Espera
+[29/04/2026, 19:26:31] Yo: Mira, me dicen que están esperando la camioneta, que en media hora, todavía los puedes esperar? Me da mucho pena. Me confíe y no marqué para saber cómo iban
+[29/04/2026, 19:26:46] Mobiliario Madera: Si yo también
+[29/04/2026, 19:26:50] Mobiliario Madera: Y tengo una entrega
+[29/04/2026, 19:26:53] Mobiliario Madera: Los espero de favor
+[29/04/2026, 19:26:56] Mobiliario Madera: Espero no tarde.
+[29/04/2026, 19:27:41] Yo: 😩 una disculpa, de verdad
+[29/04/2026, 19:40:37] Yo: Llegan en 10 min
+[29/04/2026, 19:41:25] Yo: Me comenta mi esposo que si las patas de las mesas se pueden reforzar más con una pija o algo así, porque por ejemplo, de la mesa que tenemos, se abren un poco la pata, le muestro
+[29/04/2026, 19:42:12] Yo: Unir aquí
+[29/04/2026, 19:54:42] Yo: [Archivo adjunto]
+[29/04/2026, 19:54:51] Yo: Listo, muchas gracias 😊
 [30/04/2026, 01:20:44] Mobiliario Madera: Buenas noches
 [30/04/2026, 01:20:47] Mobiliario Madera: Tardará en llegar
 [30/04/2026, 01:24:59] Yo: Llamo

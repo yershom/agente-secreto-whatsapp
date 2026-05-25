@@ -5,9 +5,14 @@ Nora, hemos identificado una compra con tu tarjeta Inbursa 2410 por $129.00 en G
 ¿Realizaste esta operación?
 Compra con tarjeta Inbursa 2410 rechazada en CINEPOLIS APP T. Activa las Compras en linea y telefonicas en tu app Inbursa Movil.
 Compra con tarjeta Inbursa 2410 rechazada en APP TICKETS. Activa las Compras en linea y telefonicas en tu app Inbursa Movil.
+[06/05/2026, 10:27:09] 5215554478050: 🚨 *IMPORTANTE* 🚨
+[06/05/2026, 10:32:25] 5215554478050: *Compra declinada* 🚫
+[06/05/2026, 10:32:27] 5215554478050: *Compra declinada* 🚫
 [06/05/2026, 16:27:09] 5215554478050: 🚨 *IMPORTANTE* 🚨
 [06/05/2026, 16:32:25] 5215554478050: *Compra declinada* 🚫
 [06/05/2026, 16:32:27] 5215554478050: *Compra declinada* 🚫
+[12/05/2026, 12:59:09] 5215554478050: *Compra declinada* 🚫
+[12/05/2026, 12:59:11] 5215554478050: *Compra declinada* 🚫
 [12/05/2026, 18:59:09] 5215554478050: *Compra declinada* 🚫
 [12/05/2026, 18:59:11] 5215554478050: *Compra declinada* 🚫
 [14/05/2026, 23:20:25] 5215554478050: *Compra declinada* 🚫
@@ -26,7 +31,11 @@ Compra con tarjeta Inbursa 2410 rechazada en APP TICKETS. Activa las Compras en 
 [17/05/2026, 18:28:21] 5215554478050: 🚨 *IMPORTANTE* 🚨
 [18/05/2026, 05:18:14] 5215554478050: *Compra declinada* 🚫
 [18/05/2026, 05:18:14] 5215554478050: 🚨 *IMPORTANTE* 🚨
+[18/05/2026, 18:26:46] 151698362376380: *Compra declinada* 🚫
 [19/05/2026, 00:26:46] 151698362376380: *Compra declinada* 🚫
+[19/05/2026, 08:52:25] 151698362376380: *Compra declinada* 🚫
+[19/05/2026, 08:52:26] 151698362376380: *Compra declinada* 🚫
 [19/05/2026, 14:52:25] 151698362376380: *Compra declinada* 🚫
 [19/05/2026, 14:52:26] 151698362376380: *Compra declinada* 🚫
+[23/05/2026, 18:00:12] 151698362376380: *Compra declinada* 🚫
 [24/05/2026, 00:00:12] 151698362376380: *Compra declinada* 🚫
