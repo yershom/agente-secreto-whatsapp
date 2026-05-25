@@ -26,6 +26,7 @@ export function saveMessage(contact, sender, message, msgTimestamp) {
 
   const date = msgTimestamp ? new Date(msgTimestamp * 1000) : new Date();
   const timestamp = date.toLocaleString('es-ES', {
+    timeZone: 'America/Mexico_City',
     year: 'numeric',
     month: '2-digit',
     day: '2-digit',

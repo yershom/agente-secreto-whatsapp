@@ -9,6 +9,17 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const HISTORY_FLAG = path.join(__dirname, '..', 'conversations', '.history_downloaded');
 
+const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968', 'Karem', 'Hanani_Herrera', '211552993050832', 'Ibrahim_Gatito_WS']);
+
+async function downloadMediaWithTimeout(msg, timeoutMs = 30000) {
+  return Promise.race([
+    msg.downloadMedia(),
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error('Timeout descargando media')), timeoutMs)
+    )
+  ]);
+}
+
 async function loadAllMessages(client, chat) {
   let hasMore = true;
   let iterations = 0;
@@ -44,7 +55,6 @@ async function downloadHistoryOnce(client) {
     }
     console.log('💾 Backup de conversaciones existentes completado.');
 
-    const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968','Karem','Hanani_Herrera','211552993050832','Ibrahim_Gatito_WS']);
     const chats = await client.getChats();
     console.log(`📊 Encontrados ${chats.length} chats. Descargando historial...`);
     console.log('⏱️  Esto puede tomar unos minutos...\n');
@@ -84,7 +94,7 @@ async function downloadHistoryOnce(client) {
 
               if (msg.hasMedia) {
                 try {
-                  const media = await msg.downloadMedia();
+                  const media = await downloadMediaWithTimeout(msg);
                   if (media) {
                     const ext = media.mimetype ? media.mimetype.split('/')[1] : 'bin';
                     const filename = media.filename || `${msg.timestamp || Date.now()}.${ext}`;
@@ -177,6 +187,8 @@ export async function startWhatsApp() {
       const contact = await msg.getContact();
       const chat = await msg.getChat();
 
+      const isStatus = chat.id._serialized.includes('status@broadcast');
+
       // Detectar si es un grupo
       const isGroup = chat.isGroup;
       let folderName;
@@ -207,18 +219,23 @@ export async function startWhatsApp() {
         saveMessage('Yo', `Yo → ${folderName}`, text, msg.timestamp);
       }
 
-      // Media detection
+      // Media detection — skip status attachments unless sender is in FULL_HISTORY_CHATS
       if (msg.hasMedia) {
-        try {
-          const media = await msg.downloadMedia();
-          if (media) {
-            const ext = media.mimetype ? media.mimetype.split('/')[1] : 'bin';
-            const filename = media.filename || `${Date.now()}.${ext}`;
-            await saveAttachment(folderName, filename, Buffer.from(media.data, 'base64'));
-            console.log(`📎 Adjunto guardado en ${folderName}: ${filename}`);
+        const senderKey = sender.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
+        if (isStatus && !FULL_HISTORY_CHATS.has(senderKey)) {
+          // Don't download status media from contacts outside the full-history list
+        } else {
+          try {
+            const media = await downloadMediaWithTimeout(msg);
+            if (media) {
+              const ext = media.mimetype ? media.mimetype.split('/')[1] : 'bin';
+              const filename = media.filename || `${Date.now()}.${ext}`;
+              await saveAttachment(folderName, filename, Buffer.from(media.data, 'base64'));
+              console.log(`📎 Adjunto guardado en ${folderName}: ${filename}`);
+            }
+          } catch (e) {
+            console.log(`⚠️ No se pudo descargar adjunto en ${folderName}: ${e.message}`);
           }
-        } catch (e) {
-          console.log(`⚠️ No se pudo descargar adjunto en ${folderName}: ${e.message}`);
         }
       }
     } catch (e) {
