@@ -38,6 +38,9 @@ Los precios al público son promedio a nivel nacional y puede variar de acuerdo 
 N:Leah;Miss Paty;2°;;
 FN:Miss Paty 2° Leah
 item1.TEL;waid=5217341375653:+52 734 137 5653
+2 hamburguesas $150
+2 órdenes de papas $60
+Total: $210
 [13/05/2026, 22:21:49] Gersom: asi que ve pensando en algo creativo porque no acepto propinas pequeñas
 [13/05/2026, 22:22:44] Yo: Aaaah jajaja ok ok
 [13/05/2026, 22:23:01] Yo: 😅
@@ -1357,3 +1360,29 @@ item1.TEL;waid=5217341375653:+52 734 137 5653
 [22/05/2026, 15:19:23] Yo: Ya me ayudarse mucho
 [22/05/2026, 15:22:50] Gersom: porque puedo y lo mereces 🌻
 [22/05/2026, 15:26:27] Yo: Gracias
+[22/05/2026, 18:11:44] Yo: Te ha dicho algo pikin? Lo digo por el pan
+[22/05/2026, 18:12:51] Gersom: cierto, no me ha dicho
+[22/05/2026, 18:16:38] Gersom: dice "aguantame un poquito ando en eso"
+[22/05/2026, 18:17:13] Gersom: lo acaba de meter al horno
+[22/05/2026, 18:17:48] Yo: Ok ok
+[22/05/2026, 19:06:32] Yo: Ya tengo pedido pero no tengo pan
+[22/05/2026, 19:06:39] Yo: A qué temperatura pones la freidora?
+[22/05/2026, 19:18:53] Gersom: 145
+[22/05/2026, 19:22:58] Gersom: Libero unos temas y te ayudo un poco, tendré otras sesiones 4 y 5 pm .
+[22/05/2026, 19:23:11] Gersom: Éxito!
+[23/05/2026, 19:44:05] Yo: Shalom
+[23/05/2026, 19:44:22] Yo: Me puedes traer 1 Kg de carne molida?
+[23/05/2026, 19:44:36] Yo: Y perejil?
+[23/05/2026, 19:44:42] Yo: Ya tengo pedido
+[23/05/2026, 19:45:58] Yo: Y checa si Aharón se llevó el cargador porque no me está cargando el que tengo, mi celular se apaga a cada rato
+[23/05/2026, 19:46:04] Yo: Tengo 1% en este momento
+[23/05/2026, 19:47:39] Gersom: al mercado?
+[23/05/2026, 19:48:26] Yo: No sé si hay todavía aquí cerca, si no, hasta el mercado
+[23/05/2026, 19:48:47] Gersom: voy por dinero y el sentra
+[23/05/2026, 20:22:10] Gersom: Ya no hubo en la de siempre
+[23/05/2026, 20:22:15] Gersom: Pasé en frente
+[24/05/2026, 02:53:06] Yo: Cuenta Yhadin 
+[24/05/2026, 02:55:36] Gersom: Ya estoy en manantiales
+[24/05/2026, 02:55:42] Gersom: Dame número o ubicación
+[24/05/2026, 02:56:19] Yo: Te envié
+[24/05/2026, 02:56:23] Yo: En Dorantas

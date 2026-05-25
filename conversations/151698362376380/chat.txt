@@ -29,3 +29,4 @@ Compra con tarjeta Inbursa 2410 rechazada en APP TICKETS. Activa las Compras en 
 [19/05/2026, 00:26:46] 151698362376380: *Compra declinada* 🚫
 [19/05/2026, 14:52:25] 151698362376380: *Compra declinada* 🚫
 [19/05/2026, 14:52:26] 151698362376380: *Compra declinada* 🚫
+[24/05/2026, 00:00:12] 151698362376380: *Compra declinada* 🚫
