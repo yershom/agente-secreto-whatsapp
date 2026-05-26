@@ -573,3 +573,6 @@
 [21/05/2026, 00:30:33] Puma outlet Cuernavaca: 79045249245302@lid
 [21/05/2026, 22:20:10] Puma outlet Cuernavaca: 254107545772194@lid
 [22/05/2026, 04:20:10] Puma outlet Cuernavaca: 254107545772194@lid
+[25/05/2026, 20:23:54] Puma outlet Cuernavaca: 129699640529043@lid
+[25/05/2026, 20:23:54] Puma outlet Cuernavaca: 129699640529043@lid
+[25/05/2026, 20:25:58] Puma outlet Cuernavaca: 129699640529043@lid
