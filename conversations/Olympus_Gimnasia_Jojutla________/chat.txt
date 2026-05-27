@@ -1000,3 +1000,4 @@ Hay una urban para 15 pasajeros cobra $1500. $100 por persona que es igual a lo 
 [26/05/2026, 13:29:22] 120363401947058074: Voto por la opción de la urban 
 [26/05/2026, 13:31:09] 120363401947058074: Será por cada uno
 [26/05/2026, 13:33:11] 120363401947058074: Si
+[26/05/2026, 20:57:30] 120363401947058074: Buenas noches a tod@s las mamás disculpen la pregunta quien irá al entrenamiento de mazatepec ?
