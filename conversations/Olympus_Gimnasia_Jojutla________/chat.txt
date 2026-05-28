@@ -1027,3 +1027,5 @@ Después se compran el día del evento
 [27/05/2026, 22:41:35] 120363401947058074: Buenas noches, disculpen la hora, yo iré, tengo 2 lugares por si alguien gusta irse con nosotros
 [27/05/2026, 22:44:53] 120363401947058074: Si yo me podría ir con usted  disculpe
 [27/05/2026, 22:45:04] 120363401947058074: Nadamas me dice cuánto es la cooperación
+[28/05/2026, 15:04:57] 120363401947058074: Buen día hoy hay clase normal?
+[28/05/2026, 15:05:18] 120363401947058074: Si, nos vemos en sus respectivos horarios
