@@ -1323,3 +1323,4 @@ Nos vemos mañana. Quedamos atentos a cualquier duda.
 [27/05/2026, 16:06:43] 120363402650624830: Buenas tardes habrá entrenamiento. Por que esta lloviznando
 [27/05/2026, 16:10:30] 🫠 Maestro Fútbol: Buenas tardes. Yo ya voy en camino. En caso de que el clima lo permita, comenzaremos el entrenamiento a las 5:00 pm. Si la lluvia aumenta o representa riesgo para los niños, les avisaré oportunamente.
 [27/05/2026, 16:10:48] 120363402650624830: Gracias
+[28/05/2026, 15:52:16] 🫠 Maestro Fútbol: Buenas tardes, no se les olvide el partido de hoy categoría PONY a las 5:00 pm. Favor de estar 15 minutos antes. ¡Gracias!
