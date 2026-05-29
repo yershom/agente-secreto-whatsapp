@@ -778,3 +778,4 @@ podrías venir hoy?
 [18/05/2026, 05:18:00] Yo: Vendrás el sábado con tu mami?
 [18/05/2026, 05:18:00] Yo: Entiendo. gracias por pasarme tu nuevo número
 [18/05/2026, 05:18:00] Yosse: Hola buenas tardes doña Nora, soy Jocelyn, cambie de número, una disculpa por no haber ido estos días, he estado muy ocupada con lo de la escuela
+[29/05/2026, 08:11:04] Yo: [Archivo adjunto]
