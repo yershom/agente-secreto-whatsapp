@@ -1206,3 +1206,10 @@ END:VCARD
 [29/05/2026, 08:36:13] Yo: Te dejo la puerta abierta para que entres
 [29/05/2026, 08:36:36] Yo: Hoy voy a grabar un comercial en el jardín, comiendo, para hacer publicidad de las hamburguesas
 [29/05/2026, 08:37:05] Yo: Así que, vamos a intentar que se vea limpio y ordenado el jardín
+[29/05/2026, 09:52:46] Yo: Hola vecina
+[29/05/2026, 09:52:57] Yo: Tengo que ir a Jojutla a comprar
+[29/05/2026, 09:53:24] Yo: Te quiero encargar que me ayudes con algunas cosas, ya te fuiste a tu casa?
+[29/05/2026, 12:26:04] Yo: Irene, ya es súper tarde
+[30/05/2026, 09:57:31] Yo: Hola Irene, si vente a barrer y regar por favor
+[30/05/2026, 09:58:17] Irene Quintana Vecina: Ok ahorita boy
+[30/05/2026, 09:59:59] Yo: Sale

@@ -883,3 +883,81 @@ Realiza tu pedido con anticipación porque se acaban 😉
 [29/05/2026, 09:16:51] Yo → Nora_Olivas: Mamá
 [29/05/2026, 09:17:05] Yo → Nora_Olivas: Voy a ir al mercado, ayer no fui
 [29/05/2026, 09:17:13] Yo → Nora_Olivas: Iré a comprar la carne rápido
+[29/05/2026, 09:52:46] Yo → Irene_Quintana_Vecina: Hola vecina
+[29/05/2026, 09:52:57] Yo → Irene_Quintana_Vecina: Tengo que ir a Jojutla a comprar
+[29/05/2026, 09:53:24] Yo → Irene_Quintana_Vecina: Te quiero encargar que me ayudes con algunas cosas, ya te fuiste a tu casa?
+[29/05/2026, 09:53:36] Yo → Nora_Olivas: Si, me va a ayudar
+[29/05/2026, 09:59:01] Yo → Nora_Olivas: Cómo pensé que ibas a venir, te a iba a pedir de favor que pasaras por ella 😅 ahora iré yo por ella, voy a quedar de acuerdo
+[29/05/2026, 10:03:04] Yo → Nora_Olivas: Si, ahorita le escribo
+[29/05/2026, 10:03:11] Yo → Hanani_Herrera: Hola nanis
+[29/05/2026, 10:03:14] Yo → Hanani_Herrera: Buenos días
+[29/05/2026, 10:03:25] Yo → Hanani_Herrera: Mi mamá no va a poder pasar por ti, iría yo
+[29/05/2026, 10:03:47] Yo → Hanani_Herrera: Voy a ir a Jojutla y de allí te puedo recoger? Sería como a las 11:30 más o menos
+[29/05/2026, 10:04:01] Yo → Adyoselin_La_Coste_a: Hola vecina, buenos días
+[29/05/2026, 10:04:06] Yo → Adyoselin_La_Coste_a: Hoy tienes servicio?
+[29/05/2026, 10:06:17] Yo → Nora_Olivas: [Archivo adjunto]
+[29/05/2026, 10:06:25] Yo → Nora_Olivas: La hizo la IA
+[29/05/2026, 10:07:55] Yo → Adyoselin_La_Coste_a: Hasta en la tarde? A qué hora? Quería que me hicieras unos rizos super rápidos 😅
+[29/05/2026, 10:08:20] Yo → Adyoselin_La_Coste_a: Nada más como para que se vea volumen en el cabello
+[29/05/2026, 10:09:16] Yo → Adyoselin_La_Coste_a: [Archivo adjunto]
+[29/05/2026, 10:09:18] Yo → Adyoselin_La_Coste_a: Algo así
+[29/05/2026, 10:09:30] Yo → Nora_Olivas: Jaja gracias ñu
+[29/05/2026, 10:09:33] Yo → Nora_Olivas: Me apuro
+[29/05/2026, 10:10:25] Yo → Tamales_Nejo: Hoy vendiste?
+[29/05/2026, 10:11:29] Yo → Tamales_Nejo: 2 tacos de milanesa y 1 taco de huevo duro por favor
+[29/05/2026, 10:11:41] Yo → Tamales_Nejo: Te pago con $100
+[29/05/2026, 10:18:27] Yo → Adyoselin_La_Coste_a: Me avisas vecina? Ojalá pueda ser como a la 1
+[29/05/2026, 10:18:54] Yo → Hanani_Herrera: No creo, lo intentaré
+[29/05/2026, 10:19:09] Yo → Hanani_Herrera: Porque tengo que preparar la carne y tener todo listo, pasa algo?
+[29/05/2026, 10:19:11] Yo → Hanani_Herrera: Estás bien?
+[29/05/2026, 10:23:35] Yo → Hanani_Herrera: Vale
+[29/05/2026, 10:23:37] Yo → Hanani_Herrera: Me avisas
+[29/05/2026, 10:45:22] Yo → Gersom: [Archivo adjunto]
+[29/05/2026, 10:57:42] Yo → Gersom: Gracias
+[29/05/2026, 10:57:53] Yo → Nora_Olivas: Gracias mamá, ando en Jojutla
+[29/05/2026, 10:58:02] Yo → Hanani_Herrera: Va a ir mi mamá por ti
+[29/05/2026, 11:37:05] Yo → Gersom: Ok
+[29/05/2026, 11:38:02] Yo → Yosse: No, porque ya barrimos, te digo que hoy se ponen las mesas, entonces ya se barrio y regó ahorita
+[29/05/2026, 11:38:09] Yo → Nora_Olivas: Hola mamá
+[29/05/2026, 11:38:31] Yo → Nora_Olivas: A las 12 va el del pan a entregarlo
+[29/05/2026, 11:38:39] Yo → Nora_Olivas: Crees llegar a la casa a esa hora?
+[29/05/2026, 12:26:04] Yo → Irene_Quintana_Vecina: Irene, ya es súper tarde
+[29/05/2026, 12:51:49] Yo → Karem: Aaah ok ok, entonces mañana grabamos el vídeo
+[29/05/2026, 12:52:15] Yo → Hanani_Herrera: Nanis, esa imagen tiene mal el número de teléfono
+[29/05/2026, 12:52:20] Yo → Hanani_Herrera: La corregí
+[29/05/2026, 12:52:30] Yo → Hanani_Herrera: Recuerdo que te la había enviado pero la busco de nuevo
+[29/05/2026, 12:53:47] Yo → Adyoselin_La_Coste_a: Va a hacer mañana vecina
+[29/05/2026, 12:53:52] Yo → Adyoselin_La_Coste_a: Es lo que estoy viendo
+[29/05/2026, 12:54:01] Yo → Adyoselin_La_Coste_a: Hoy no se pudo hacer
+[29/05/2026, 12:54:07] Yo → Adyoselin_La_Coste_a: Mañana tienes tiempo?
+[29/05/2026, 12:54:18] Yo → Adyoselin_La_Coste_a: Hoy puedo ir a la depilada nada más
+[29/05/2026, 12:54:22] Yo → Adyoselin_La_Coste_a: Mañana me ayudas a los rizos
+[29/05/2026, 12:56:02] Yo → Hanani_Herrera: [Archivo adjunto]
+[29/05/2026, 12:57:07] Yo → Hanani_Herrera: [Archivo adjunto]
+[29/05/2026, 12:57:07] Yo → Dorantas: [Archivo adjunto]
+[29/05/2026, 13:00:35] Yo → Adyoselin_La_Coste_a: Vale
+[29/05/2026, 13:15:18] Yo → Hanani_Herrera: Ya te hicieron el pedido?
+[29/05/2026, 13:15:30] Yo → Karem: Ok amiga
+[29/05/2026, 13:15:36] Yo → Karem: Te vienes a las 2?
+[29/05/2026, 13:24:51] Yo → Tianguis_tlatenchi: [Archivo adjunto]
+[29/05/2026, 13:24:59] Yo → grupo_Santa_Maria____: [Archivo adjunto]
+[29/05/2026, 13:29:13] Yo → Karem: Me dice mi hermana que ella puede llegar hasta las 3
+[29/05/2026, 13:29:19] Yo → Karem: Porque va a vender a los bazares
+[29/05/2026, 13:30:21] Yo → Karem: Tu vente a la hora que quieras, que me encanta tu compañía 💕
+[29/05/2026, 13:31:51] Yo → Karem: Si, porfavor
+[29/05/2026, 15:58:00] Yo → Hanani_Herrera: Con queso? Con todo?
+[29/05/2026, 17:08:57] Yo → Romel_Hernandez_Jardinero: [Archivo adjunto]
+[29/05/2026, 17:09:05] Yo → Romel_Hernandez_Jardinero: Ya están
+[29/05/2026, 20:15:44] Yo → Hanani_Herrera: Ok ok
+[29/05/2026, 20:15:46] Yo → Hanani_Herrera: Sip
+[29/05/2026, 20:15:49] Yo → Hanani_Herrera: Con todo?
+[29/05/2026, 20:28:42] Yo → V_ctor_Fisioterapeuta: Jajajaja amigo, realmente me encantaría hacer esto por ti! Te la enviaré por Pullman 😂
+[29/05/2026, 20:29:03] Yo → Hanani_Herrera: Pregúntales si quieren BBQ porfis
+[29/05/2026, 20:29:07] Yo → Hanani_Herrera: Por qué es opcional
+[29/05/2026, 20:38:22] Yo → Hanani_Herrera: Y aguafresca querran?
+[29/05/2026, 20:56:56] Yo → Hanani_Herrera: [Archivo adjunto]
+[29/05/2026, 20:56:59] Yo → Hanani_Herrera: Va Gersom
+[30/05/2026, 09:45:48] Yo → status: Sábado de relajación 😌 ven por tu hamburguesa 🍔 y disfruta tu día ✨
+[30/05/2026, 09:47:23] Yo → status: Sábado de relajación 😌 come una 🍔 y disfruta de tu día ✨
+[30/05/2026, 09:57:31] Yo → Irene_Quintana_Vecina: Hola Irene, si vente a barrer y regar por favor
+[30/05/2026, 09:59:59] Yo → Irene_Quintana_Vecina: Sale

@@ -246,3 +246,5 @@ Las 2 papas 30 aparte .
 [23/05/2026, 21:52:41] Dorantas: Te estás comunicando fuera del horario de servicio, con gusto te atenderemos dentro de nuestro horario de atención.
 [24/05/2026, 02:19:24] Yo: Manantiales 3
 [24/05/2026, 02:19:49] Yo: Casa 18 de las pizzas
+[29/05/2026, 12:57:07] Yo: [Archivo adjunto]
+[29/05/2026, 12:57:08] Dorantas: Te estás comunicando fuera del horario de servicio, con gusto te atenderemos dentro de nuestro horario de atención.
