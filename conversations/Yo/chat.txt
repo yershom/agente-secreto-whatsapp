@@ -961,3 +961,11 @@ Realiza tu pedido con anticipación porque se acaban 😉
 [30/05/2026, 09:47:23] Yo → status: Sábado de relajación 😌 come una 🍔 y disfruta de tu día ✨
 [30/05/2026, 09:57:31] Yo → Irene_Quintana_Vecina: Hola Irene, si vente a barrer y regar por favor
 [30/05/2026, 09:59:59] Yo → Irene_Quintana_Vecina: Sale
+[30/05/2026, 11:28:48] Yo → Gersom: Si
+[30/05/2026, 11:28:51] Yo → Gersom: A dónde?
+[30/05/2026, 11:28:53] Yo → Gersom: Me cambio
+[30/05/2026, 11:29:08] Yo → Gersom: Ok
+[30/05/2026, 11:29:15] Yo → Gersom: Pero ya no tengo dinero
+[30/05/2026, 11:29:44] Yo → Gersom: Creo que mejor comemos aquí
+[30/05/2026, 11:29:59] Yo → Gersom: Hay pollo con champiñones
+[30/05/2026, 11:30:15] Yo → Gersom: Hay huevo
