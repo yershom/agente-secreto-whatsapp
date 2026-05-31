@@ -770,3 +770,4 @@ Paga con cambio
 [29/05/2026, 10:11:29] Yo: 2 tacos de milanesa y 1 taco de huevo duro por favor
 [29/05/2026, 10:11:41] Yo: Te pago con $100
 [29/05/2026, 10:11:54] Tamales Nejo: Ok
+[31/05/2026, 08:34:29] Tamales Nejo: [Archivo adjunto]
