@@ -3,6 +3,20 @@ N:;Alma Delia CPM;;;
 FN:Alma Delia CPM
 TEL;type=CELL;waid=5217341088915:+52 1 734 108 8915
 END:VCARD
+Es que ahorita anda diciendo unas frases muy feas que escuchó en una caricatura y en un programa
+[28/02/2026, 14:13:45] Karina: [Archivo adjunto]
+[28/02/2026, 14:15:07] Karina: [Archivo adjunto]
+[28/02/2026, 14:15:08] Yo: Hay si amiga! Claro que si a la videollamada
+[28/02/2026, 14:15:51] Yo: A ok, le pido los teléfonos a Gersom y te los paso amiga
+[28/02/2026, 14:16:48] Karina: [Archivo adjunto]
+[28/02/2026, 14:17:08] Karina: [Archivo adjunto]
+[28/02/2026, 14:18:24] Karina: Pero ahora tú cuéntame también
+[28/02/2026, 14:34:47] Yo: Si, si, yo te apoyo
+[28/02/2026, 14:35:08] Yo: Necesito a Leah jeje ahorita no está, hoy en la noche yo creo amiga
+[28/02/2026, 14:38:09] Karina: Gracias 🫶
+[28/02/2026, 14:38:38] Karina: Sí tú me avisas y ya hacemos la videollamada para que se saluden 😊
+[28/02/2026, 14:39:46] Yo: [Archivo adjunto]
+[28/02/2026, 14:40:01] Yo: Si amiga, te aviso en un ratito
 [28/02/2026, 20:02:48] Karina: Hola Eli, cómo han estado?
 [28/02/2026, 20:03:52] Yo: Hola amiga
 [28/02/2026, 20:04:28] Yo: Más o menos, pero cuéntame tú, cómo ha estado? Me urge más saber de ti y tu familia
@@ -28,10 +42,27 @@ END:VCARD
 [28/02/2026, 20:38:38] Karina: Sí tú me avisas y ya hacemos la videollamada para que se saluden 😊
 [28/02/2026, 20:39:46] Yo: [Archivo adjunto]
 [28/02/2026, 20:40:01] Yo: Si amiga, te aviso en un ratito
+[01/03/2026, 11:19:21] Yo: BEGIN:VCARD
+[01/03/2026, 11:19:39] Yo: Hola amiga, este el teléfono de la señora de la caja popular que podría apoyarles
+[01/03/2026, 11:20:00] Yo: Diganle que son amigos de Gersom Miranda
+[01/03/2026, 11:20:44] Yo: Perdón que ayer ya no pude escribirte o marcarte, llegó mi hermana a verme anoche
+[01/03/2026, 15:28:17] Karina: Hola, muchas gracias!
+[01/03/2026, 15:28:54] Karina: Se lo envío a mi mamá para que se comunique
+[01/03/2026, 15:29:07] Karina: Cómo está tu hermana?
 [01/03/2026, 17:19:21] Yo: BEGIN:VCARD
 [01/03/2026, 17:19:39] Yo: Hola amiga, este el teléfono de la señora de la caja popular que podría apoyarles
 [01/03/2026, 17:20:00] Yo: Diganle que son amigos de Gersom Miranda
 [01/03/2026, 17:20:44] Yo: Perdón que ayer ya no pude escribirte o marcarte, llegó mi hermana a verme anoche
+[01/03/2026, 18:29:28] Yo: Está estable por lo pronto amiga
+[01/03/2026, 18:29:47] Yo: Estás ocupada? Aquí ando con Leah
+[01/03/2026, 18:54:12] Karina: Hola
+[01/03/2026, 18:54:21] Karina: Apenas viendo tu mensaje
+[01/03/2026, 18:54:30] Karina: Estaba disponibles?
+[01/03/2026, 19:11:47] Yo: Hola amiga, salimos 😅🥹
+[01/03/2026, 19:11:52] Yo: Regresando te aviso
+[01/03/2026, 19:22:40] Karina: Hola, sí me mandas mensaje 😊
+[01/03/2026, 19:22:44] Karina: Con cuidado
+[01/03/2026, 19:36:12] Yo: Si amiga 😀💕
 [01/03/2026, 21:28:17] Karina: Hola, muchas gracias!
 [01/03/2026, 21:28:54] Karina: Se lo envío a mi mamá para que se comunique
 [01/03/2026, 21:29:07] Karina: Cómo está tu hermana?
@@ -346,3 +377,73 @@ END:VCARD
 [18/05/2026, 05:19:36] Yo: Más o menos, pero cuéntame tú, cómo ha estado? Me urge más saber de ti y tu familia
 [18/05/2026, 05:19:36] Yo: Hola amiga
 [18/05/2026, 05:19:36] Karina: Hola Eli, cómo han estado?
+[25/05/2026, 10:03:52] Yo: Hola amiga
+[25/05/2026, 10:03:55] Yo: Cómo estás?
+[25/05/2026, 10:04:23] Yo: Perdona que no te haya escrito, han pasado demasiadas cosas, demasiadas! Para hablar por teléfono o videollamada definitivamente
+[25/05/2026, 10:04:33] Yo: No lo vas a creer, tanto....
+[25/05/2026, 10:10:36] Karina: Hola a mí me ganaste el mensaje porque te iba escribir también. Ayer lo iba a hacer y se me fue el día.
+[25/05/2026, 10:11:39] Yo: Jajaja estamos conectadas
+[25/05/2026, 10:11:46] Yo: Cómo estás pequeña?
+[25/05/2026, 10:13:40] Karina: Quietando el hecho de que llevo un mes con malestar de la garganta y gripa que va y viene…todo bien
+[25/05/2026, 10:13:54] Karina: Bueno y ahorita batallando con mi Osvan demandante
+[25/05/2026, 10:14:33] Karina: Me gustaría hablar contigo cuando Osvan tome siesta pero a veces no toma. Así que tengo que idearme mejor para que hablemos aunque esté despierto
+[25/05/2026, 12:20:30] Yo: Hay amiga, es mucho tiempo enferma. Está feo el clima por allá?
+[25/05/2026, 12:21:03] Yo: 😅 podemos hacemos videollamada y que participe también jajaja
+[25/05/2026, 13:01:27] Karina: Fuimos a la playa y sí estaba medio fría el agua. Osvan se resfrío esa misma noche y yo empecé al siguiente día. Él estuvo como dos semanas con la gripa y tos, pero yo ya voy para tres semanas más.
+[25/05/2026, 13:02:57] Karina: Sí ya le comenté de la llamada. Le dije que se tiene que portar bien porque si no, no vas a querer hablar.
+[25/05/2026, 13:04:14] Karina: Y cuando hablo con alguien más, lo repite una y otra vez para llamar la atención
+[25/05/2026, 13:04:42] Karina: [Archivo adjunto]
+[25/05/2026, 13:04:53] Karina: [Archivo adjunto]
+[25/05/2026, 14:22:54] Yo: Jajajaja tu pequeño
+[25/05/2026, 14:22:59] Yo: Es un amor 😍
+[25/05/2026, 14:23:38] Yo: Entonces desde allí comenzó todo 😅 hay amiga, es que se hace círculo vicioso con los niños
+[25/05/2026, 14:47:31] Karina: Sí pero cada caricatura que le cambio hay algo que dicen malo. Ahorita está en esa etapa en la que se le hace gracioso repetir todo lo que piensa que es grosería. Ya te contaré cada cosa, si es que tú misma no lo escuchas
+[25/05/2026, 14:50:00] Karina: [Archivo adjunto]
+[25/05/2026, 14:50:49] Karina: [Archivo adjunto]
+[25/05/2026, 14:51:58] Karina: [Archivo adjunto]
+[25/05/2026, 14:53:07] Karina: [Archivo adjunto]
+[25/05/2026, 14:54:47] Karina: Y eso que estoy controlando lo que ve, pero cuando te das cuenta ya lo dijeron 🤮. Bueno ya me desahogué jeje
+[25/05/2026, 14:55:06] Yo: Me acuerdo de esas etapas, pero creo que ellos se dan cuenta de lo que te altera y más lo hacen, amiga
+[25/05/2026, 14:55:37] Karina: Si te pasó también?con cosas así?
+[25/05/2026, 14:55:59] Yo: Si te ve reaccionar tranquila y quizá, seguirle el juego y modificarlo, quizá el decida cambiarlo
+[25/05/2026, 14:56:08] Karina: De repente lloró porque me preguntó que hice mal 😣
+[25/05/2026, 14:56:10] Yo: Si, también 😅
+[25/05/2026, 14:56:46] Karina: Es que sí lo hace y se ríe, y hasta me dice atrápame si puedes
+[25/05/2026, 14:56:50] Karina: Jaja
+[25/05/2026, 14:57:22] Karina: A veces me siento superada jiji
+[25/05/2026, 14:57:57] Karina: Y Ozz se pone igual, le da para abajo cuando escucha a Osvan así. Es que no recuerdo que nos haya pasado con los hermanos o sobrinos
+[25/05/2026, 14:58:04] Karina: No es lo mismo obviamente
+[25/05/2026, 14:58:44] Yo: Pero le seguía el juego y le decía: hay, ya me mataste, me tendrás que revivir con besitos ahora, para que pueda hacer x cosa, cocinar sus huevitos, jugar, darle pecho.... Y aunque el juego empezaba de: te voy a matar! Terminaba en besitos y cosquillas
+[25/05/2026, 15:00:35] Karina: [Archivo adjunto]
+[25/05/2026, 15:01:00] Yo: Igual cuando me mordía, también lo mordía 😅😂 de manera que no le hiciera tanto daño pero si le doliera lo suficiente para que supiera cómo se siente, cosas así, amiga... Cada niño es diferente, ya lo sabemos, ahora sí que tú conoces más a tu peque
+[25/05/2026, 15:01:16] Karina: [Archivo adjunto]
+[25/05/2026, 15:01:39] Yo: Si, pasa con los niños (varones) sobre todo. Con Leah no me pasó
+[25/05/2026, 15:02:22] Karina: [Archivo adjunto]
+[25/05/2026, 15:03:01] Karina: [Archivo adjunto]
+[25/05/2026, 15:03:23] Yo: Si, exactamente, demandan mucha atención, y saben que cosas nos hacen "reaccionar"
+[25/05/2026, 15:04:07] Karina: [Archivo adjunto]
+[25/05/2026, 15:05:55] Yo: Aprende más por imitación... Cada que se te caiga algo, di en voz fuerte, que te escuche, "fue un accidente, voy a remediarlo" o alguna frase de ese tipo, que te escuche a ti muchas veces decirlo, te terminará imitando, es tu mayor fan
+[25/05/2026, 15:07:04] Karina: [Archivo adjunto]
+[25/05/2026, 15:07:20] Yo: Yo decía mucho la de "ups" ahora toca limpiar, y me reía 😂
+[25/05/2026, 15:07:42] Karina: [Archivo adjunto]
+[25/05/2026, 15:08:03] Yo: Así es, no podemos pedirle que hagan algo que nosotras no hacemos para nosotras mismas
+[25/05/2026, 15:08:26] Karina: Y todo el tiempo intento cuidar eso, pero se me sale jaja
+[25/05/2026, 15:08:47] Yo: Jajaja uno termina aprendiendo más al criar hijos
+[25/05/2026, 15:08:58] Yo: Crecemos con ellos
+[25/05/2026, 15:10:06] Karina: Sí totalmente, intento entenderlo a él siempre, pero no nos damos cuenta la forma en la que actuamos con nosotros mismos.
+[25/05/2026, 15:10:42] Yo: Si, tu y yo traemos una crianza muy severa con nosotras mismas, y eso se nota, amiga... Nos hacemos conscientes al maternar
+[25/05/2026, 15:11:13] Yo: Yo a veces sigo repitiendo patrones de crianza 😑🥹
+[25/05/2026, 15:12:58] Karina: Pero siempre intentando mejorar🥺. Hasta mi mamá siempre me dice que recordemos que todo lo que no nos haya gustado de cómo nos trataron, que intentemos siempre mejorarlo.
+[25/05/2026, 15:15:22] Karina: [Archivo adjunto]
+[25/05/2026, 15:17:04] Karina: [Archivo adjunto]
+[25/05/2026, 15:18:30] Karina: [Archivo adjunto]
+[25/05/2026, 15:20:39] Karina: Pero ya que te conté todo esto, ahora dime cuando puedas hablar para que tú me platiques
+[25/05/2026, 16:54:55] Yo: Perdón amiga, estaba dando de comer a mis peques
+[25/05/2026, 16:56:58] Yo: Si, solo hay que tener cuidado de no irnos a los extremos. Por ejemplo, que si de niños nunca tuvimos juguetes y después de padres, les llenamos de juguetes, compensando nuestros traumas
+[25/05/2026, 16:57:44] Yo: Ser padres es la tarea más difícil amiga, de verdad que si, te entiendo bien
+[25/05/2026, 16:57:57] Yo: Qué te parece si mañana hacemos videollamada? Hoy no me daría tiempo
+[25/05/2026, 16:58:14] Yo: Pero mañana por la mañana, no se qué horario se te facilite?
+[25/05/2026, 17:09:39] Karina: Sí me perece bien
+[25/05/2026, 17:11:12] Karina: Ozz entra mañana a las 7 am así que yo estoy despierta desde las 5 am. De ahí tengo toda la mañana disponible con  Osvancito
+[25/05/2026, 17:11:48] Karina: Podría ser como a las 8, 9, 10 am etc
+[25/05/2026, 17:12:28] Karina: Sí eso de los juguetes es lo que le digo a Ozz porque quiere darle juguete a cada rato

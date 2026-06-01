@@ -7,6 +7,15 @@ X-WA-BIZ-DESCRIPTION:Especialista en Colo Proctología , Cirugía General (Gastr
 TEL;type=CELL;type=VOICE;waid=5217771115469:+52 777 111 5469
 END:VCARD
 gersom.miranda@gmail.com
+[27/03/2026, 11:09:56] Yo: [Archivo adjunto]
+[27/03/2026, 11:11:30] Yo: [Archivo adjunto]
+[27/03/2026, 11:12:36] Yo: Constancia Situacion Fiscal GSML.pdf
+[27/03/2026, 11:12:46] Yo: Facturar a régimen de asalariado
+[27/03/2026, 11:13:07] Yo: Correo:
+[27/03/2026, 13:27:46] Asistente dr. Ortíz: BEGIN:VCARD
+[27/03/2026, 13:28:42] Asistente dr. Ortíz: Hola buen día, disculpe la molestia, me apoya reenviando la información al contacto que le acabo de enviar, para que puedan realizar su factura
+[27/03/2026, 13:28:48] Asistente dr. Ortíz: Por favor
+[27/03/2026, 14:57:46] Yo: Si, gracias
 [27/03/2026, 17:09:56] Yo: [Archivo adjunto]
 [27/03/2026, 17:11:30] Yo: [Archivo adjunto]
 [27/03/2026, 17:12:36] Yo: Constancia Situacion Fiscal GSML.pdf
