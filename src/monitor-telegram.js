@@ -6,8 +6,15 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CONVERSATIONS_DIR = path.join(__dirname, '..', 'conversations');
 
-const DEFAULT_CHAT_DIRS = ['Psic_logo_Aras', 'Candy'];
-const KEYWORD_RE = /Psic|Candy|Yo/i;
+const DEFAULT_CHAT_DIRS = [
+  'Psic_logo_Aras',
+  'Candy',
+  'Ibrahim_Gatito_WS',
+  'Karem',
+  'Nora_Olivas',
+  '_52_734_141_1968',
+];
+const KEYWORD_RE = /.+/;
 const POLL_MS = Number(process.env.MONITOR_POLL_MS || 2000);
 
 /** @type {Map<string, { position: number, partialLine: string }>} */
