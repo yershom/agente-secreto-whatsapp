@@ -208,6 +208,17 @@ export async function startWhatsApp() {
       // Limpiar nombre de carpeta
       folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 
+      // Mensajes de sistema de llamadas (contienen duración al finalizar)
+      if (msg.type === 'call_log') {
+        const callType = msg.body?.toLowerCase().includes('video') ? 'videollamada' : 'llamada';
+        const direction = msg.fromMe ? 'saliente' : 'entrante';
+        const duration = msg.body || 'duración desconocida';
+        const callText = `[${callType.toUpperCase()} ${direction} - ${duration}]`;
+        console.log(`📞 Log de llamada en ${folderName}: ${callText}`);
+        saveMessage(folderName, 'LLAMADA', callText, msg.timestamp);
+        return;
+      }
+
       const text = msg.body || '[Archivo adjunto]';
       const type = isGroup ? '👥' : '💬';
 
@@ -240,6 +251,27 @@ export async function startWhatsApp() {
       }
     } catch (e) {
       console.error('Error procesando mensaje:', e.message);
+    }
+  });
+
+  client.on('call', async (call) => {
+    try {
+      const callType = call.isVideo ? 'videollamada' : 'llamada de voz';
+      const direction = call.fromMe ? 'saliente' : 'entrante';
+      const contactId = call.from || call.to || 'desconocido';
+
+      let folderName = contactId.split('@')[0];
+      try {
+        const contact = await client.getContactById(contactId);
+        folderName = contact.name || folderName;
+      } catch (_) {}
+      folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
+
+      const label = `[${callType.toUpperCase()} ${direction}]`;
+      console.log(`📞 ${label} con ${folderName}`);
+      saveMessage(folderName, 'LLAMADA', label, call.timestamp);
+    } catch (e) {
+      console.error('Error procesando llamada:', e.message);
     }
   });
 
