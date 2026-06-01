@@ -10,9 +10,12 @@ conversations/**/attachments/
 !conversations/Karem/attachments/
 !conversation/Ibrahim_Gatito_WS/attachments/
 conversations/.history_downloaded
+conversations/photos/
 auth_info/
 .wwebjs_cache/
 .vscode/
 .idea/
 .claude/worktrees/
 log/
+headings.txt
+intelligence/
