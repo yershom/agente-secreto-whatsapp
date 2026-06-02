@@ -1218,3 +1218,4 @@ END:VCARD
 [30/05/2026, 09:59:59] Yo: Sale
 [01/06/2026, 08:47:50] Irene Quintana Vecina: Buenos días licenciada ya puedo poner mi mangera
 [01/06/2026, 08:49:04] LLAMADA: [LLAMADA DE VOZ entrante]
+[01/06/2026, 20:00:01] LLAMADA: [LLAMADA DE VOZ entrante]
