@@ -173,3 +173,4 @@ O comunicarse con mis asistentes de lunes a viernes de 9:00 am a 20:00 y sábado
 [18/05/2026, 05:19:20] 67396761055481: Gracias por comunicarte con Dr. Ortiz Amador Coloproctologia , por el momento me encuentro en consulta o procedimiento 
 [18/05/2026, 05:19:20] 67396761055481: Gracias por comunicarte con Dr. Ortiz Amador Coloproctologia y cirugía general , cuento con consultorio en cuernavaca y cuautla. Por favor, haznos saber cómo podemos ayudarte.
 [18/05/2026, 05:19:20] Yo: Hola, le envío los datos para realizar mi factura porfavor
+[14/06/2026, 17:09:38] Yo: 67396761055481@lid

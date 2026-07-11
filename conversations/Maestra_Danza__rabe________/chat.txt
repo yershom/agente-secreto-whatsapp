@@ -50,6 +50,7 @@ Cuida de ti en todo momento y consiéntete 💖
 [05/05/2026, 19:48:18] Yo: Estoy en la gasolinera
 [05/05/2026, 19:48:22] Yo: Dónde están los baños
 [05/05/2026, 19:48:36] Yo: Estoy en el carro
+[05/05/2026, 19:48:39] Yo: [Archivo adjunto]
 [05/05/2026, 22:09:23] Yo: Hola hola
 [05/05/2026, 22:09:34] Yo: Me he perdido muy feo
 [05/05/2026, 22:09:40] Yo: Pero hoy ya voy a su clase por fin
@@ -1071,3 +1072,4 @@ Cuida de ti en todo momento y consiéntete 💖
 [19/05/2026, 04:53:44] Yo: 😖
 [19/05/2026, 04:55:23] Yo: Jajaja no era ese
 [19/05/2026, 04:55:58] Yo: 😋 era este emoji
+[08/07/2026, 11:20:04] Maestra Danza Árabe 🤸🏻‍♀️: [Archivo adjunto]

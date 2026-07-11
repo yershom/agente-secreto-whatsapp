@@ -138,6 +138,7 @@ Espero no ser impertinente, le quería preguntar si ya están velando, para pode
 [24/04/2026, 15:48:19] Elvira .H .N: Con todo
 [24/04/2026, 15:48:19] Elvira .H .N: Hola buenas tardes quiero una de res por fis
 [24/04/2026, 15:48:35] Elvira .H .N: Mire me mandaron a mi esté mensaje
+[24/04/2026, 15:48:53] Elvira .H .N: [Archivo adjunto]
 [24/04/2026, 21:48:07] Elvira .H .N: BEGIN:VCARD
 [24/04/2026, 21:48:19] Elvira .H .N: Con todo
 [24/04/2026, 21:48:19] Elvira .H .N: Hola buenas tardes quiero una de res por fis
@@ -177,6 +178,8 @@ Espero no ser impertinente, le quería preguntar si ya están velando, para pode
 [08/05/2026, 17:54:50] Yo: BEGIN:VCARD
 [08/05/2026, 18:30:38] Elvira .H .N: De verdad le agradezco mucho
 [09/05/2026, 18:15:02] Elvira .H .N: [Archivo adjunto]
+[09/05/2026, 18:15:40] Elvira .H .N: [Archivo adjunto]
+[09/05/2026, 18:16:42] Elvira .H .N: [Archivo adjunto]
 [09/05/2026, 19:06:05] Elvira .H .N: Usted me avisa cuando ya estén
 [09/05/2026, 19:06:34] Elvira .H .N: Para ir por el pedido
 [10/05/2026, 00:15:02] Elvira .H .N: [Archivo adjunto]
@@ -831,3 +834,6 @@ Espero no ser impertinente, le quería preguntar si ya están velando, para pode
 [27/05/2026, 12:39:37] Elvira .H .N: Si le voy a decir que vaya anoche le recordé que no había ido
 [27/05/2026, 12:41:46] Elvira .H .N: Si
 [27/05/2026, 12:48:21] Yo: Gracias
+[04/07/2026, 11:23:32] Elvira .H .N: [Archivo adjunto]
+[04/07/2026, 11:29:27] Elvira .H .N: [Archivo adjunto]
+[06/07/2026, 21:31:36] Yo: [Archivo adjunto]

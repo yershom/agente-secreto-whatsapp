@@ -5744,8 +5744,6 @@ $110,000 pagando a 24 meses, dando un enganche de $15,000  cada lote, son terren
 [25/05/2026, 18:55:17] Karem: Ok
 [25/05/2026, 18:55:21] Yo: [Archivo adjunto]
 [25/05/2026, 18:55:22] Yo: [Archivo adjunto]
-[25/05/2026, 18:55:22] Yo: [Archivo adjunto]
-[25/05/2026, 18:55:22] Yo: [Archivo adjunto]
 [25/05/2026, 18:55:24] Yo: [Archivo adjunto]
 [25/05/2026, 18:56:03] Karem: Igual es a 24 meses con enganche?
 [25/05/2026, 18:56:03] Yo: [Archivo adjunto]
@@ -5789,24 +5787,13 @@ $110,000 pagando a 24 meses, dando un enganche de $15,000  cada lote, son terren
 [27/05/2026, 16:16:39] Yo: [Archivo adjunto]
 [27/05/2026, 16:16:40] Yo: [Archivo adjunto]
 [27/05/2026, 16:16:41] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:41] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:41] Yo: [Archivo adjunto]
 [27/05/2026, 16:16:42] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:42] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:42] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:43] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:43] Yo: [Archivo adjunto]
 [27/05/2026, 16:16:43] Yo: [Archivo adjunto]
 [27/05/2026, 16:16:44] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:44] Yo: [Archivo adjunto]
 [27/05/2026, 16:16:45] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:45] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:45] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:46] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:46] Yo: [Archivo adjunto]
-[27/05/2026, 16:16:46] Yo: [Archivo adjunto]
 [27/05/2026, 16:16:46] Yo: [Archivo adjunto]
 [27/05/2026, 16:24:09] Karem: Desgraciado perro infeliz, atravesé a decirte que: eres una mujer hambrienta de atención! Imbécil, como se atreve, escoria de la vida!
+[27/05/2026, 16:24:09] Karem: Desgraciado perro infeliz, cojonudo al decirte que: eres una mujer hambrienta de atención! Imbécil, como se atreve, escoria de la vida!
 [27/05/2026, 16:24:17] Yo: Sabes que creo.... Que estaba muy borracho
 [27/05/2026, 16:24:29] Yo: Hoy es un día festivo en Turquía
 [27/05/2026, 16:24:40] Yo: No ha podido evitar escribirme
@@ -5861,6 +5848,7 @@ $110,000 pagando a 24 meses, dando un enganche de $15,000  cada lote, son terren
 [27/05/2026, 16:47:59] Karem: Juventud amiga, es inmadurez
 [27/05/2026, 16:48:16] Yo: Fíjate que Hugo tenía su misma edad, ahora que lo pienso
 [27/05/2026, 16:48:21] Yo: Juego tenía 29 pero yo 20
+[27/05/2026, 16:48:21] Yo: Hugo tenía 29 pero yo 20
 [27/05/2026, 16:48:28] Yo: Por eso me hizo como quiso
 [27/05/2026, 16:48:43] Karem: Pero aquí, fue al revés
 [27/05/2026, 16:48:45] Yo: Ahora Aras tiene 29 pero yo 38
@@ -5874,8 +5862,10 @@ $110,000 pagando a 24 meses, dando un enganche de $15,000  cada lote, son terren
 [27/05/2026, 16:50:02] Karem: Lo importante ya no es clavarse, recuerda que ya no hay seriedad, no hay compromiso
 [27/05/2026, 16:50:08] Karem: Lo comentamos ayee
 [27/05/2026, 16:50:11] Karem: Ayee
+[27/05/2026, 16:50:11] Karem: Ayer
 [27/05/2026, 16:50:27] Karem: Comprobadisimo
 [27/05/2026, 16:51:30] Karem: Fíjate, desde ayer que me despedí del leoncito hasta estos momentos, no lee mis mensajes ni contesta leoncito.
+[27/05/2026, 16:51:30] Karem: Fíjate, desde ayer que me despedí del leoncito hasta estos momentos, no lee mis mensajes ni contesta.
 [27/05/2026, 16:51:36] Karem: Tu crees que me afecta
 [27/05/2026, 16:51:39] Karem: Naaaaaaaaa
 [27/05/2026, 16:52:03] Karem: Y ni creas que le pregunté cosas íntimas
@@ -5942,6 +5932,7 @@ $110,000 pagando a 24 meses, dando un enganche de $15,000  cada lote, son terren
 [28/05/2026, 12:46:05] Yo: Entonces, como a las 1:30 te queda venir?
 [28/05/2026, 12:46:25] Karem: Sip
 [28/05/2026, 12:47:06] Yo: Gracias amoga
+[28/05/2026, 12:47:06] Yo: Gracias amiga
 [29/05/2026, 12:35:51] Karem: Amigaaaaa
 [29/05/2026, 12:35:59] Karem: Ya te quede otra vez mal
 [29/05/2026, 12:36:30] Karem: La hermanita de luna (la más chiquita) se puso mal de salud
@@ -5967,6 +5958,7 @@ $110,000 pagando a 24 meses, dando un enganche de $15,000  cada lote, son terren
 [30/05/2026, 15:33:37] Karem: "Cada hamburguesa, una obra maestra”
 [30/05/2026, 15:34:19] Karem: “Donde cada mordida cuenta una historia”
 [30/05/2026, 15:37:38] Karem: “Cada hamburguesa, una obra maestra”
+[30/05/2026, 15:37:38] Karem: [Archivo adjunto]
 [30/05/2026, 15:38:25] Karem: “Disfruta lo artesanal, disfruta lo real”
 [30/05/2026, 18:43:30] Karem: [Archivo adjunto]
 [30/05/2026, 18:51:43] Karem: Si me faltó de money, porfa me avisas
@@ -5984,3 +5976,36 @@ $110,000 pagando a 24 meses, dando un enganche de $15,000  cada lote, son terren
 [30/05/2026, 21:37:58] Karem: Excelente amiga
 [30/05/2026, 21:38:29] Karem: Si amiga, descansa, recuerda que te quiero mucho y deseo tu felicidad plena.
 [30/05/2026, 21:39:25] Karem: Tu felicidad es mi felicidad, siempre estaré para tí, nunca lo dudes, eres mi alma gemela y si tú estás bien, yo también lo estoy. Tqm 🫂
+[01/06/2026, 13:01:20] Karem: Hola amiga como estás?
+[01/06/2026, 13:11:17] Yo: Hola amiga, ese día me quedé dormida, ya no vi tu mensaje. Muchas gracias. 
+Te cuento que hoy viene mi mamá y mi suegra, para tener la reunión donde me pedirá perdón
+[01/06/2026, 13:11:56] Karem: A qué hora sera la reunión?
+[01/06/2026, 13:12:14] Karem: Y ayer si saliste de paseo con tu esposo?
+[01/06/2026, 14:34:50] Yo: Si amiga, si salí, fuimos a cuerna, a los bolos 🎳 y billar, me divertí mucho, nunca había jugado bolos
+[01/06/2026, 14:35:09] Yo: Billar ya tenía bastante tiempo que no jugaba, desde el tecno 😅
+[01/06/2026, 14:35:19] Yo: A las 3:30 pm
+[01/06/2026, 14:35:25] Yo: Ya casi va a hacer
+[01/06/2026, 14:35:32] Yo: Hay te contaré que tal estuvo más al ratito
+[01/06/2026, 18:26:28] Yo: Hola amiga
+[01/06/2026, 18:26:30] Yo: Cómo estás?
+[01/06/2026, 18:26:48] Yo: Mañana podemos almorzar e  ir a ver los terrenos ?
+[01/06/2026, 18:26:51] Karem: Bien amiga, vengo a clase de danza
+[01/06/2026, 18:27:19] Karem: Mañana es mi presentación de solo amiga 🙊
+[01/06/2026, 18:27:45] Karem: Ensayare por la mañana
+[01/06/2026, 18:28:06] Yo: Aaa ok ok
+[01/06/2026, 18:28:15] Yo: Hoy es clase de danza?
+[01/06/2026, 18:28:27] Yo: Pensé que era martes, miércoles y jueves
+[01/06/2026, 18:28:54] Karem: Solo por esta semana, la miss cambiará el jueves por hoy
+[01/06/2026, 18:29:02] Yo: Aaa ok ok
+[01/06/2026, 18:29:02] Karem: Publicó en el grupo
+[01/06/2026, 18:29:09] Yo: Ups, no leí jaua
+[01/06/2026, 18:29:24] Karem: Cómo te fue con tu suegra
+[01/06/2026, 18:29:26] Karem: ?
+[01/06/2026, 18:29:51] Yo: Pues, ella se disculpó pero no me gustó la forma en la que lo hizo
+[01/06/2026, 18:29:58] Yo: No sé, debo contarte
+[01/06/2026, 18:30:52] Karem: Ok
+[01/06/2026, 18:30:57] Karem: El miércoles amiga
+[01/06/2026, 18:31:11] Karem: Te puedo visitar
+[01/06/2026, 18:31:24] Karem: No daré clases
+[01/06/2026, 18:31:40] Yo: Siiii el miércoles almorzamos y vemos los terrenos con mi jefe
+[01/06/2026, 20:32:52] Karem: Ok

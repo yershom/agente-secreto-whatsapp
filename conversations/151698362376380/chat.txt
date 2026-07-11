@@ -5,6 +5,7 @@ Nora, hemos identificado una compra con tu tarjeta Inbursa 2410 por $129.00 en G
 ¿Realizaste esta operación?
 Compra con tarjeta Inbursa 2410 rechazada en CINEPOLIS APP T. Activa las Compras en linea y telefonicas en tu app Inbursa Movil.
 Compra con tarjeta Inbursa 2410 rechazada en APP TICKETS. Activa las Compras en linea y telefonicas en tu app Inbursa Movil.
+Compra con tarjeta Inbursa 2410 rechazada en Google DramaBox. Activa las Compras en linea y telefonicas en tu app Inbursa Movil.
 [06/05/2026, 10:27:09] 5215554478050: 🚨 *IMPORTANTE* 🚨
 [06/05/2026, 10:32:25] 5215554478050: *Compra declinada* 🚫
 [06/05/2026, 10:32:27] 5215554478050: *Compra declinada* 🚫
@@ -42,3 +43,4 @@ Compra con tarjeta Inbursa 2410 rechazada en APP TICKETS. Activa las Compras en 
 [29/05/2026, 09:39:01] 151698362376380: *Compra declinada* 🚫
 [31/05/2026, 11:03:20] 151698362376380: *Compra declinada* 🚫
 [31/05/2026, 11:03:22] 151698362376380: *Compra declinada* 🚫
+[02/07/2026, 09:10:23] 5215554478050: *Compra declinada* 🚫

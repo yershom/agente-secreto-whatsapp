@@ -281,6 +281,7 @@
 [16/05/2026, 22:40:21] Yo: Hola! Hoy estás vendiendo pizzas?
 [16/05/2026, 22:40:21] Yo: 23347475800197@lid
 [17/05/2026, 14:14:09] Gabriela Pizzas: 23347475800197@lid
+[17/05/2026, 14:14:11] Yo: 23347475800197@lid
 [17/05/2026, 18:28:45] Gabriela Pizzas: Ok
 [17/05/2026, 18:28:45] Yo: Si, se me olvidó, y ya había transferido
 [17/05/2026, 18:28:45] Gabriela Pizzas: Ensu anterior pedido igual le cobramos $280
