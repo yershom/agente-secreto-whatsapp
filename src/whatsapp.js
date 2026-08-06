@@ -20,28 +20,10 @@ async function downloadMediaWithTimeout(msg, timeoutMs = 30000) {
   ]);
 }
 
-async function loadAllMessages(client, chat) {
-  let hasMore = true;
-  let iterations = 0;
-  const MAX_ITERATIONS = 5000;
-  while (hasMore && iterations < MAX_ITERATIONS) {
-    hasMore = await client.pupPage.evaluate(async (chatId) => {
-      try {
-        const c = window.Store.Chat.get(chatId);
-        if (!c) return false;
-        const result = await c.loadEarlierMsgs();
-        return !!result;
-      } catch (e) {
-        return false;
-      }
-    }, chat.id._serialized);
-    if (hasMore) await new Promise(r => setTimeout(r, 300));
-    iterations++;
-  }
-}
-
-// getChats() mapea todos los chats de golpe: si uno solo no serializa, revienta todo.
-// Fallback: enumerar IDs desde el Store y cargar cada chat individualmente, saltando los que fallen.
+// getChats() hace Promise.all(chats.map(getChatModel)): si UN solo chat no serializa,
+// se rechaza todo con el error minificado "r". Fallback: enumerar IDs directamente de la
+// colección interna (WAWebCollections.Chat en wa-web.js 1.34.x) y cargar cada chat
+// individualmente con getChatById, saltando solo los que fallen.
 async function getChatsResilient(client) {
   try {
     return await client.getChats();
@@ -50,14 +32,15 @@ async function getChatsResilient(client) {
   }
 
   const ids = await client.pupPage.evaluate(() => {
+    // Accessor correcto en wa-web.js 1.34.x; window.Store.Chat como respaldo para versiones viejas
     try {
-      const store = window.Store.Chat;
-      const arr = typeof store.getModelsArray === 'function'
-        ? store.getModelsArray()
-        : (store.models || []);
-      return arr.map(c => c.id._serialized);
+      return window.require('WAWebCollections').Chat.getModelsArray().map(c => c.id._serialized);
     } catch (e) {
-      return [];
+      try {
+        return window.Store.Chat.getModelsArray().map(c => c.id._serialized);
+      } catch (e2) {
+        return [];
+      }
     }
   });
 
@@ -108,7 +91,7 @@ async function downloadHistoryOnce(client) {
 
       try {
         console.log(`  ⏳ [${i + 1}/${chats.length}] Cargando ${folderName}...`);
-        await loadAllMessages(client, chat);
+        // fetchMessages con límite alto hace el scroll-back completo internamente
         const messages = await chat.fetchMessages({ limit: 99999 });
 
         if (messages.length > 0) {
@@ -198,7 +181,7 @@ export async function startWhatsApp() {
         '--disable-gpu'
       ]
     },
-    protocolTimeout: 180000  // 3 minutos para descargas lentas
+    protocolTimeout: 600000  // 10 minutos: scroll-back completo de chats grandes puede tardar
   });
 
   client.on('qr', (qr) => {
