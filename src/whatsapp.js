@@ -9,7 +9,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const HISTORY_FLAG = path.join(__dirname, '..', 'conversations', '.history_downloaded');
 
-const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968', 'Karem', 'Hanani_Herrera', '211552993050832', 'Ibrahim_Gatito_WS']);
+const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968', 'Karem', 'Hanani_Herrera', '211552993050832', 'Ibrahim_Gatito_WS', 'Rafael_Procurador_DIF', 'Gersom', 'Nora_Herrera']);
 
 async function downloadMediaWithTimeout(msg, timeoutMs = 30000) {
   return Promise.race([
@@ -23,7 +23,7 @@ async function downloadMediaWithTimeout(msg, timeoutMs = 30000) {
 async function loadAllMessages(client, chat) {
   let hasMore = true;
   let iterations = 0;
-  const MAX_ITERATIONS = 200;
+  const MAX_ITERATIONS = 5000;
   while (hasMore && iterations < MAX_ITERATIONS) {
     hasMore = await client.pupPage.evaluate(async (chatId) => {
       try {
@@ -73,12 +73,9 @@ async function downloadHistoryOnce(client) {
       folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
 
       try {
-        if (FULL_HISTORY_CHATS.has(folderName)) {
-          console.log(`  ⏳ Cargando historial completo de ${folderName}...`);
-          await loadAllMessages(client, chat);
-        }
-        const limit = FULL_HISTORY_CHATS.has(folderName) ? 99999 : 100;
-        const messages = await chat.fetchMessages({ limit });
+        console.log(`  ⏳ [${i + 1}/${chats.length}] Cargando ${folderName}...`);
+        await loadAllMessages(client, chat);
+        const messages = await chat.fetchMessages({ limit: 99999 });
 
         if (messages.length > 0) {
           console.log(`  [${i + 1}/${chats.length}] 📁 ${folderName}: ${messages.length} mensajes`);
