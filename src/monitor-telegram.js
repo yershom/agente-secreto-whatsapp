@@ -179,7 +179,7 @@ async function main() {
     console.log(`  - ${chatFile} (desde byte ${state.position})`);
     watchChat(chatFile);
   }
-  console.log('[monitor] Palabras clave en línea: Psic, Candy, Yo (sin distinguir mayúsculas)');
+  console.log('[monitor] Notificando cada línea nueva (sin filtro de palabras clave)');
   console.log('[monitor] Solo líneas nuevas desde ahora');
 
   setInterval(readAll, POLL_MS);
