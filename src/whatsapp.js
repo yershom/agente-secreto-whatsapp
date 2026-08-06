@@ -1,5 +1,5 @@
 import pkg from 'whatsapp-web.js';
-const { Client, LocalAuth } = pkg;
+const { Client, LocalAuth, Message } = pkg;
 import qrcode from 'qrcode-terminal';
 import { saveMessage, saveAttachment, backupChat, deduplicateChat } from './storage.js';
 import path from 'path';
@@ -20,19 +20,12 @@ async function downloadMediaWithTimeout(msg, timeoutMs = 30000) {
   ]);
 }
 
-// getChats() hace Promise.all(chats.map(getChatModel)): si UN solo chat no serializa,
-// se rechaza todo con el error minificado "r". Fallback: enumerar IDs directamente de la
-// colección interna (WAWebCollections.Chat en wa-web.js 1.34.x) y cargar cada chat
-// individualmente con getChatById, saltando solo los que fallen.
-async function getChatsResilient(client) {
-  try {
-    return await client.getChats();
-  } catch (e) {
-    console.log(`  ⚠️  getChats() falló (${e?.message || String(e)}). Enumerando chats individualmente...`);
-  }
-
-  const ids = await client.pupPage.evaluate(() => {
-    // Accessor correcto en wa-web.js 1.34.x; window.Store.Chat como respaldo para versiones viejas
+// Enumera los IDs de todos los chats directamente de la colección interna.
+// client.getChats() no sirve: hace Promise.all(chats.map(getChatModel)) y si UN solo
+// chat no serializa, rechaza todo con el error minificado "r".
+async function enumerateChatIds(client) {
+  return client.pupPage.evaluate(() => {
+    // Accessor de wa-web.js 1.34.x; window.Store.Chat como respaldo para versiones viejas
     try {
       return window.require('WAWebCollections').Chat.getModelsArray().map(c => c.id._serialized);
     } catch (e) {
@@ -43,15 +36,51 @@ async function getChatsResilient(client) {
       }
     }
   });
+}
 
-  console.log(`  📇 ${ids.length} IDs de chat encontrados. Cargando individualmente...`);
-  const chats = [];
-  for (const id of ids) {
-    const chat = await client.getChatById(id).catch(() => null);
-    if (chat) chats.push(chat);
-    else console.log(`  ⏭️  Chat omitido (no serializable): ${id}`);
-  }
-  return chats;
+// Descarga el historial completo de un chat SIN pasar por getChatModel (que truena en
+// grupos @g.us y contactos @lid por groupMetadata.update()/toPn). Replica la lógica de
+// Chat.fetchMessages tomando el chatId directo y reconstruye objetos Message para que
+// la descarga de media siga funcionando. Devuelve { info, messages } o null.
+async function fetchChatHistory(client, chatId, limit = 99999) {
+  const result = await client.pupPage.evaluate(async (chatId, limit) => {
+    const msgFilter = (m) => !m.isNotification;
+    let chat;
+    try {
+      chat = await window.WWebJS.getChat(chatId, { getAsModel: false });
+    } catch (e) {
+      return null;
+    }
+    if (!chat || !chat.msgs) return null;
+
+    let msgs = chat.msgs.getModelsArray().filter(msgFilter);
+    while (msgs.length < limit) {
+      let loaded;
+      try {
+        loaded = await window.require('WAWebChatLoadMessages').loadEarlierMsgs({ chat });
+      } catch (e) {
+        break;
+      }
+      if (!loaded || !loaded.length) break;
+      msgs = [...loaded.filter(msgFilter), ...msgs];
+    }
+    if (msgs.length > limit) {
+      msgs.sort((a, b) => (a.t > b.t ? 1 : -1));
+      msgs = msgs.splice(msgs.length - limit);
+    }
+
+    const info = {
+      isGroup: !!chat.groupMetadata || /@g\.us$/.test(chatId),
+      name: chat.formattedTitle || chat.name || null,
+    };
+    return { info, messages: msgs.map((m) => window.WWebJS.getMessageModel(m)) };
+  }, chatId, limit);
+
+  if (!result) return null;
+  return {
+    info: result.info,
+    messages: result.messages.map((m) => new Message(client, m)),
+  };
 }
 
 async function downloadHistoryOnce(client) {
@@ -72,65 +101,65 @@ async function downloadHistoryOnce(client) {
     console.log('⏳ Esperando inicialización del Store de WhatsApp...');
     await new Promise(r => setTimeout(r, 5000));
 
-    const chats = await getChatsResilient(client);
-    console.log(`📊 Encontrados ${chats.length} chats. Descargando historial...`);
+    const chatIds = await enumerateChatIds(client);
+    console.log(`📊 Encontrados ${chatIds.length} chats. Descargando historial...`);
     console.log('⏱️  Esto puede tomar bastante tiempo...\n');
 
-    for (let i = 0; i < chats.length; i++) {
-      const chat = chats[i];
-      let folderName;
-
-      if (chat.isGroup) {
-        folderName = chat.name || chat.id._serialized.split('@')[0];
-      } else {
-        const contact = await chat.getContact().catch(() => null);
-        folderName = contact?.name || chat.id._serialized.split('@')[0];
-      }
-
-      folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
-
+    for (let i = 0; i < chatIds.length; i++) {
+      const chatId = chatIds[i];
       try {
-        console.log(`  ⏳ [${i + 1}/${chats.length}] Cargando ${folderName}...`);
-        // fetchMessages con límite alto hace el scroll-back completo internamente
-        const messages = await chat.fetchMessages({ limit: 99999 });
-
-        if (messages.length > 0) {
-          console.log(`  [${i + 1}/${chats.length}] 📁 ${folderName}: ${messages.length} mensajes`);
-
-          // Guardar en orden (más antiguos primero)
-          for (const msg of messages.reverse()) {
-            try {
-              const contact = await msg.getContact();
-              const sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
-              const text = msg.body || '[Archivo adjunto]';
-
-              saveMessage(folderName, sender, text, msg.timestamp);
-
-              if (msg.hasMedia) {
-                try {
-                  const media = await downloadMediaWithTimeout(msg);
-                  if (media) {
-                    const ext = media.mimetype ? media.mimetype.split('/')[1] : 'bin';
-                    const filename = media.filename || `${msg.timestamp || Date.now()}.${ext}`;
-                    await saveAttachment(folderName, filename, Buffer.from(media.data, 'base64'));
-                  }
-                } catch (e) {
-                  // Ignorar errores de adjuntos individuales del historial
-                }
-              }
-            } catch (e) {
-              // Ignorar errores de mensajes individuales
-            }
-          }
-          deduplicateChat(folderName);
+        const res = await fetchChatHistory(client, chatId, 99999);
+        if (!res) {
+          console.log(`  ⏭️  [${i + 1}/${chatIds.length}] ${chatId}: sin datos`);
+          continue;
         }
+
+        const rawName = res.info.name || chatId.split('@')[0];
+        const folderName = rawName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
+        const messages = res.messages;
+
+        if (messages.length === 0) {
+          console.log(`  ▫️  [${i + 1}/${chatIds.length}] ${folderName}: 0 mensajes`);
+          continue;
+        }
+
+        console.log(`  📁 [${i + 1}/${chatIds.length}] ${folderName}: ${messages.length} mensajes`);
+
+        // fetchMessages devuelve del más antiguo al más reciente
+        for (const msg of messages) {
+          try {
+            // Nombre del remitente sin round-trip por mensaje: pushname del modelo, o número
+            const sender = msg.fromMe
+              ? 'Yo'
+              : (msg._data?.notifyName || (msg.author || msg.from || '').split('@')[0] || 'Desconocido');
+            const text = msg.body || '[Archivo adjunto]';
+
+            saveMessage(folderName, sender, text, msg.timestamp);
+
+            if (msg.hasMedia) {
+              try {
+                const media = await downloadMediaWithTimeout(msg);
+                if (media) {
+                  const ext = media.mimetype ? media.mimetype.split('/')[1] : 'bin';
+                  const filename = media.filename || `${msg.timestamp || Date.now()}.${ext}`;
+                  await saveAttachment(folderName, filename, Buffer.from(media.data, 'base64'));
+                }
+              } catch (e) {
+                // Ignorar errores de adjuntos individuales del historial
+              }
+            }
+          } catch (e) {
+            // Ignorar errores de mensajes individuales
+          }
+        }
+        deduplicateChat(folderName);
       } catch (e) {
-        console.warn(`  ⚠️  ${folderName}: ${e.message}`);
+        console.warn(`  ⚠️  [${i + 1}/${chatIds.length}] ${chatId}: ${e?.message || String(e)}`);
         // Continuar con siguiente chat
       }
     }
 
-    if (chats.length > 0) {
+    if (chatIds.length > 0) {
       fs.writeFileSync(HISTORY_FLAG, new Date().toISOString());
       console.log('\n✓ Descarga de historial completada');
     } else {
