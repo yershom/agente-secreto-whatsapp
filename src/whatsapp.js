@@ -11,6 +11,11 @@ const HISTORY_FLAG = path.join(__dirname, '..', 'conversations', '.history_downl
 
 const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968', 'Karem', 'Hanani_Herrera', '211552993050832', 'Ibrahim_Gatito_WS', 'Rafael_Procurador_DIF', 'Gersom', 'Nora_Herrera']);
 
+// Fija la versión de WhatsApp Web para evitar el desfase que rompe la descarga de media
+// (downloadAndMaybeDecrypt lanza "r" contra el WhatsApp Web más nuevo). Se puede cambiar sin
+// reconstruir la imagen definiendo WA_WEB_VERSION en .env. Vacío ('none'/'') = comportamiento por defecto.
+const WA_WEB_VERSION = process.env.WA_WEB_VERSION ?? '2.3000.1040981384-alpha';
+
 async function downloadMediaWithTimeout(msg, timeoutMs = 30000) {
   return Promise.race([
     msg.downloadMedia(),
@@ -209,10 +214,30 @@ export async function startWhatsApp() {
   const authDataPath = path.join(__dirname, '..', 'auth_info');
   cleanChromiumLocks(authDataPath);
 
+  // Pin de versión web (opcional). Con strict:false, si no puede cargar la versión fijada
+  // cae a la última — nunca deja la app sin arrancar.
+  const usePin = WA_WEB_VERSION && !['none', 'latest', ''].includes(WA_WEB_VERSION.toLowerCase());
+  if (usePin) {
+    console.log(`📌 Fijando WhatsApp Web a la versión ${WA_WEB_VERSION}`);
+  } else {
+    console.log('📌 Usando la última versión de WhatsApp Web (sin pin)');
+  }
+  const webVersionOptions = usePin
+    ? {
+        webVersion: WA_WEB_VERSION,
+        webVersionCache: {
+          type: 'remote',
+          remotePath: 'https://raw.githubusercontent.com/wppconnect-team/wa-version/main/html/{version}.html',
+          strict: false,
+        },
+      }
+    : {};
+
   const client = new Client({
     authStrategy: new LocalAuth({
       dataPath: authDataPath
     }),
+    ...webVersionOptions,
     puppeteer: {
       headless: true,
       executablePath: '/usr/bin/chromium',  // Usar Chromium del sistema

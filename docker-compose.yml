@@ -13,6 +13,8 @@ services:
       - ./logs:/app/logs
       - ./.wwebjs_cache:/app/.wwebjs_cache
       - ./.env:/app/.env:ro
+    env_file:
+      - .env
     environment:
       - NODE_ENV=production
       - PORT=3000
