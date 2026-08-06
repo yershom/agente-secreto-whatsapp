@@ -55,9 +55,22 @@ async function downloadHistoryOnce(client) {
     }
     console.log('💾 Backup de conversaciones existentes completado.');
 
-    const chats = await client.getChats();
+    console.log('⏳ Esperando inicialización del Store de WhatsApp...');
+    await new Promise(r => setTimeout(r, 5000));
+
+    let chats;
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      try {
+        chats = await client.getChats();
+        break;
+      } catch (e) {
+        if (attempt === 3) throw e;
+        console.log(`  ↩️  getChats() falló (${e?.message || String(e)}), reintento ${attempt}/3 en 10s...`);
+        await new Promise(r => setTimeout(r, 10000));
+      }
+    }
     console.log(`📊 Encontrados ${chats.length} chats. Descargando historial...`);
-    console.log('⏱️  Esto puede tomar unos minutos...\n');
+    console.log('⏱️  Esto puede tomar bastante tiempo...\n');
 
     for (let i = 0; i < chats.length; i++) {
       const chat = chats[i];
@@ -66,8 +79,8 @@ async function downloadHistoryOnce(client) {
       if (chat.isGroup) {
         folderName = chat.name || chat.id._serialized.split('@')[0];
       } else {
-        const contact = await chat.getContact();
-        folderName = contact.name || chat.id._serialized.split('@')[0];
+        const contact = await chat.getContact().catch(() => null);
+        folderName = contact?.name || chat.id._serialized.split('@')[0];
       }
 
       folderName = folderName.trim().replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 50);
@@ -116,7 +129,7 @@ async function downloadHistoryOnce(client) {
     fs.writeFileSync(HISTORY_FLAG, new Date().toISOString());
     console.log('\n✓ Descarga de historial completada');
   } catch (error) {
-    console.warn('⚠️  Aviso descargando historial:', error.message);
+    console.warn('⚠️  Aviso descargando historial:', error?.message || String(error));
     console.log('Continuando sin historial completo...\n');
   }
 }
@@ -181,25 +194,25 @@ export async function startWhatsApp() {
 
   client.on('message_create', async (msg) => {
     try {
-      const contact = await msg.getContact();
-      const chat = await msg.getChat();
+      const contact = await msg.getContact().catch(() => null);
+      const chat = await msg.getChat().catch(() => null);
 
-      const isStatus = chat.id._serialized.includes('status@broadcast');
+      const isStatus = chat?.id?._serialized?.includes('status@broadcast') ?? false;
 
       // Detectar si es un grupo
-      const isGroup = chat.isGroup;
+      const isGroup = chat?.isGroup ?? false;
       let folderName;
       let sender;
 
       if (isGroup) {
         // En grupos: usar nombre del grupo
-        folderName = chat.name || msg.from.split('@')[0];
-        sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
+        folderName = chat?.name || msg.from.split('@')[0];
+        sender = msg.fromMe ? 'Yo' : contact?.name || msg.from.split('@')[0];
       } else {
         // En chats 1a1: siempre usar el contacto del chat (el "otro"), no el del mensaje
-        const chatContact = await chat.getContact();
-        folderName = chatContact.name || chat.id._serialized.split('@')[0];
-        sender = msg.fromMe ? 'Yo' : contact.name || msg.from.split('@')[0];
+        const chatContact = chat ? await chat.getContact().catch(() => null) : null;
+        folderName = chatContact?.name || contact?.name || msg.from.split('@')[0];
+        sender = msg.fromMe ? 'Yo' : contact?.name || msg.from.split('@')[0];
       }
 
       // Limpiar nombre de carpeta
@@ -247,7 +260,7 @@ export async function startWhatsApp() {
         }
       }
     } catch (e) {
-      console.error('Error procesando mensaje:', e.message);
+      console.error('Error procesando mensaje:', e?.message || String(e));
     }
   });
 
