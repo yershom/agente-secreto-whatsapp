@@ -23,7 +23,9 @@ RUN mkdir -p conversations auth_info .wwebjs_cache && \
 
 # Create non-root user
 RUN useradd -m -u 1001 agente && chown -R agente:agente /app
-USER agente
 
-# Start application
-CMD ["npm", "start"]
+# Entrypoint fixes bind-mount permissions (auto-created by Docker as root) then drops to agente
+COPY entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+
+CMD ["/entrypoint.sh"]
