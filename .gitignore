@@ -12,6 +12,10 @@ conversations/**/attachments/
 conversations/.history_downloaded
 conversations/photos/
 auth_info/
+conversations_phone2/**/attachments/
+conversations_phone2/.history_downloaded
+conversations_phone2/photos/
+auth_info_phone2/
 .wwebjs_cache/
 .vscode/
 .idea/
