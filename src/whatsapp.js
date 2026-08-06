@@ -11,10 +11,11 @@ const HISTORY_FLAG = path.join(__dirname, '..', 'conversations', '.history_downl
 
 const FULL_HISTORY_CHATS = new Set(['Candy', 'Psic_logo_Aras', '_52_734_141_1968', 'Karem', 'Hanani_Herrera', '211552993050832', 'Ibrahim_Gatito_WS', 'Rafael_Procurador_DIF', 'Gersom', 'Nora_Herrera']);
 
-// Fija la versión de WhatsApp Web para evitar el desfase que rompe la descarga de media
-// (downloadAndMaybeDecrypt lanza "r" contra el WhatsApp Web más nuevo). Se puede cambiar sin
-// reconstruir la imagen definiendo WA_WEB_VERSION en .env. Vacío ('none'/'') = comportamiento por defecto.
-const WA_WEB_VERSION = process.env.WA_WEB_VERSION ?? '2.3000.1040981384-alpha';
+// Pin de versión de WhatsApp Web (OPT-IN, desactivado por defecto). Se probó para arreglar la
+// descarga de media, pero las versiones viejas compatibles con la librería son rechazadas por
+// WhatsApp (navegación forzada) y las nuevas rompen igual. Se deja como palanca configurable:
+// define WA_WEB_VERSION=<version> en .env para fijarla. Por defecto 'none' = sin pin.
+const WA_WEB_VERSION = process.env.WA_WEB_VERSION ?? 'none';
 
 async function downloadMediaWithTimeout(msg, timeoutMs = 30000) {
   return Promise.race([
