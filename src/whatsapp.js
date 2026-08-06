@@ -44,7 +44,8 @@ async function enumerateChatIds(client) {
 // la descarga de media siga funcionando. Devuelve { info, messages } o null.
 async function fetchChatHistory(client, chatId, limit = 99999) {
   const result = await client.pupPage.evaluate(async (chatId, limit) => {
-    const msgFilter = (m) => !m.isNotification;
+    // Descartar notificaciones de sistema, PERO conservar los registros de llamada (call_log)
+    const msgFilter = (m) => !m.isNotification || m.type === 'call_log';
     let chat;
     try {
       chat = await window.WWebJS.getChat(chatId, { getAsModel: false });
@@ -128,6 +129,18 @@ async function downloadHistoryOnce(client) {
         // fetchMessages devuelve del más antiguo al más reciente
         for (const msg of messages) {
           try {
+            // Registros de llamada del historial (call_log): formatear como en tiempo real
+            if (msg.type === 'call_log') {
+              const sub = (msg._data?.subtype || '').toLowerCase();
+              const isVideo = sub.includes('video') || /video/i.test(msg.body || '');
+              const callType = isVideo ? 'VIDEOLLAMADA' : 'LLAMADA';
+              const direction = msg.fromMe ? 'saliente' : 'entrante';
+              const status = sub.includes('miss') ? ' perdida' : '';
+              const dur = msg.body ? ` - ${msg.body}` : '';
+              saveMessage(folderName, 'LLAMADA', `[${callType} ${direction}${status}${dur}]`, msg.timestamp);
+              continue;
+            }
+
             // Nombre del remitente sin round-trip por mensaje: pushname del modelo, o número
             const sender = msg.fromMe
               ? 'Yo'
