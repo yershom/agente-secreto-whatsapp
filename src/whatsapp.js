@@ -305,7 +305,9 @@ export async function startWhatsApp() {
               console.log(`📎 Adjunto guardado en ${folderName}: ${filename}`);
             }
           } catch (e) {
-            console.log(`⚠️ No se pudo descargar adjunto en ${folderName}: ${e.message}`);
+            // El error "r" minificado suele ser media que WhatsApp ya no entrega
+            // (media antigua/expirada, común tras re-vincular). El texto ya quedó registrado.
+            console.log(`⚠️ Media no disponible en ${folderName} (${msg.type}) — ${e?.message || String(e)}`);
           }
         }
       }
