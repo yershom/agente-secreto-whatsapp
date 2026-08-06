@@ -281,13 +281,17 @@ export async function startWhatsApp() {
       let sender;
 
       if (isGroup) {
-        // En grupos: usar nombre del grupo
-        folderName = chat?.name || msg.from.split('@')[0];
-        sender = msg.fromMe ? 'Yo' : contact?.name || msg.from.split('@')[0];
+        // En grupos: la carpeta es el grupo; el remitente es quien escribió (msg.author en grupos)
+        folderName = chat?.name || (chat?.id?._serialized || msg.from).split('@')[0];
+        sender = msg.fromMe ? 'Yo' : contact?.name || (msg.author || msg.from).split('@')[0];
       } else {
-        // En chats 1a1: siempre usar el contacto del chat (el "otro"), no el del mensaje
+        // En chats 1a1: la carpeta es SIEMPRE "el otro" — el destinatario si el mensaje es mío
+        // (msg.to), o el remitente si es entrante (msg.from). NO usar msg.from cuando es fromMe:
+        // ahí msg.from es uno mismo y el mensaje terminaría en la carpeta equivocada.
         const chatContact = chat ? await chat.getContact().catch(() => null) : null;
-        folderName = chatContact?.name || contact?.name || msg.from.split('@')[0];
+        const otherId = chat?.id?._serialized || (msg.fromMe ? msg.to : msg.from) || msg.from;
+        const otherName = chatContact?.name || (msg.fromMe ? null : contact?.name);
+        folderName = otherName || otherId.split('@')[0];
         sender = msg.fromMe ? 'Yo' : contact?.name || msg.from.split('@')[0];
       }
 
