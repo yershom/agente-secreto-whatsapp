@@ -40,6 +40,37 @@ async function loadAllMessages(client, chat) {
   }
 }
 
+// getChats() mapea todos los chats de golpe: si uno solo no serializa, revienta todo.
+// Fallback: enumerar IDs desde el Store y cargar cada chat individualmente, saltando los que fallen.
+async function getChatsResilient(client) {
+  try {
+    return await client.getChats();
+  } catch (e) {
+    console.log(`  ⚠️  getChats() falló (${e?.message || String(e)}). Enumerando chats individualmente...`);
+  }
+
+  const ids = await client.pupPage.evaluate(() => {
+    try {
+      const store = window.Store.Chat;
+      const arr = typeof store.getModelsArray === 'function'
+        ? store.getModelsArray()
+        : (store.models || []);
+      return arr.map(c => c.id._serialized);
+    } catch (e) {
+      return [];
+    }
+  });
+
+  console.log(`  📇 ${ids.length} IDs de chat encontrados. Cargando individualmente...`);
+  const chats = [];
+  for (const id of ids) {
+    const chat = await client.getChatById(id).catch(() => null);
+    if (chat) chats.push(chat);
+    else console.log(`  ⏭️  Chat omitido (no serializable): ${id}`);
+  }
+  return chats;
+}
+
 async function downloadHistoryOnce(client) {
   if (fs.existsSync(HISTORY_FLAG)) {
     console.log('📋 Historial ya descargado anteriormente. Saltando...\n');
@@ -58,17 +89,7 @@ async function downloadHistoryOnce(client) {
     console.log('⏳ Esperando inicialización del Store de WhatsApp...');
     await new Promise(r => setTimeout(r, 5000));
 
-    let chats;
-    for (let attempt = 1; attempt <= 3; attempt++) {
-      try {
-        chats = await client.getChats();
-        break;
-      } catch (e) {
-        if (attempt === 3) throw e;
-        console.log(`  ↩️  getChats() falló (${e?.message || String(e)}), reintento ${attempt}/3 en 10s...`);
-        await new Promise(r => setTimeout(r, 10000));
-      }
-    }
+    const chats = await getChatsResilient(client);
     console.log(`📊 Encontrados ${chats.length} chats. Descargando historial...`);
     console.log('⏱️  Esto puede tomar bastante tiempo...\n');
 
@@ -126,8 +147,12 @@ async function downloadHistoryOnce(client) {
       }
     }
 
-    fs.writeFileSync(HISTORY_FLAG, new Date().toISOString());
-    console.log('\n✓ Descarga de historial completada');
+    if (chats.length > 0) {
+      fs.writeFileSync(HISTORY_FLAG, new Date().toISOString());
+      console.log('\n✓ Descarga de historial completada');
+    } else {
+      console.warn('\n⚠️  No se pudo obtener ningún chat. No se marca el historial como descargado; se reintentará al reiniciar.');
+    }
   } catch (error) {
     console.warn('⚠️  Aviso descargando historial:', error?.message || String(error));
     console.log('Continuando sin historial completo...\n');
